@@ -1,7 +1,7 @@
 🕘️更新时间,#genre#
-2026-05-25 17:13:37,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-05-26 10:05:43,http://74.91.26.218:82/live/cctv1hd.m3u8
 
-📺央视频道2,#genre#
+📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
@@ -10,4 +10,7 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
-📡卫视频道1,#genre#
+📡卫视频道,#genre#
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
