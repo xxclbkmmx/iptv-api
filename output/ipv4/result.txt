@@ -1,17 +1,54 @@
 🕘️更新时间,#genre#
-2026-05-26 10:19:48,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-05-26 13:49:28,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5+,http://192.151.150.154/live/cctv5p.m3u8
+CCTV-9,http://207.56.13.146:81/cdnlive/cctv9.m3u8
+CCTV-10,http://207.56.13.146:81/cdnlive/cctv10.m3u8
+CCTV-11,http://207.56.13.146:81/cdnlive/cctv11.m3u8
+CCTV-12,http://207.56.13.146:81/cdnlive/cctv12.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-14,http://207.56.13.146:81/cdnlive/cctv14.m3u8
+CCTV-15,http://207.56.13.146:81/cdnlive/cctv15.m3u8
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 📡卫视频道,#genre#
+广东卫视,http://207.56.13.146:81/cdnlive/gdws.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,http://207.56.13.146:81/cdnlive/zjws.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://207.56.13.146:81/cdnlive/bjws.m3u8
+湖北卫视,http://207.56.13.146:81/cdnlive/hbws.m3u8
+黑龙江卫视,http://207.56.13.146:81/cdnlive/hljws.m3u8
+安徽卫视,http://207.56.13.146:81/cdnlive/ahws.m3u8
+重庆卫视,http://207.56.13.146:81/cdnlive/cqws.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+东南卫视,http://207.56.13.146:81/cdnlive/dnws.m3u8
+甘肃卫视,http://207.56.13.146:81/cdnlive/gsws.m3u8
+广西卫视,http://207.56.13.146:81/cdnlive/gxws.m3u8
+贵州卫视,http://207.56.13.146:81/cdnlive/gzws.m3u8
+海南卫视,http://207.56.13.146:81/cdnlive/lyws.m3u8
+河北卫视,http://207.56.13.146:81/cdnlive/hews.m3u8
+河南卫视,http://207.56.13.146:81/cdnlive/haws.m3u8
+吉林卫视,http://207.56.13.146:81/cdnlive/jlws.m3u8
+江苏卫视,http://207.56.13.146:81/cdnlive/jsws.m3u8
+江西卫视,http://207.56.13.146:81/cdnlive/jxws.m3u8
+辽宁卫视,http://207.56.13.146:81/cdnlive/lnws.m3u8
+内蒙古卫视,http://207.56.13.146:81/cdnlive/nmgws.m3u8
+宁夏卫视,http://207.56.13.146:81/cdnlive/nxws.m3u8
+青海卫视,http://207.56.13.146:81/cdnlive/qhws.m3u8
+山东卫视,http://207.56.13.146:81/cdnlive/sdws.m3u8
+山西卫视,http://207.56.13.146:81/cdnlive/sxws.m3u8
+陕西卫视,http://207.56.13.146:81/cdnlive/snws.m3u8
+四川卫视,http://207.56.13.146:81/cdnlive/scws.m3u8
+深圳卫视,http://207.56.13.146:81/cdnlive/szws.m3u8
+天津卫视,http://207.56.13.146:81/cdnlive/tjws.m3u8
+西藏卫视,http://207.56.13.146:81/cdnlive/xzws.m3u8
+新疆卫视,http://207.56.13.146:81/cdnlive/xjws.m3u8
+云南卫视,http://207.56.13.146:81/cdnlive/ynws.m3u8
