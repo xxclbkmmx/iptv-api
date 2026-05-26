@@ -1,4 +1,4 @@
-📺央视频道2,#genre#
+📺央视频道,#genre#
 CCTV-1
 CCTV-2
 CCTV-3
@@ -22,7 +22,7 @@ CETV-2
 CETV-3
 CETV-4
 
-📡卫视频道1,#genre#
+📡卫视频道,#genre#
 广东卫视
 香港卫视
 浙江卫视
