@@ -7,26 +7,9 @@
 # 官方TV
 # gitHubIptv
 # 咖啡伴侣
-https://bit.ly/iptv-aptv
-https://live.zbds.top/tv/iptv4.m3u
-https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u
-
 # YanG
-https://iptv.yang-1989.eu.org/m3u/Gather.m3u
-
 # 库佬
-https://bit.ly/jsnzkpg
-
 # suxuang
-https://bit.ly/suxuang-v4
-
-https://iptv-org.github.io/iptv/countries/cn.m3u
-https://live.zbds.top/tv/iptv4.m3u
-https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
-https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
-
 # gh.aptv.app/https:/raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
 # https://cdn.jsdelivr.net/gh/Kimentanm/aptv@refs/heads/master/m3u/yqk.m3u
 # https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
@@ -38,9 +21,21 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
 # https://raw.githubusercontent.com/Kowloon-City/IPTV/main/ipv4.m3u
 # https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv.m3u
 # https://raw.githubusercontent.com/Guover/IPTV/main/IPTV.m3u
+https://bit.ly/iptv-aptv
+https://live.zbds.top/tv/iptv4.m3u
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u
+https://bit.ly/jsnzkpg
+https://bit.ly/suxuang-v4
+https://iptv-org.github.io/iptv/countries/cn.m3u
+https://live.zbds.top/tv/iptv4.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
+https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
+
+# https://iptv.yang-1989.eu.org/m3u/Gather.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
-
 https://bit.ly/jsnzkpg
