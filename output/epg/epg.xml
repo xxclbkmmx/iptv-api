@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260527082646 +0800">
+<tv date="20260527091851 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -5912,5 +5912,59 @@
 	</programme>
 	<programme channel="三沙卫视" start="20260527232000 +0800" stop="20260527235959 +0800">
 		<title lang="zh">巡航祖宗海</title>
+	</programme>
+	<channel id="动作电影">
+		<display-name lang="zh">动作电影</display-name>
+	</channel>
+	<programme channel="动作电影" start="20260527000000 +0800" stop="20260527002820 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="动作电影" start="20260527002820 +0800" stop="20260527020041 +0800">
+		<title lang="zh">昆仑神宫</title>
+	</programme>
+	<programme channel="动作电影" start="20260527020041 +0800" stop="20260527033658 +0800">
+		<title lang="zh">虎胆杀机</title>
+	</programme>
+	<programme channel="动作电影" start="20260527033658 +0800" stop="20260527053034 +0800">
+		<title lang="zh">涅槃神石</title>
+	</programme>
+	<programme channel="动作电影" start="20260527053034 +0800" stop="20260527065828 +0800">
+		<title lang="zh">冰川鲨鱼</title>
+	</programme>
+	<programme channel="动作电影" start="20260527065828 +0800" stop="20260527083001 +0800">
+		<title lang="zh">追击阿多丸号</title>
+	</programme>
+	<programme channel="动作电影" start="20260527083001 +0800" stop="20260527095659 +0800">
+		<title lang="zh">粉碎罪恶</title>
+	</programme>
+	<programme channel="动作电影" start="20260527095659 +0800" stop="20260527112357 +0800">
+		<title lang="zh">超级风暴</title>
+	</programme>
+	<programme channel="动作电影" start="20260527112357 +0800" stop="20260527131925 +0800">
+		<title lang="zh">决不放弃</title>
+	</programme>
+	<programme channel="动作电影" start="20260527131925 +0800" stop="20260527144413 +0800">
+		<title lang="zh">侠捕</title>
+	</programme>
+	<programme channel="动作电影" start="20260527144413 +0800" stop="20260527154938 +0800">
+		<title lang="zh">猎心之迷毒之罪</title>
+	</programme>
+	<programme channel="动作电影" start="20260527154938 +0800" stop="20260527171442 +0800">
+		<title lang="zh">黑色特警</title>
+	</programme>
+	<programme channel="动作电影" start="20260527171442 +0800" stop="20260527184237 +0800">
+		<title lang="zh">特别追踪</title>
+	</programme>
+	<programme channel="动作电影" start="20260527184237 +0800" stop="20260527200956 +0800">
+		<title lang="zh">红番区</title>
+	</programme>
+	<programme channel="动作电影" start="20260527200956 +0800" stop="20260527213549 +0800">
+		<title lang="zh">神偷谍影</title>
+	</programme>
+	<programme channel="动作电影" start="20260527213549 +0800" stop="20260527223905 +0800">
+		<title lang="zh">危情风云</title>
+	</programme>
+	<programme channel="动作电影" start="20260527223905 +0800" stop="20260527235959 +0800">
+		<title lang="zh">赴汤蹈火</title>
 	</programme>
 </tv>

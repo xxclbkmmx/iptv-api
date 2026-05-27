@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/xxclbkmmx/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-27 16:32:34
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-27 17:24:31
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
@@ -105,3 +105,43 @@ http://207.56.13.146:81/cdnlive/xzws.m3u8
 http://207.56.13.146:81/cdnlive/xjws.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南卫视.png" group-title="📡卫视频道",云南卫视
 http://207.56.13.146:81/cdnlive/ynws.m3u8
+#EXTINF:-1 tvg-id="扁豆看电影" tvg-name="扁豆看电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/扁豆看电影.png" group-title="🐯虎牙直播",扁豆看电影
+https://live.ottiptv.cc/huya/16028551
+#EXTINF:-1 tvg-id="斌哥漫说" tvg-name="斌哥漫说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/斌哥漫说.png" group-title="🐯虎牙直播",斌哥漫说
+https://live.ottiptv.cc/huya/18632116
+#EXTINF:-1 tvg-id="大象放映室" tvg-name="大象放映室" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大象放映室.png" group-title="🐯虎牙直播",大象放映室
+https://live.ottiptv.cc/huya/21277391
+#EXTINF:-1 tvg-id="武林外传" tvg-name="武林外传" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武林外传.png" group-title="🐯虎牙直播",武林外传
+https://lvbdcdncmn.inter.71edge.com/tslive/l1/c52_lb_553_300_t10/I67sb6wvoWaxfjPEdSuB8xyBShFln4Poub7LGIzPt5oGLcKaLXD21aR_t20nEIxJFmaf_i6EYQ77gA-gLJ3xOTtq6K7hpgCREwLfbuNMXruJdFta9-ai9bYk4cTMbhQgRh9SCkE3yt46X4E0qOVADDdga3TMRSLnFscFYr-_s4Sd2sgykmnFa4-hdgX9599FiW_RX5VYGH9B1jyj748_CAu4VgqqTDwxUx8w556tCWY7mlb1r84RWuip72e4H8-HkUuBUoFeD4aw9m1HOUfgwx7ixDqJUFOmq9F-LeKLTZ2Ap6fobRuaUiaSqHsCWvuy9XWe5KWBiZv6bUJ8oAuqkA/1a6758d872929c8d41a7629db52a831f7/c52_lb_553_300_t10.m3u8?key=0baa5db205ac0d29618a2e8d7964b7e4e&dis_t=1752408084&uuid=6f1d53dc-6873a014-459&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
+#EXTINF:-1 tvg-id="茶啊二中" tvg-name="茶啊二中" tvg-logo="https://www.xn--rgv465a.top/tvlogo/茶啊二中.png" group-title="🐯虎牙直播",茶啊二中
+http://live.nctv.top/douyu1.php?id=2925610
+#EXTINF:-1 tvg-id="阿斗归来了" tvg-name="阿斗归来了" tvg-logo="https://www.xn--rgv465a.top/tvlogo/阿斗归来了.png" group-title="🐯虎牙直播",阿斗归来了
+https://live.ottiptv.cc/huya/13303478
+#EXTINF:-1 tvg-id="阿良说美剧" tvg-name="阿良说美剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/阿良说美剧.png" group-title="🐯虎牙直播",阿良说美剧
+https://live.ottiptv.cc/huya/20488841
+#EXTINF:-1 tvg-id="陈翔六点半" tvg-name="陈翔六点半" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陈翔六点半.png" group-title="🐯虎牙直播",陈翔六点半
+https://live.ottiptv.cc/huya/11274154
+#EXTINF:-1 tvg-id="电影狂人A" tvg-name="电影狂人A" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影狂人A.png" group-title="🐯虎牙直播",电影狂人A
+https://live.ottiptv.cc/huya/18715610
+#EXTINF:-1 tvg-id="电影最TOP" tvg-name="电影最TOP" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影最TOP.png" group-title="🐯虎牙直播",电影最TOP
+https://live.ottiptv.cc/huya/11774959
+#EXTINF:-1 tvg-id="狗哥吃火锅" tvg-name="狗哥吃火锅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/狗哥吃火锅.png" group-title="🐯虎牙直播",狗哥吃火锅
+https://live.ottiptv.cc/huya/21059624
+#EXTINF:-1 tvg-id="悸动" tvg-name="悸动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/悸动.png" group-title="🐯虎牙直播",悸动
+https://live.ottiptv.cc/huya/28272846
+#EXTINF:-1 tvg-id="良少聊漫威" tvg-name="良少聊漫威" tvg-logo="https://www.xn--rgv465a.top/tvlogo/良少聊漫威.png" group-title="🐯虎牙直播",良少聊漫威
+https://live.ottiptv.cc/huya/25523725
+#EXTINF:-1 tvg-id="南西视频" tvg-name="南西视频" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南西视频.png" group-title="🐯虎牙直播",南西视频
+https://live.ottiptv.cc/huya/16913382
+#EXTINF:-1 tvg-id="吾聊电影" tvg-name="吾聊电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吾聊电影.png" group-title="🐯虎牙直播",吾聊电影
+https://live.ottiptv.cc/huya/16424416
+#EXTINF:-1 tvg-id="小丑讲电影" tvg-name="小丑讲电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小丑讲电影.png" group-title="🐯虎牙直播",小丑讲电影
+https://live.ottiptv.cc/huya/16857432
+#EXTINF:-1 tvg-id="音乐小石榴" tvg-name="音乐小石榴" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音乐小石榴.png" group-title="🐯虎牙直播",音乐小石榴
+https://live.ottiptv.cc/huya/17091681
+#EXTINF:-1 tvg-id="硬汉影探" tvg-name="硬汉影探" tvg-logo="https://www.xn--rgv465a.top/tvlogo/硬汉影探.png" group-title="🐯虎牙直播",硬汉影探
+https://live.ottiptv.cc/huya/24614407
+#EXTINF:-1 tvg-id="止戈电影" tvg-name="止戈电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/止戈电影.png" group-title="🐯虎牙直播",止戈电影
+https://live.ottiptv.cc/huya/19863777
+#EXTINF:-1 tvg-id="S哥影视" tvg-name="S哥影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/S哥影视.png" group-title="🐯虎牙直播",S哥影视
+https://live.ottiptv.cc/huya/24720260

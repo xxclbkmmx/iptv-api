@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-27 16:32:34,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
+2026-05-27 17:24:31,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
@@ -56,3 +56,27 @@ CCTV-17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
 西藏卫视,http://207.56.13.146:81/cdnlive/xzws.m3u8
 新疆卫视,http://207.56.13.146:81/cdnlive/xjws.m3u8
 云南卫视,http://207.56.13.146:81/cdnlive/ynws.m3u8
+
+🐯虎牙直播,#genre#
+扁豆看电影,https://live.ottiptv.cc/huya/16028551
+斌哥漫说,https://live.ottiptv.cc/huya/18632116
+大象放映室,https://live.ottiptv.cc/huya/21277391
+爱情公寓,https://live.ottiptv.cc/huya/11336726
+士兵突击,https://live.ottiptv.cc/huya/11342430
+武林外传,https://lvbdcdncmn.inter.71edge.com/tslive/l1/c52_lb_553_300_t10/I67sb6wvoWaxfjPEdSuB8xyBShFln4Poub7LGIzPt5oGLcKaLXD21aR_t20nEIxJFmaf_i6EYQ77gA-gLJ3xOTtq6K7hpgCREwLfbuNMXruJdFta9-ai9bYk4cTMbhQgRh9SCkE3yt46X4E0qOVADDdga3TMRSLnFscFYr-_s4Sd2sgykmnFa4-hdgX9599FiW_RX5VYGH9B1jyj748_CAu4VgqqTDwxUx8w556tCWY7mlb1r84RWuip72e4H8-HkUuBUoFeD4aw9m1HOUfgwx7ixDqJUFOmq9F-LeKLTZ2Ap6fobRuaUiaSqHsCWvuy9XWe5KWBiZv6bUJ8oAuqkA/1a6758d872929c8d41a7629db52a831f7/c52_lb_553_300_t10.m3u8?key=0baa5db205ac0d29618a2e8d7964b7e4e&dis_t=1752408084&uuid=6f1d53dc-6873a014-459&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
+茶啊二中,http://live.nctv.top/douyu1.php?id=2925610
+阿斗归来了,https://live.ottiptv.cc/huya/13303478
+阿良说美剧,https://live.ottiptv.cc/huya/20488841
+陈翔六点半,https://live.ottiptv.cc/huya/11274154
+电影狂人A,https://live.ottiptv.cc/huya/18715610
+电影最TOP,https://live.ottiptv.cc/huya/11774959
+狗哥吃火锅,https://live.ottiptv.cc/huya/21059624
+悸动,https://live.ottiptv.cc/huya/28272846
+良少聊漫威,https://live.ottiptv.cc/huya/25523725
+南西视频,https://live.ottiptv.cc/huya/16913382
+吾聊电影,https://live.ottiptv.cc/huya/16424416
+小丑讲电影,https://live.ottiptv.cc/huya/16857432
+音乐小石榴,https://live.ottiptv.cc/huya/17091681
+硬汉影探,https://live.ottiptv.cc/huya/24614407
+止戈电影,https://live.ottiptv.cc/huya/19863777
+S哥影视,https://live.ottiptv.cc/huya/24720260
