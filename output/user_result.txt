@@ -1,33 +1,34 @@
 🕘️更新时间,#genre#
-2026-05-28 10:01:02,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-05-28 10:10:27,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
 
 📺央视频道,#genre#
-CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
-CCTV-2,http://192.151.150.154/live/cctv2hd.m3u8
-CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV-4,http://192.151.150.154/live/cctv4hd.m3u8
-CCTV-5,http://192.151.150.154/live/cctv5hd.m3u8
-CCTV-5+,http://192.151.150.154/live/cctv5p.m3u8
-CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
-CCTV-7,http://192.151.150.154/live/cctv7hd.m3u8
-CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
-CCTV-9,http://207.56.13.146:81/cdnlive/cctv9.m3u8
-CCTV-10,http://192.151.150.154/live/cctv10hd.m3u8
-CCTV-11,http://207.56.13.146:81/cdnlive/cctv11.m3u8
-CCTV-12,http://207.56.13.146:81/cdnlive/cctv12.m3u8
-CCTV-13,http://192.151.150.154/live/cctv13hd.m3u8
-CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
-CCTV-16,http://192.151.150.154/live/cctv16hd.m3u8
-CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV-1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
+CCTV-2,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2
+CCTV-3,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv3
+CCTV-4,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv4
+CCTV-5,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5
+CCTV-5+,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5p
+CCTV-6,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6
+CCTV-7,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv7
+CCTV-8,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8
+CCTV-9,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv9
+CCTV-10,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv10
+CCTV-11,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv11
+CCTV-12,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv12
+CCTV-13,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv13
+CCTV-14,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv14
+CCTV-15,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15
+CCTV-16,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16
+CCTV-17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
 
 📡卫视频道,#genre#
 广东卫视,http://207.56.13.146:81/cdnlive/gdws.m3u8
+香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 浙江卫视,http://192.151.150.154/live/zjwshd.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 北京卫视,http://207.56.13.146:81/cdnlive/bjws.m3u8
 湖北卫视,http://207.56.13.146:81/cdnlive/hbws.m3u8
-黑龙江卫视,http://192.151.150.154/live/hljwshd.m3u8
+黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
 东方卫视,http://192.151.150.154/live/dfwshd.m3u8
@@ -62,6 +63,8 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 大象放映室,https://live.ottiptv.cc/huya/21277391
 爱情公寓,https://live.ottiptv.cc/huya/11336726
 士兵突击,https://live.ottiptv.cc/huya/11342430
+武林外传,https://lvbdcdncmn.inter.71edge.com/tslive/l1/c52_lb_553_300_t10/I67sb6wvoWaxfjPEdSuB8xyBShFln4Poub7LGIzPt5oGLcKaLXD21aR_t20nEIxJFmaf_i6EYQ77gA-gLJ3xOTtq6K7hpgCREwLfbuNMXruJdFta9-ai9bYk4cTMbhQgRh9SCkE3yt46X4E0qOVADDdga3TMRSLnFscFYr-_s4Sd2sgykmnFa4-hdgX9599FiW_RX5VYGH9B1jyj748_CAu4VgqqTDwxUx8w556tCWY7mlb1r84RWuip72e4H8-HkUuBUoFeD4aw9m1HOUfgwx7ixDqJUFOmq9F-LeKLTZ2Ap6fobRuaUiaSqHsCWvuy9XWe5KWBiZv6bUJ8oAuqkA/1a6758d872929c8d41a7629db52a831f7/c52_lb_553_300_t10.m3u8?key=0baa5db205ac0d29618a2e8d7964b7e4e&dis_t=1752408084&uuid=6f1d53dc-6873a014-459&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
+茶啊二中,http://live.nctv.top/douyu1.php?id=2925610
 阿斗归来了,https://live.ottiptv.cc/huya/13303478
 阿良说美剧,https://live.ottiptv.cc/huya/20488841
 陈翔六点半,https://live.ottiptv.cc/huya/11274154
