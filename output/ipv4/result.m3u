@@ -1,147 +1,1483 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/xxclbkmmx/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-28 10:10:27
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-28 10:29:38
+http://124.223.82.228:89/608807420
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
+http://124.223.82.228:89/608807420
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视频道",CCTV-2
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2
+http://124.223.82.228:89/631780532
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="📺央视频道",CCTV-3
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv3
+http://124.223.82.228:89/624878271
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视频道",CCTV-4
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv4
+http://124.223.82.228:89/631780421
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视频道",CCTV-5
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5
+http://124.223.82.228:89/641886683
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5p
+http://124.223.82.228:89/641886773
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视频道",CCTV-6
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6
+http://124.223.82.228:89/624878396
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="📺央视频道",CCTV-7
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv7
+http://124.223.82.228:89/673168121
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="📺央视频道",CCTV-8
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8
+http://124.223.82.228:89/624878356
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="📺央视频道",CCTV-9
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv9
+http://124.223.82.228:89/673168140
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="📺央视频道",CCTV-10
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv10
+http://124.223.82.228:89/624878405
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" group-title="📺央视频道",CCTV-11
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv11
+http://124.223.82.228:89/667987558
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" group-title="📺央视频道",CCTV-12
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv12
+http://124.223.82.228:89/673168185
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📺央视频道",CCTV-13
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv13
+http://124.223.82.228:89/608807423
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视频道",CCTV-14
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv14
+http://124.223.82.228:89/624878440
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="📺央视频道",CCTV-15
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15
+http://124.223.82.228:89/673168223
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="📺央视频道",CCTV-16
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="📺央视频道",CCTV-17
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
+http://124.223.82.228:89/673168256
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="📡卫视频道",广东卫视
-http://207.56.13.146:81/cdnlive/gdws.m3u8
+http://124.223.82.228:89/608831231
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="📡卫视频道",香港卫视
 https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://192.151.150.154/live/zjwshd.m3u8
+http://207.56.13.146:81/cdnlive/zjws.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
-http://192.151.150.154/live/hnwshd.m3u8
+http://207.56.13.146:81/cdnlive/hnws.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" group-title="📡卫视频道",北京卫视
-http://207.56.13.146:81/cdnlive/bjws.m3u8
+http://124.223.82.228:89/630287636
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
-http://207.56.13.146:81/cdnlive/hbws.m3u8
+http://124.223.82.228:89/947472496
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
-https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+http://207.56.13.146:81/cdnlive/hljws.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" group-title="📡卫视频道",安徽卫视
-http://192.151.150.154/live/ahwshd.m3u8
+http://207.56.13.146:81/cdnlive/ahws.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重庆卫视.png" group-title="📡卫视频道",重庆卫视
-http://192.151.150.154/live/cqwshd.m3u8
+http://207.56.13.146:81/cdnlive/cqws.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方卫视.png" group-title="📡卫视频道",东方卫视
-http://192.151.150.154/live/dfwshd.m3u8
+http://124.223.82.228:89/651632648
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东南卫视.png" group-title="📡卫视频道",东南卫视
-http://192.151.150.154/live/dnwshd.m3u8
+http://207.56.13.146:81/cdnlive/dnws.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
-http://192.151.150.154/live/gswshd.m3u8
+http://207.56.13.146:81/cdnlive/gsws.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西卫视.png" group-title="📡卫视频道",广西卫视
-http://192.151.150.154/live/gxwshd.m3u8
+http://207.56.13.146:81/cdnlive/gxws.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/贵州卫视.png" group-title="📡卫视频道",贵州卫视
-http://192.151.150.154/live/gzwshd.m3u8
+http://207.56.13.146:81/cdnlive/gzws.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南卫视.png" group-title="📡卫视频道",海南卫视
 http://207.56.13.146:81/cdnlive/lyws.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="📡卫视频道",河北卫视
-http://207.56.13.146:81/cdnlive/hews.m3u8
+http://124.223.82.228:89/962042070
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="📡卫视频道",河南卫视
-http://192.151.150.154/live/hawshd.m3u8
+http://207.56.13.146:81/cdnlive/haws.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://207.56.13.146:81/cdnlive/jlws.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" group-title="📡卫视频道",江苏卫视
-http://192.151.150.154/live/jswshd.m3u8
+http://124.223.82.228:89/623899368
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江西卫视.png" group-title="📡卫视频道",江西卫视
-http://192.151.150.154/live/jxwshd.m3u8
+http://124.223.82.228:89/783847495
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
-http://207.56.13.146:81/cdnlive/lnws.m3u8
+http://124.223.82.228:89/630291707
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
-http://192.151.150.154/live/nmgws.m3u8
+http://207.56.13.146:81/cdnlive/nmgws.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
-http://192.151.150.154/live/nxws.m3u8
+http://207.56.13.146:81/cdnlive/nxws.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青海卫视.png" group-title="📡卫视频道",青海卫视
 http://207.56.13.146:81/cdnlive/qhws.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" group-title="📡卫视频道",山东卫视
-http://192.151.150.154/live/sdwshd.m3u8
+http://207.56.13.146:81/cdnlive/sdws.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西卫视.png" group-title="📡卫视频道",山西卫视
-http://192.151.150.154/live/sxwshd.m3u8
+http://207.56.13.146:81/cdnlive/sxws.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西卫视.png" group-title="📡卫视频道",陕西卫视
-http://192.151.150.154/live/snwshd.m3u8
+http://124.223.82.228:89/738910838
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川卫视.png" group-title="📡卫视频道",四川卫视
 http://207.56.13.146:81/cdnlive/scws.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="📡卫视频道",深圳卫视
-http://192.151.150.154/live/szwshd.m3u8
+http://207.56.13.146:81/cdnlive/szws.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三沙卫视.png" group-title="📡卫视频道",三沙卫视
 http://192.151.150.154/live/ssws.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" group-title="📡卫视频道",天津卫视
-http://192.151.150.154/live/tjwshd.m3u8
+http://207.56.13.146:81/cdnlive/tjws.m3u8
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://207.56.13.146:81/cdnlive/xzws.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新疆卫视.png" group-title="📡卫视频道",新疆卫视
-http://192.151.150.154/live/xjws.m3u8
+http://207.56.13.146:81/cdnlive/xjws.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南卫视.png" group-title="📡卫视频道",云南卫视
-http://192.151.150.154/live/ynwshd.m3u8
+http://207.56.13.146:81/cdnlive/ynws.m3u8
+#EXTINF:-1 tvg-id="八点档" tvg-name="八点档" tvg-logo="https://www.xn--rgv465a.top/tvlogo/八点档.png" group-title="🐯虎牙直播",八点档
+http://107.173.156.246:81/live/huya/880261
+#EXTINF:-1 tvg-id="变形金刚" tvg-name="变形金刚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/变形金刚.png" group-title="🐯虎牙直播",变形金刚
+http://107.173.156.246:81/live/huya/21059596
+#EXTINF:-1 tvg-id="镖行天下" tvg-name="镖行天下" tvg-logo="https://www.xn--rgv465a.top/tvlogo/镖行天下.png" group-title="🐯虎牙直播",镖行天下
+http://107.173.156.246:81/live/huya/11352969
+#EXTINF:-1 tvg-id="不挤影院" tvg-name="不挤影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/不挤影院.png" group-title="🐯虎牙直播",不挤影院
+http://107.173.156.246:81/live/huya/11352897
+#EXTINF:-1 tvg-id="成龙" tvg-name="成龙" tvg-logo="https://www.xn--rgv465a.top/tvlogo/成龙.png" group-title="🐯虎牙直播",成龙
+http://107.173.156.246:81/live/huya/11342386
+#EXTINF:-1 tvg-id="盗墓" tvg-name="盗墓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/盗墓.png" group-title="🐯虎牙直播",盗墓
+http://107.173.156.246:81/live/huya/21059552
+#EXTINF:-1 tvg-id="谍战" tvg-name="谍战" tvg-logo="https://www.xn--rgv465a.top/tvlogo/谍战.png" group-title="🐯虎牙直播",谍战
+http://107.173.156.246:81/live/huya/21059585
+#EXTINF:-1 tvg-id="谍战片" tvg-name="谍战片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/谍战片.png" group-title="🐯虎牙直播",谍战片
+http://107.173.156.246:81/live/huya/21059587
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动作电影.png" group-title="🐯虎牙直播",动作电影
+http://107.173.156.246:81/live/huya/11602077
+#EXTINF:-1 tvg-id="发哥" tvg-name="发哥" tvg-logo="https://www.xn--rgv465a.top/tvlogo/发哥.png" group-title="🐯虎牙直播",发哥
+http://107.173.156.246:81/live/huya/11342387
+#EXTINF:-1 tvg-id="犯罪片" tvg-name="犯罪片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/犯罪片.png" group-title="🐯虎牙直播",犯罪片
+http://107.173.156.246:81/live/huya/11352974
+#EXTINF:-1 tvg-id="港片" tvg-name="港片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/港片.png" group-title="🐯虎牙直播",港片
+http://107.173.156.246:81/live/huya/11602043
+#EXTINF:-1 tvg-id="高分动作" tvg-name="高分动作" tvg-logo="https://www.xn--rgv465a.top/tvlogo/高分动作.png" group-title="🐯虎牙直播",高分动作
+http://107.173.156.246:81/live/huya/11352884
+#EXTINF:-1 tvg-id="高能反转" tvg-name="高能反转" tvg-logo="https://www.xn--rgv465a.top/tvlogo/高能反转.png" group-title="🐯虎牙直播",高能反转
+http://107.173.156.246:81/live/huya/11352887
+#EXTINF:-1 tvg-id="搞笑恐怖" tvg-name="搞笑恐怖" tvg-logo="https://www.xn--rgv465a.top/tvlogo/搞笑恐怖.png" group-title="🐯虎牙直播",搞笑恐怖
+http://107.173.156.246:81/live/huya/11601960
+#EXTINF:-1 tvg-id="搞笑喜剧" tvg-name="搞笑喜剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/搞笑喜剧.png" group-title="🐯虎牙直播",搞笑喜剧
+http://107.173.156.246:81/live/huya/11342423
+#EXTINF:-1 tvg-id="功夫片" tvg-name="功夫片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/功夫片.png" group-title="🐯虎牙直播",功夫片
+http://107.173.156.246:81/live/huya/11352941
+#EXTINF:-1 tvg-id="古墓系列" tvg-name="古墓系列" tvg-logo="https://www.xn--rgv465a.top/tvlogo/古墓系列.png" group-title="🐯虎牙直播",古墓系列
+http://107.173.156.246:81/live/huya/11352913
+#EXTINF:-1 tvg-id="古装片" tvg-name="古装片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/古装片.png" group-title="🐯虎牙直播",古装片
+http://107.173.156.246:81/live/huya/11336590
+#EXTINF:-1 tvg-id="怪兽" tvg-name="怪兽" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怪兽.png" group-title="🐯虎牙直播",怪兽
+http://107.173.156.246:81/live/huya/21059577
+#EXTINF:-1 tvg-id="怪兽系列" tvg-name="怪兽系列" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怪兽系列.png" group-title="🐯虎牙直播",怪兽系列
+http://107.173.156.246:81/live/huya/21059554
+#EXTINF:-1 tvg-id="国产" tvg-name="国产" tvg-logo="https://www.xn--rgv465a.top/tvlogo/国产.png" group-title="🐯虎牙直播",国产
+http://107.173.156.246:81/live/huya/11352973
+#EXTINF:-1 tvg-id="国产悬疑" tvg-name="国产悬疑" tvg-logo="https://www.xn--rgv465a.top/tvlogo/国产悬疑.png" group-title="🐯虎牙直播",国产悬疑
+http://107.173.156.246:81/live/huya/11342395
+#EXTINF:-1 tvg-id="海盗" tvg-name="海盗" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海盗.png" group-title="🐯虎牙直播",海盗
+http://107.173.156.246:81/live/huya/21059595
+#EXTINF:-1 tvg-id="贺岁" tvg-name="贺岁" tvg-logo="https://www.xn--rgv465a.top/tvlogo/贺岁.png" group-title="🐯虎牙直播",贺岁
+http://107.173.156.246:81/live/huya/11601971
+#EXTINF:-1 tvg-id="贺岁片" tvg-name="贺岁片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/贺岁片.png" group-title="🐯虎牙直播",贺岁片
+http://107.173.156.246:81/live/huya/11601986
+#EXTINF:-1 tvg-id="黑帮斗争" tvg-name="黑帮斗争" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑帮斗争.png" group-title="🐯虎牙直播",黑帮斗争
+http://107.173.156.246:81/live/huya/11342419
+#EXTINF:-1 tvg-id="黑帮片" tvg-name="黑帮片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑帮片.png" group-title="🐯虎牙直播",黑帮片
+http://107.173.156.246:81/live/huya/11336719
+#EXTINF:-1 tvg-id="洪金宝" tvg-name="洪金宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/洪金宝.png" group-title="🐯虎牙直播",洪金宝
+http://107.173.156.246:81/live/huya/11279251
+#EXTINF:-1 tvg-id="欢笑影院" tvg-name="欢笑影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/欢笑影院.png" group-title="🐯虎牙直播",欢笑影院
+http://107.173.156.246:81/live/huya/11352894
+#EXTINF:-1 tvg-id="黄渤" tvg-name="黄渤" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黄渤.png" group-title="🐯虎牙直播",黄渤
+http://107.173.156.246:81/live/huya/11352876
+#EXTINF:-1 tvg-id="经典港片" tvg-name="经典港片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经典港片.png" group-title="🐯虎牙直播",经典港片
+http://107.173.156.246:81/live/huya/11352965
+#EXTINF:-1 tvg-id="经典女神" tvg-name="经典女神" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经典女神.png" group-title="🐯虎牙直播",经典女神
+http://107.173.156.246:81/live/huya/11352909
+#EXTINF:-1 tvg-id="警匪" tvg-name="警匪" tvg-logo="https://www.xn--rgv465a.top/tvlogo/警匪.png" group-title="🐯虎牙直播",警匪
+http://107.173.156.246:81/live/huya/11352886
+#EXTINF:-1 tvg-id="救援" tvg-name="救援" tvg-logo="https://www.xn--rgv465a.top/tvlogo/救援.png" group-title="🐯虎牙直播",救援
+http://107.173.156.246:81/live/huya/21059594
+#EXTINF:-1 tvg-id="快意江湖" tvg-name="快意江湖" tvg-logo="https://www.xn--rgv465a.top/tvlogo/快意江湖.png" group-title="🐯虎牙直播",快意江湖
+http://107.173.156.246:81/live/huya/11342435
+#EXTINF:-1 tvg-id="李连杰" tvg-name="李连杰" tvg-logo="https://www.xn--rgv465a.top/tvlogo/李连杰.png" group-title="🐯虎牙直播",李连杰
+http://107.173.156.246:81/live/huya/11342390
+#EXTINF:-1 tvg-id="梁家辉" tvg-name="梁家辉" tvg-logo="https://www.xn--rgv465a.top/tvlogo/梁家辉.png" group-title="🐯虎牙直播",梁家辉
+http://107.173.156.246:81/live/huya/11342429
+#EXTINF:-1 tvg-id="刘德华" tvg-name="刘德华" tvg-logo="https://www.xn--rgv465a.top/tvlogo/刘德华.png" group-title="🐯虎牙直播",刘德华
+http://107.173.156.246:81/live/huya/11342424
+#EXTINF:-1 tvg-id="漫威" tvg-name="漫威" tvg-logo="https://www.xn--rgv465a.top/tvlogo/漫威.png" group-title="🐯虎牙直播",漫威
+http://107.173.156.246:81/live/huya/11602034
+#EXTINF:-1 tvg-id="蘑菇影厅" tvg-name="蘑菇影厅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蘑菇影厅.png" group-title="🐯虎牙直播",蘑菇影厅
+http://107.173.156.246:81/live/huya/11601981
+#EXTINF:-1 tvg-id="女神系列" tvg-name="女神系列" tvg-logo="https://www.xn--rgv465a.top/tvlogo/女神系列.png" group-title="🐯虎牙直播",女神系列
+http://107.173.156.246:81/live/huya/11336571
+#EXTINF:-1 tvg-id="枪战" tvg-name="枪战" tvg-logo="https://www.xn--rgv465a.top/tvlogo/枪战.png" group-title="🐯虎牙直播",枪战
+http://107.173.156.246:81/live/huya/21059579
+#EXTINF:-1 tvg-id="强森" tvg-name="强森" tvg-logo="https://www.xn--rgv465a.top/tvlogo/强森.png" group-title="🐯虎牙直播",强森
+http://107.173.156.246:81/live/huya/21059581
+#EXTINF:-1 tvg-id="热血" tvg-name="热血" tvg-logo="https://www.xn--rgv465a.top/tvlogo/热血.png" group-title="🐯虎牙直播",热血
+http://107.173.156.246:81/live/huya/11352934
+#EXTINF:-1 tvg-id="赛车" tvg-name="赛车" tvg-logo="https://www.xn--rgv465a.top/tvlogo/赛车.png" group-title="🐯虎牙直播",赛车
+http://107.173.156.246:81/live/huya/11279247
+#EXTINF:-1 tvg-id="丧尸片" tvg-name="丧尸片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/丧尸片.png" group-title="🐯虎牙直播",丧尸片
+http://107.173.156.246:81/live/huya/21059578
+#EXTINF:-1 tvg-id="沈腾" tvg-name="沈腾" tvg-logo="https://www.xn--rgv465a.top/tvlogo/沈腾.png" group-title="🐯虎牙直播",沈腾
+http://107.173.156.246:81/live/huya/11601968
+#EXTINF:-1 tvg-id="斯坦森" tvg-name="斯坦森" tvg-logo="https://www.xn--rgv465a.top/tvlogo/斯坦森.png" group-title="🐯虎牙直播",斯坦森
+http://107.173.156.246:81/live/huya/21059588
+#EXTINF:-1 tvg-id="死神来了" tvg-name="死神来了" tvg-logo="https://www.xn--rgv465a.top/tvlogo/死神来了.png" group-title="🐯虎牙直播",死神来了
+http://107.173.156.246:81/live/huya/11352903
+#EXTINF:-1 tvg-id="推荐" tvg-name="推荐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/推荐.png" group-title="🐯虎牙直播",推荐
+http://107.173.156.246:81/live/huya/11602041
+#EXTINF:-1 tvg-id="王晶" tvg-name="王晶" tvg-logo="https://www.xn--rgv465a.top/tvlogo/王晶.png" group-title="🐯虎牙直播",王晶
+http://107.173.156.246:81/live/huya/11602058
+#EXTINF:-1 tvg-id="武侠" tvg-name="武侠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武侠.png" group-title="🐯虎牙直播",武侠
+http://107.173.156.246:81/live/huya/11342427
+#EXTINF:-1 tvg-id="喜剧" tvg-name="喜剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/喜剧.png" group-title="🐯虎牙直播",喜剧
+http://107.173.156.246:81/live/huya/11352877
+#EXTINF:-1 tvg-id="喜剧专场" tvg-name="喜剧专场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/喜剧专场.png" group-title="🐯虎牙直播",喜剧专场
+http://107.173.156.246:81/live/huya/11602044
+#EXTINF:-1 tvg-id="喜乐影院" tvg-name="喜乐影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/喜乐影院.png" group-title="🐯虎牙直播",喜乐影院
+http://107.173.156.246:81/live/huya/21059580
+#EXTINF:-1 tvg-id="小鬼头" tvg-name="小鬼头" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小鬼头.png" group-title="🐯虎牙直播",小鬼头
+http://107.173.156.246:81/live/huya/11352963
+#EXTINF:-1 tvg-id="星爷" tvg-name="星爷" tvg-logo="https://www.xn--rgv465a.top/tvlogo/星爷.png" group-title="🐯虎牙直播",星爷
+http://107.173.156.246:81/live/huya/11342412
+#EXTINF:-1 tvg-id="许冠英" tvg-name="许冠英" tvg-logo="https://www.xn--rgv465a.top/tvlogo/许冠英.png" group-title="🐯虎牙直播",许冠英
+http://107.173.156.246:81/live/huya/11601972
+#EXTINF:-1 tvg-id="许氏三杰" tvg-name="许氏三杰" tvg-logo="https://www.xn--rgv465a.top/tvlogo/许氏三杰.png" group-title="🐯虎牙直播",许氏三杰
+http://107.173.156.246:81/live/huya/11602033
+#EXTINF:-1 tvg-id="玄幻" tvg-name="玄幻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/玄幻.png" group-title="🐯虎牙直播",玄幻
+http://107.173.156.246:81/live/huya/11342414
+#EXTINF:-1 tvg-id="嫣然影厅" tvg-name="嫣然影厅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嫣然影厅.png" group-title="🐯虎牙直播",嫣然影厅
+http://107.173.156.246:81/live/huya/11601977
+#EXTINF:-1 tvg-id="英叔" tvg-name="英叔" tvg-logo="https://www.xn--rgv465a.top/tvlogo/英叔.png" group-title="🐯虎牙直播",英叔
+http://107.173.156.246:81/live/huya/11342421
+#EXTINF:-1 tvg-id="宇宙" tvg-name="宇宙" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宇宙.png" group-title="🐯虎牙直播",宇宙
+http://107.173.156.246:81/live/huya/11342428
+#EXTINF:-1 tvg-id="灾难片" tvg-name="灾难片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/灾难片.png" group-title="🐯虎牙直播",灾难片
+http://107.173.156.246:81/live/huya/11602075
+#EXTINF:-1 tvg-id="战争" tvg-name="战争" tvg-logo="https://www.xn--rgv465a.top/tvlogo/战争.png" group-title="🐯虎牙直播",战争
+http://107.173.156.246:81/live/huya/21059592
+#EXTINF:-1 tvg-id="战争片" tvg-name="战争片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/战争片.png" group-title="🐯虎牙直播",战争片
+http://107.173.156.246:81/live/huya/21059574
+#EXTINF:-1 tvg-id="蜘蛛侠" tvg-name="蜘蛛侠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蜘蛛侠.png" group-title="🐯虎牙直播",蜘蛛侠
+http://107.173.156.246:81/live/huya/21059599
+#EXTINF:-1 tvg-id="周星星" tvg-name="周星星" tvg-logo="https://www.xn--rgv465a.top/tvlogo/周星星.png" group-title="🐯虎牙直播",周星星
+http://107.173.156.246:81/live/huya/11342412
+#EXTINF:-1 tvg-id="罪犯" tvg-name="罪犯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/罪犯.png" group-title="🐯虎牙直播",罪犯
+http://107.173.156.246:81/live/huya/11352962
+#EXTINF:-1 tvg-id="阿斗说电影" tvg-name="阿斗说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/阿斗说电影.png" group-title="🐯虎牙直播",阿斗说电影
+http://107.173.156.246:81/live/huya/13303478
+#EXTINF:-1 tvg-id="阿钙扒瞎" tvg-name="阿钙扒瞎" tvg-logo="https://www.xn--rgv465a.top/tvlogo/阿钙扒瞎.png" group-title="🐯虎牙直播",阿钙扒瞎
+http://107.173.156.246:81/live/huya/15978172
+#EXTINF:-1 tvg-id="阿良说剧" tvg-name="阿良说剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/阿良说剧.png" group-title="🐯虎牙直播",阿良说剧
+http://107.173.156.246:81/live/huya/20488841
+#EXTINF:-1 tvg-id="阿翔说电影" tvg-name="阿翔说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/阿翔说电影.png" group-title="🐯虎牙直播",阿翔说电影
+http://107.173.156.246:81/live/huya/16868935
 #EXTINF:-1 tvg-id="扁豆看电影" tvg-name="扁豆看电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/扁豆看电影.png" group-title="🐯虎牙直播",扁豆看电影
-https://live.ottiptv.cc/huya/16028551
+http://107.173.156.246:81/live/huya/16028551
 #EXTINF:-1 tvg-id="斌哥漫说" tvg-name="斌哥漫说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/斌哥漫说.png" group-title="🐯虎牙直播",斌哥漫说
-https://live.ottiptv.cc/huya/18632116
+http://107.173.156.246:81/live/huya/18632116
+#EXTINF:-1 tvg-id="嫦娥撩电影" tvg-name="嫦娥撩电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嫦娥撩电影.png" group-title="🐯虎牙直播",嫦娥撩电影
+http://107.173.156.246:81/live/huya/18201106
 #EXTINF:-1 tvg-id="大象放映室" tvg-name="大象放映室" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大象放映室.png" group-title="🐯虎牙直播",大象放映室
-https://live.ottiptv.cc/huya/21277391
+http://107.173.156.246:81/live/huya/21277391
+#EXTINF:-1 tvg-id="电影狂人" tvg-name="电影狂人" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影狂人.png" group-title="🐯虎牙直播",电影狂人
+http://107.173.156.246:81/live/huya/18715610
+#EXTINF:-1 tvg-id="疯狂解说家" tvg-name="疯狂解说家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/疯狂解说家.png" group-title="🐯虎牙直播",疯狂解说家
+http://107.173.156.246:81/live/huya/18366196
+#EXTINF:-1 tvg-id="顾久撩电影" tvg-name="顾久撩电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/顾久撩电影.png" group-title="🐯虎牙直播",顾久撩电影
+http://107.173.156.246:81/live/huya/16422212
+#EXTINF:-1 tvg-id="涵哥评电影" tvg-name="涵哥评电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/涵哥评电影.png" group-title="🐯虎牙直播",涵哥评电影
+http://107.173.156.246:81/live/huya/16865726
+#EXTINF:-1 tvg-id="虎妞说电影" tvg-name="虎妞说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/虎妞说电影.png" group-title="🐯虎牙直播",虎妞说电影
+http://107.173.156.246:81/live/huya/20343144
+#EXTINF:-1 tvg-id="科幻梦工场" tvg-name="科幻梦工场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/科幻梦工场.png" group-title="🐯虎牙直播",科幻梦工场
+http://107.173.156.246:81/live/huya/15152155
+#EXTINF:-1 tvg-id="恐怖电影解说" tvg-name="恐怖电影解说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/恐怖电影解说.png" group-title="🐯虎牙直播",恐怖电影解说
+http://107.173.156.246:81/live/huya/16741179
+#EXTINF:-1 tvg-id="老炮说电影" tvg-name="老炮说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/老炮说电影.png" group-title="🐯虎牙直播",老炮说电影
+http://107.173.156.246:81/live/huya/15454716
+#EXTINF:-1 tvg-id="老皮讲电影" tvg-name="老皮讲电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/老皮讲电影.png" group-title="🐯虎牙直播",老皮讲电影
+http://107.173.156.246:81/live/huya/16968572
+#EXTINF:-1 tvg-id="冷君说电影" tvg-name="冷君说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/冷君说电影.png" group-title="🐯虎牙直播",冷君说电影
+http://107.173.156.246:81/live/huya/16739452
+#EXTINF:-1 tvg-id="亮哥讲电影" tvg-name="亮哥讲电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/亮哥讲电影.png" group-title="🐯虎牙直播",亮哥讲电影
+http://107.173.156.246:81/live/huya/16144175
+#EXTINF:-1 tvg-id="刘老师说电影" tvg-name="刘老师说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/刘老师说电影.png" group-title="🐯虎牙直播",刘老师说电影
+http://107.173.156.246:81/live/huya/20289754
+#EXTINF:-1 tvg-id="鹿哥电影" tvg-name="鹿哥电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/鹿哥电影.png" group-title="🐯虎牙直播",鹿哥电影
+http://107.173.156.246:81/live/huya/24396360
+#EXTINF:-1 tvg-id="默爷侃电影" tvg-name="默爷侃电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/默爷侃电影.png" group-title="🐯虎牙直播",默爷侃电影
+http://107.173.156.246:81/live/huya/17204307
+#EXTINF:-1 tvg-id="俗哥看电影" tvg-name="俗哥看电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/俗哥看电影.png" group-title="🐯虎牙直播",俗哥看电影
+http://107.173.156.246:81/live/huya/15452736
+#EXTINF:-1 tvg-id="乌贼说电影" tvg-name="乌贼说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/乌贼说电影.png" group-title="🐯虎牙直播",乌贼说电影
+http://107.173.156.246:81/live/huya/16604522
+#EXTINF:-1 tvg-id="小川侃电影" tvg-name="小川侃电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小川侃电影.png" group-title="🐯虎牙直播",小川侃电影
+http://107.173.156.246:81/live/huya/15870999
+#EXTINF:-1 tvg-id="小冉看电影" tvg-name="小冉看电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小冉看电影.png" group-title="🐯虎牙直播",小冉看电影
+http://107.173.156.246:81/live/huya/17341907
+#EXTINF:-1 tvg-id="续哥说电影" tvg-name="续哥说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/续哥说电影.png" group-title="🐯虎牙直播",续哥说电影
+http://107.173.156.246:81/live/huya/24396472
+#EXTINF:-1 tvg-id="鱼丸电影" tvg-name="鱼丸电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/鱼丸电影.png" group-title="🐯虎牙直播",鱼丸电影
+http://107.173.156.246:81/live/huya/16615910
+#EXTINF:-1 tvg-id="越哥说电影" tvg-name="越哥说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/越哥说电影.png" group-title="🐯虎牙直播",越哥说电影
+http://107.173.156.246:81/live/huya/15894162
+#EXTINF:-1 tvg-id="爱情公寓" tvg-name="爱情公寓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱情公寓.png" group-title="🐯虎牙直播",爱情公寓
+http://107.173.156.246:81/live/huya/11336726
+#EXTINF:-1 tvg-id="纪晓岚" tvg-name="纪晓岚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纪晓岚.png" group-title="🐯虎牙直播",纪晓岚
+http://107.173.156.246:81/live/huya/11342396
+#EXTINF:-1 tvg-id="家有儿女" tvg-name="家有儿女" tvg-logo="https://www.xn--rgv465a.top/tvlogo/家有儿女.png" group-title="🐯虎牙直播",家有儿女
+http://107.173.156.246:81/live/huya/11352872
+#EXTINF:-1 tvg-id="士兵突击" tvg-name="士兵突击" tvg-logo="https://www.xn--rgv465a.top/tvlogo/士兵突击.png" group-title="🐯虎牙直播",士兵突击
+http://107.173.156.246:81/live/huya/11342430
 #EXTINF:-1 tvg-id="武林外传" tvg-name="武林外传" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武林外传.png" group-title="🐯虎牙直播",武林外传
-https://lvbdcdncmn.inter.71edge.com/tslive/l1/c52_lb_553_300_t10/I67sb6wvoWaxfjPEdSuB8xyBShFln4Poub7LGIzPt5oGLcKaLXD21aR_t20nEIxJFmaf_i6EYQ77gA-gLJ3xOTtq6K7hpgCREwLfbuNMXruJdFta9-ai9bYk4cTMbhQgRh9SCkE3yt46X4E0qOVADDdga3TMRSLnFscFYr-_s4Sd2sgykmnFa4-hdgX9599FiW_RX5VYGH9B1jyj748_CAu4VgqqTDwxUx8w556tCWY7mlb1r84RWuip72e4H8-HkUuBUoFeD4aw9m1HOUfgwx7ixDqJUFOmq9F-LeKLTZ2Ap6fobRuaUiaSqHsCWvuy9XWe5KWBiZv6bUJ8oAuqkA/1a6758d872929c8d41a7629db52a831f7/c52_lb_553_300_t10.m3u8?key=0baa5db205ac0d29618a2e8d7964b7e4e&dis_t=1752408084&uuid=6f1d53dc-6873a014-459&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
+http://107.173.156.246:81/live/huya/21059598
+#EXTINF:-1 tvg-id="雍正王朝" tvg-name="雍正王朝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/雍正王朝.png" group-title="🐯虎牙直播",雍正王朝
+http://107.173.156.246:81/live/huya/11342439
+#EXTINF:-1 tvg-id="--娇妹" tvg-name="--娇妹" tvg-logo="https://www.xn--rgv465a.top/tvlogo/--娇妹.png" group-title="🐯虎牙直播",--娇妹
+http://107.173.156.246:81/live/huya/11342404
+#EXTINF:-1 tvg-id="-若凌Provence-" tvg-name="-若凌Provence-" tvg-logo="https://www.xn--rgv465a.top/tvlogo/-若凌Provence-.png" group-title="🐯虎牙直播",-若凌Provence-
+http://107.173.156.246:81/live/huya/11352955
+#EXTINF:-1 tvg-id="-惟美" tvg-name="-惟美" tvg-logo="https://www.xn--rgv465a.top/tvlogo/-惟美.png" group-title="🐯虎牙直播",-惟美
+http://107.173.156.246:81/live/huya/11352885
+#EXTINF:-1 tvg-id="-小癲" tvg-name="-小癲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/-小癲.png" group-title="🐯虎牙直播",-小癲
+http://107.173.156.246:81/live/huya/11602065
+#EXTINF:-1 tvg-id="【态度】官方节目" tvg-name="【态度】官方节目" tvg-logo="https://www.xn--rgv465a.top/tvlogo/【态度】官方节目.png" group-title="🐯虎牙直播",【态度】官方节目
+http://107.173.156.246:81/live/huya/21103951
+#EXTINF:-1 tvg-id="【娱乐虎星球】印象之夜" tvg-name="【娱乐虎星球】印象之夜" tvg-logo="https://www.xn--rgv465a.top/tvlogo/【娱乐虎星球】印象之夜.png" group-title="🐯虎牙直播",【娱乐虎星球】印象之夜
+http://107.173.156.246:81/live/huya/21103943
+#EXTINF:-1 tvg-id="7喜先生" tvg-name="7喜先生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/7喜先生.png" group-title="🐯虎牙直播",7喜先生
+http://107.173.156.246:81/live/huya/11342421
+#EXTINF:-1 tvg-id="阿飞" tvg-name="阿飞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/阿飞.png" group-title="🐯虎牙直播",阿飞
+http://107.173.156.246:81/live/huya/11352934
+#EXTINF:-1 tvg-id="阿森木木木" tvg-name="阿森木木木" tvg-logo="https://www.xn--rgv465a.top/tvlogo/阿森木木木.png" group-title="🐯虎牙直播",阿森木木木
+http://107.173.156.246:81/live/huya/11601971
+#EXTINF:-1 tvg-id="阿汤哥的影迷" tvg-name="阿汤哥的影迷" tvg-logo="https://www.xn--rgv465a.top/tvlogo/阿汤哥的影迷.png" group-title="🐯虎牙直播",阿汤哥的影迷
+http://107.173.156.246:81/live/huya/21059585
+#EXTINF:-1 tvg-id="阿祥说电影" tvg-name="阿祥说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/阿祥说电影.png" group-title="🐯虎牙直播",阿祥说电影
+http://107.173.156.246:81/live/huya/16868935
+#EXTINF:-1 tvg-id="艾薇宝贝de宝贝" tvg-name="艾薇宝贝de宝贝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/艾薇宝贝de宝贝.png" group-title="🐯虎牙直播",艾薇宝贝de宝贝
+http://107.173.156.246:81/live/huya/21059554
+#EXTINF:-1 tvg-id="安逗和黑仔" tvg-name="安逗和黑仔" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安逗和黑仔.png" group-title="🐯虎牙直播",安逗和黑仔
+http://107.173.156.246:81/live/huya/11342424
+#EXTINF:-1 tvg-id="扒点影视解说" tvg-name="扒点影视解说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/扒点影视解说.png" group-title="🐯虎牙直播",扒点影视解说
+http://107.173.156.246:81/live/huya/24531823
+#EXTINF:-1 tvg-id="白泽字幕2号" tvg-name="白泽字幕2号" tvg-logo="https://www.xn--rgv465a.top/tvlogo/白泽字幕2号.png" group-title="🐯虎牙直播",白泽字幕2号
+http://107.173.156.246:81/live/huya/23784008
+#EXTINF:-1 tvg-id="白泽字幕组" tvg-name="白泽字幕组" tvg-logo="https://www.xn--rgv465a.top/tvlogo/白泽字幕组.png" group-title="🐯虎牙直播",白泽字幕组
+http://107.173.156.246:81/live/huya/23652317
+#EXTINF:-1 tvg-id="包蛋超人" tvg-name="包蛋超人" tvg-logo="https://www.xn--rgv465a.top/tvlogo/包蛋超人.png" group-title="🐯虎牙直播",包蛋超人
+http://107.173.156.246:81/live/huya/11342400
+#EXTINF:-1 tvg-id="包租婆不停水" tvg-name="包租婆不停水" tvg-logo="https://www.xn--rgv465a.top/tvlogo/包租婆不停水.png" group-title="🐯虎牙直播",包租婆不停水
+http://107.173.156.246:81/live/huya/21059568
+#EXTINF:-1 tvg-id="暴走君丶阿罪" tvg-name="暴走君丶阿罪" tvg-logo="https://www.xn--rgv465a.top/tvlogo/暴走君丶阿罪.png" group-title="🐯虎牙直播",暴走君丶阿罪
+http://107.173.156.246:81/live/huya/11342423
+#EXTINF:-1 tvg-id="北岛南城" tvg-name="北岛南城" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北岛南城.png" group-title="🐯虎牙直播",北岛南城
+http://107.173.156.246:81/live/huya/11601962
+#EXTINF:-1 tvg-id="扁豆看电影2" tvg-name="扁豆看电影2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/扁豆看电影2.png" group-title="🐯虎牙直播",扁豆看电影2
+http://107.173.156.246:81/live/huya/21059623
+#EXTINF:-1 tvg-id="飙车的老司机" tvg-name="飙车的老司机" tvg-logo="https://www.xn--rgv465a.top/tvlogo/飙车的老司机.png" group-title="🐯虎牙直播",飙车的老司机
+http://107.173.156.246:81/live/huya/11352894
+#EXTINF:-1 tvg-id="斌哥漫说2" tvg-name="斌哥漫说2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/斌哥漫说2.png" group-title="🐯虎牙直播",斌哥漫说2
+http://107.173.156.246:81/live/huya/21059621
+#EXTINF:-1 tvg-id="冰火岛一霸" tvg-name="冰火岛一霸" tvg-logo="https://www.xn--rgv465a.top/tvlogo/冰火岛一霸.png" group-title="🐯虎牙直播",冰火岛一霸
+http://107.173.156.246:81/live/huya/21059563
+#EXTINF:-1 tvg-id="不发威当我Kitty" tvg-name="不发威当我Kitty" tvg-logo="https://www.xn--rgv465a.top/tvlogo/不发威当我Kitty.png" group-title="🐯虎牙直播",不发威当我Kitty
+http://107.173.156.246:81/live/huya/11342403
+#EXTINF:-1 tvg-id="槽老师" tvg-name="槽老师" tvg-logo="https://www.xn--rgv465a.top/tvlogo/槽老师.png" group-title="🐯虎牙直播",槽老师
+http://107.173.156.246:81/live/huya/11336571
 #EXTINF:-1 tvg-id="茶啊二中" tvg-name="茶啊二中" tvg-logo="https://www.xn--rgv465a.top/tvlogo/茶啊二中.png" group-title="🐯虎牙直播",茶啊二中
-http://live.nctv.top/douyu1.php?id=2925610
+http://107.173.156.246:81/live/huya/11213191
+#EXTINF:-1 tvg-id="超能力是放pi" tvg-name="超能力是放pi" tvg-logo="https://www.xn--rgv465a.top/tvlogo/超能力是放pi.png" group-title="🐯虎牙直播",超能力是放pi
+http://107.173.156.246:81/live/huya/11352906
+#EXTINF:-1 tvg-id="超人的归来" tvg-name="超人的归来" tvg-logo="https://www.xn--rgv465a.top/tvlogo/超人的归来.png" group-title="🐯虎牙直播",超人的归来
+http://107.173.156.246:81/live/huya/21059588
+#EXTINF:-1 tvg-id="陈冰kiki" tvg-name="陈冰kiki" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陈冰kiki.png" group-title="🐯虎牙直播",陈冰kiki
+http://107.173.156.246:81/live/huya/22144263
+#EXTINF:-1 tvg-id="陈泽希" tvg-name="陈泽希" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陈泽希.png" group-title="🐯虎牙直播",陈泽希
+http://107.173.156.246:81/live/huya/21411905
+#EXTINF:-1 tvg-id="成长学院" tvg-name="成长学院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/成长学院.png" group-title="🐯虎牙直播",成长学院
+http://107.173.156.246:81/live/huya/20985822
+#EXTINF:-1 tvg-id="鯎爺" tvg-name="鯎爺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/鯎爺.png" group-title="🐯虎牙直播",鯎爺
+http://107.173.156.246:81/live/huya/11352944
+#EXTINF:-1 tvg-id="持枪者-土豆哥" tvg-name="持枪者-土豆哥" tvg-logo="https://www.xn--rgv465a.top/tvlogo/持枪者-土豆哥.png" group-title="🐯虎牙直播",持枪者-土豆哥
+http://107.173.156.246:81/live/huya/11336578
+#EXTINF:-1 tvg-id="初心" tvg-name="初心" tvg-logo="https://www.xn--rgv465a.top/tvlogo/初心.png" group-title="🐯虎牙直播",初心
+http://107.173.156.246:81/live/huya/11352941
+#EXTINF:-1 tvg-id="葱花" tvg-name="葱花" tvg-logo="https://www.xn--rgv465a.top/tvlogo/葱花.png" group-title="🐯虎牙直播",葱花
+http://107.173.156.246:81/live/huya/11352938
+#EXTINF:-1 tvg-id="大铁锅炖大大鹅" tvg-name="大铁锅炖大大鹅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大铁锅炖大大鹅.png" group-title="🐯虎牙直播",大铁锅炖大大鹅
+http://107.173.156.246:81/live/huya/21059574
+#EXTINF:-1 tvg-id="大侠" tvg-name="大侠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大侠.png" group-title="🐯虎牙直播",大侠
+http://107.173.156.246:81/live/huya/11602085
+#EXTINF:-1 tvg-id="呆萌小岳岳" tvg-name="呆萌小岳岳" tvg-logo="https://www.xn--rgv465a.top/tvlogo/呆萌小岳岳.png" group-title="🐯虎牙直播",呆萌小岳岳
+http://107.173.156.246:81/live/huya/11342398
+#EXTINF:-1 tvg-id="导演我太难了" tvg-name="导演我太难了" tvg-logo="https://www.xn--rgv465a.top/tvlogo/导演我太难了.png" group-title="🐯虎牙直播",导演我太难了
+http://107.173.156.246:81/live/huya/880248
+#EXTINF:-1 tvg-id="第十门" tvg-name="第十门" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第十门.png" group-title="🐯虎牙直播",第十门
+http://107.173.156.246:81/live/huya/11352883
+#EXTINF:-1 tvg-id="貂妹电影" tvg-name="貂妹电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/貂妹电影.png" group-title="🐯虎牙直播",貂妹电影
+http://107.173.156.246:81/live/huya/16135154
+#EXTINF:-1 tvg-id="调酒师-扬扬" tvg-name="调酒师-扬扬" tvg-logo="https://www.xn--rgv465a.top/tvlogo/调酒师-扬扬.png" group-title="🐯虎牙直播",调酒师-扬扬
+http://107.173.156.246:81/live/huya/24578055
+#EXTINF:-1 tvg-id="兜兜з" tvg-name="兜兜з" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兜兜з.png" group-title="🐯虎牙直播",兜兜з
+http://107.173.156.246:81/live/huya/11352910
+#EXTINF:-1 tvg-id="逗比宝宝" tvg-name="逗比宝宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/逗比宝宝.png" group-title="🐯虎牙直播",逗比宝宝
+http://107.173.156.246:81/live/huya/11342427
+#EXTINF:-1 tvg-id="堆仔煲剧" tvg-name="堆仔煲剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/堆仔煲剧.png" group-title="🐯虎牙直播",堆仔煲剧
+http://107.173.156.246:81/live/huya/23734176
+#EXTINF:-1 tvg-id="二次元控" tvg-name="二次元控" tvg-logo="https://www.xn--rgv465a.top/tvlogo/二次元控.png" group-title="🐯虎牙直播",二次元控
+http://107.173.156.246:81/live/huya/11352912
+#EXTINF:-1 tvg-id="非同说电影" tvg-name="非同说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/非同说电影.png" group-title="🐯虎牙直播",非同说电影
+http://107.173.156.246:81/live/huya/20482574
+#EXTINF:-1 tvg-id="粉娘" tvg-name="粉娘" tvg-logo="https://www.xn--rgv465a.top/tvlogo/粉娘.png" group-title="🐯虎牙直播",粉娘
+http://107.173.156.246:81/live/huya/11601978
+#EXTINF:-1 tvg-id="浮生没有若梦" tvg-name="浮生没有若梦" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浮生没有若梦.png" group-title="🐯虎牙直播",浮生没有若梦
+http://107.173.156.246:81/live/huya/11601986
+#EXTINF:-1 tvg-id="港剧伴你行" tvg-name="港剧伴你行" tvg-logo="https://www.xn--rgv465a.top/tvlogo/港剧伴你行.png" group-title="🐯虎牙直播",港剧伴你行
+http://107.173.156.246:81/live/huya/23903183
+#EXTINF:-1 tvg-id="港剧慢品汇" tvg-name="港剧慢品汇" tvg-logo="https://www.xn--rgv465a.top/tvlogo/港剧慢品汇.png" group-title="🐯虎牙直播",港剧慢品汇
+http://107.173.156.246:81/live/huya/23865142
+#EXTINF:-1 tvg-id="搞笑007" tvg-name="搞笑007" tvg-logo="https://www.xn--rgv465a.top/tvlogo/搞笑007.png" group-title="🐯虎牙直播",搞笑007
+http://107.173.156.246:81/live/huya/24992246
+#EXTINF:-1 tvg-id="个人向" tvg-name="个人向" tvg-logo="https://www.xn--rgv465a.top/tvlogo/个人向.png" group-title="🐯虎牙直播",个人向
+http://107.173.156.246:81/live/huya/11352963
+#EXTINF:-1 tvg-id="狗哥吃火锅2" tvg-name="狗哥吃火锅2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/狗哥吃火锅2.png" group-title="🐯虎牙直播",狗哥吃火锅2
+http://107.173.156.246:81/live/huya/21059624
+#EXTINF:-1 tvg-id="桂林" tvg-name="桂林" tvg-logo="https://www.xn--rgv465a.top/tvlogo/桂林.png" group-title="🐯虎牙直播",桂林
+http://107.173.156.246:81/live/huya/16596448
+#EXTINF:-1 tvg-id="过儿想姑姑了" tvg-name="过儿想姑姑了" tvg-logo="https://www.xn--rgv465a.top/tvlogo/过儿想姑姑了.png" group-title="🐯虎牙直播",过儿想姑姑了
+http://107.173.156.246:81/live/huya/23749068
+#EXTINF:-1 tvg-id="核桃姐姐" tvg-name="核桃姐姐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/核桃姐姐.png" group-title="🐯虎牙直播",核桃姐姐
+http://107.173.156.246:81/live/huya/11342390
+#EXTINF:-1 tvg-id="宏兵宏老大" tvg-name="宏兵宏老大" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宏兵宏老大.png" group-title="🐯虎牙直播",宏兵宏老大
+http://107.173.156.246:81/live/huya/24701189
+#EXTINF:-1 tvg-id="虎牙八点档" tvg-name="虎牙八点档" tvg-logo="https://www.xn--rgv465a.top/tvlogo/虎牙八点档.png" group-title="🐯虎牙直播",虎牙八点档
+http://107.173.156.246:81/live/huya/880261
+#EXTINF:-1 tvg-id="虎牙放映厅" tvg-name="虎牙放映厅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/虎牙放映厅.png" group-title="🐯虎牙直播",虎牙放映厅
+http://107.173.156.246:81/live/huya/11602077
+#EXTINF:-1 tvg-id="虎牙观影团" tvg-name="虎牙观影团" tvg-logo="https://www.xn--rgv465a.top/tvlogo/虎牙观影团.png" group-title="🐯虎牙直播",虎牙观影团
+http://107.173.156.246:81/live/huya/880219
+#EXTINF:-1 tvg-id="虎牙影视厅" tvg-name="虎牙影视厅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/虎牙影视厅.png" group-title="🐯虎牙直播",虎牙影视厅
+http://107.173.156.246:81/live/huya/16020072
+#EXTINF:-1 tvg-id="虎牙影院" tvg-name="虎牙影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/虎牙影院.png" group-title="🐯虎牙直播",虎牙影院
+http://107.173.156.246:81/live/huya/11601968
+#EXTINF:-1 tvg-id="虎牙直播星盛典非凡之夜" tvg-name="虎牙直播星盛典非凡之夜" tvg-logo="https://www.xn--rgv465a.top/tvlogo/虎牙直播星盛典非凡之夜.png" group-title="🐯虎牙直播",虎牙直播星盛典非凡之夜
+http://107.173.156.246:81/live/huya/880101
+#EXTINF:-1 tvg-id="荒野达人" tvg-name="荒野达人" tvg-logo="https://www.xn--rgv465a.top/tvlogo/荒野达人.png" group-title="🐯虎牙直播",荒野达人
+http://107.173.156.246:81/live/huya/11352975
+#EXTINF:-1 tvg-id="会魔法的恩仔" tvg-name="会魔法的恩仔" tvg-logo="https://www.xn--rgv465a.top/tvlogo/会魔法的恩仔.png" group-title="🐯虎牙直播",会魔法的恩仔
+http://107.173.156.246:81/live/huya/24532630
+#EXTINF:-1 tvg-id="會唱歌的小野貓" tvg-name="會唱歌的小野貓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/會唱歌的小野貓.png" group-title="🐯虎牙直播",會唱歌的小野貓
+http://107.173.156.246:81/live/huya/11352871
+#EXTINF:-1 tvg-id="火皇皇THREEH" tvg-name="火皇皇THREEH" tvg-logo="https://www.xn--rgv465a.top/tvlogo/火皇皇THREEH.png" group-title="🐯虎牙直播",火皇皇THREEH
+http://107.173.156.246:81/live/huya/24724595
+#EXTINF:-1 tvg-id="鸡公碗" tvg-name="鸡公碗" tvg-logo="https://www.xn--rgv465a.top/tvlogo/鸡公碗.png" group-title="🐯虎牙直播",鸡公碗
+http://107.173.156.246:81/live/huya/23734211
+#EXTINF:-1 tvg-id="加班狗" tvg-name="加班狗" tvg-logo="https://www.xn--rgv465a.top/tvlogo/加班狗.png" group-title="🐯虎牙直播",加班狗
+http://107.173.156.246:81/live/huya/11352891
+#EXTINF:-1 tvg-id="坚定希望" tvg-name="坚定希望" tvg-logo="https://www.xn--rgv465a.top/tvlogo/坚定希望.png" group-title="🐯虎牙直播",坚定希望
+http://107.173.156.246:81/live/huya/21059529
+#EXTINF:-1 tvg-id="简小熙" tvg-name="简小熙" tvg-logo="https://www.xn--rgv465a.top/tvlogo/简小熙.png" group-title="🐯虎牙直播",简小熙
+http://107.173.156.246:81/live/huya/11342399
+#EXTINF:-1 tvg-id="尐饭团" tvg-name="尐饭团" tvg-logo="https://www.xn--rgv465a.top/tvlogo/尐饭团.png" group-title="🐯虎牙直播",尐饭团
+http://107.173.156.246:81/live/huya/11352907
+#EXTINF:-1 tvg-id="粳稻纷纷苎蘿山" tvg-name="粳稻纷纷苎蘿山" tvg-logo="https://www.xn--rgv465a.top/tvlogo/粳稻纷纷苎蘿山.png" group-title="🐯虎牙直播",粳稻纷纷苎蘿山
+http://107.173.156.246:81/live/huya/26355843
+#EXTINF:-1 tvg-id="酒后探真言" tvg-name="酒后探真言" tvg-logo="https://www.xn--rgv465a.top/tvlogo/酒后探真言.png" group-title="🐯虎牙直播",酒后探真言
+http://107.173.156.246:81/live/huya/660260
+#EXTINF:-1 tvg-id="酒窝储存机" tvg-name="酒窝储存机" tvg-logo="https://www.xn--rgv465a.top/tvlogo/酒窝储存机.png" group-title="🐯虎牙直播",酒窝储存机
+http://107.173.156.246:81/live/huya/11602043
+#EXTINF:-1 tvg-id="开船老湿基" tvg-name="开船老湿基" tvg-logo="https://www.xn--rgv465a.top/tvlogo/开船老湿基.png" group-title="🐯虎牙直播",开船老湿基
+http://107.173.156.246:81/live/huya/11342387
+#EXTINF:-1 tvg-id="靠谱女青年高小婷" tvg-name="靠谱女青年高小婷" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靠谱女青年高小婷.png" group-title="🐯虎牙直播",靠谱女青年高小婷
+http://107.173.156.246:81/live/huya/11342392
+#EXTINF:-1 tvg-id="柯冉冉" tvg-name="柯冉冉" tvg-logo="https://www.xn--rgv465a.top/tvlogo/柯冉冉.png" group-title="🐯虎牙直播",柯冉冉
+http://107.173.156.246:81/live/huya/11352874
+#EXTINF:-1 tvg-id="科技有趣玩" tvg-name="科技有趣玩" tvg-logo="https://www.xn--rgv465a.top/tvlogo/科技有趣玩.png" group-title="🐯虎牙直播",科技有趣玩
+http://107.173.156.246:81/live/huya/25108267
+#EXTINF:-1 tvg-id="科技这样玩" tvg-name="科技这样玩" tvg-logo="https://www.xn--rgv465a.top/tvlogo/科技这样玩.png" group-title="🐯虎牙直播",科技这样玩
+http://107.173.156.246:81/live/huya/11602033
+#EXTINF:-1 tvg-id="可爱的小强" tvg-name="可爱的小强" tvg-logo="https://www.xn--rgv465a.top/tvlogo/可爱的小强.png" group-title="🐯虎牙直播",可爱的小强
+http://107.173.156.246:81/live/huya/11342435
+#EXTINF:-1 tvg-id="苦瓜老姨" tvg-name="苦瓜老姨" tvg-logo="https://www.xn--rgv465a.top/tvlogo/苦瓜老姨.png" group-title="🐯虎牙直播",苦瓜老姨
+http://107.173.156.246:81/live/huya/11342429
+#EXTINF:-1 tvg-id="狂野女孩i了吗" tvg-name="狂野女孩i了吗" tvg-logo="https://www.xn--rgv465a.top/tvlogo/狂野女孩i了吗.png" group-title="🐯虎牙直播",狂野女孩i了吗
+http://107.173.156.246:81/live/huya/21059559
+#EXTINF:-1 tvg-id="来瓶肥宅水" tvg-name="来瓶肥宅水" tvg-logo="https://www.xn--rgv465a.top/tvlogo/来瓶肥宅水.png" group-title="🐯虎牙直播",来瓶肥宅水
+http://107.173.156.246:81/live/huya/21059555
+#EXTINF:-1 tvg-id="来听歌呀" tvg-name="来听歌呀" tvg-logo="https://www.xn--rgv465a.top/tvlogo/来听歌呀.png" group-title="🐯虎牙直播",来听歌呀
+http://107.173.156.246:81/live/huya/11352913
+#EXTINF:-1 tvg-id="勞資ヽ尐爺" tvg-name="勞資ヽ尐爺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/勞資ヽ尐爺.png" group-title="🐯虎牙直播",勞資ヽ尐爺
+http://107.173.156.246:81/live/huya/11342434
+#EXTINF:-1 tvg-id="老板给次机会吧" tvg-name="老板给次机会吧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/老板给次机会吧.png" group-title="🐯虎牙直播",老板给次机会吧
+http://107.173.156.246:81/live/huya/23829447
+#EXTINF:-1 tvg-id="老雷" tvg-name="老雷" tvg-logo="https://www.xn--rgv465a.top/tvlogo/老雷.png" group-title="🐯虎牙直播",老雷
+http://107.173.156.246:81/live/huya/11602034
+#EXTINF:-1 tvg-id="老司机" tvg-name="老司机" tvg-logo="https://www.xn--rgv465a.top/tvlogo/老司机.png" group-title="🐯虎牙直播",老司机
+http://107.173.156.246:81/live/huya/11352946
+#EXTINF:-1 tvg-id="老王夸我帅" tvg-name="老王夸我帅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/老王夸我帅.png" group-title="🐯虎牙直播",老王夸我帅
+http://107.173.156.246:81/live/huya/11352964
+#EXTINF:-1 tvg-id="了不起的小萌虎" tvg-name="了不起的小萌虎" tvg-logo="https://www.xn--rgv465a.top/tvlogo/了不起的小萌虎.png" group-title="🐯虎牙直播",了不起的小萌虎
+http://107.173.156.246:81/live/huya/11342388
+#EXTINF:-1 tvg-id="冷门港片大全" tvg-name="冷门港片大全" tvg-logo="https://www.xn--rgv465a.top/tvlogo/冷门港片大全.png" group-title="🐯虎牙直播",冷门港片大全
+http://107.173.156.246:81/live/huya/23903196
+#EXTINF:-1 tvg-id="漓江塔景区售票阿姨" tvg-name="漓江塔景区售票阿姨" tvg-logo="https://www.xn--rgv465a.top/tvlogo/漓江塔景区售票阿姨.png" group-title="🐯虎牙直播",漓江塔景区售票阿姨
+http://107.173.156.246:81/live/huya/11602082
+#EXTINF:-1 tvg-id="李大湿" tvg-name="李大湿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/李大湿.png" group-title="🐯虎牙直播",李大湿
+http://107.173.156.246:81/live/huya/11342417
+#EXTINF:-1 tvg-id="里昂保护的玛蒂达" tvg-name="里昂保护的玛蒂达" tvg-logo="https://www.xn--rgv465a.top/tvlogo/里昂保护的玛蒂达.png" group-title="🐯虎牙直播",里昂保护的玛蒂达
+http://107.173.156.246:81/live/huya/21059594
+#EXTINF:-1 tvg-id="梁非凡吃点啥" tvg-name="梁非凡吃点啥" tvg-logo="https://www.xn--rgv465a.top/tvlogo/梁非凡吃点啥.png" group-title="🐯虎牙直播",梁非凡吃点啥
+http://107.173.156.246:81/live/huya/21059577
+#EXTINF:-1 tvg-id="梁非凡吔X啦" tvg-name="梁非凡吔X啦" tvg-logo="https://www.xn--rgv465a.top/tvlogo/梁非凡吔X啦.png" group-title="🐯虎牙直播",梁非凡吔X啦
+http://107.173.156.246:81/live/huya/23749083
+#EXTINF:-1 tvg-id="亮哥讲电影2" tvg-name="亮哥讲电影2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/亮哥讲电影2.png" group-title="🐯虎牙直播",亮哥讲电影2
+http://107.173.156.246:81/live/huya/21059622
+#EXTINF:-1 tvg-id="凌莲" tvg-name="凌莲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凌莲.png" group-title="🐯虎牙直播",凌莲
+http://107.173.156.246:81/live/huya/11602086
+#EXTINF:-1 tvg-id="领带哥" tvg-name="领带哥" tvg-logo="https://www.xn--rgv465a.top/tvlogo/领带哥.png" group-title="🐯虎牙直播",领带哥
+http://107.173.156.246:81/live/huya/11342430
+#EXTINF:-1 tvg-id="芦苇微微的弟子" tvg-name="芦苇微微的弟子" tvg-logo="https://www.xn--rgv465a.top/tvlogo/芦苇微微的弟子.png" group-title="🐯虎牙直播",芦苇微微的弟子
+http://107.173.156.246:81/live/huya/21059558
+#EXTINF:-1 tvg-id="露露姐" tvg-name="露露姐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/露露姐.png" group-title="🐯虎牙直播",露露姐
+http://107.173.156.246:81/live/huya/11601964
+#EXTINF:-1 tvg-id="裸奔的蜗牛╮" tvg-name="裸奔的蜗牛╮" tvg-logo="https://www.xn--rgv465a.top/tvlogo/裸奔的蜗牛╮.png" group-title="🐯虎牙直播",裸奔的蜗牛╮
+http://107.173.156.246:81/live/huya/11342418
+#EXTINF:-1 tvg-id="洛基的小蛇" tvg-name="洛基的小蛇" tvg-logo="https://www.xn--rgv465a.top/tvlogo/洛基的小蛇.png" group-title="🐯虎牙直播",洛基的小蛇
+http://107.173.156.246:81/live/huya/19582933
+#EXTINF:-1 tvg-id="马春夏秋冬梅" tvg-name="马春夏秋冬梅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/马春夏秋冬梅.png" group-title="🐯虎牙直播",马春夏秋冬梅
+http://107.173.156.246:81/live/huya/21059564
+#EXTINF:-1 tvg-id="埋堆堆官方" tvg-name="埋堆堆官方" tvg-logo="https://www.xn--rgv465a.top/tvlogo/埋堆堆官方.png" group-title="🐯虎牙直播",埋堆堆官方
+http://107.173.156.246:81/live/huya/23740156
+#EXTINF:-1 tvg-id="埋堆搞搞震" tvg-name="埋堆搞搞震" tvg-logo="https://www.xn--rgv465a.top/tvlogo/埋堆搞搞震.png" group-title="🐯虎牙直播",埋堆搞搞震
+http://107.173.156.246:81/live/huya/23734169
+#EXTINF:-1 tvg-id="美少女咸儿" tvg-name="美少女咸儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/美少女咸儿.png" group-title="🐯虎牙直播",美少女咸儿
+http://107.173.156.246:81/live/huya/11336572
+#EXTINF:-1 tvg-id="萌新司机" tvg-name="萌新司机" tvg-logo="https://www.xn--rgv465a.top/tvlogo/萌新司机.png" group-title="🐯虎牙直播",萌新司机
+http://107.173.156.246:81/live/huya/11352881
+#EXTINF:-1 tvg-id="迷失" tvg-name="迷失" tvg-logo="https://www.xn--rgv465a.top/tvlogo/迷失.png" group-title="🐯虎牙直播",迷失
+http://107.173.156.246:81/live/huya/11602041
+#EXTINF:-1 tvg-id="麋鹿" tvg-name="麋鹿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/麋鹿.png" group-title="🐯虎牙直播",麋鹿
+http://107.173.156.246:81/live/huya/11342419
+#EXTINF:-1 tvg-id="陌离-小欣" tvg-name="陌离-小欣" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陌离-小欣.png" group-title="🐯虎牙直播",陌离-小欣
+http://107.173.156.246:81/live/huya/11342397
+#EXTINF:-1 tvg-id="寞尛北" tvg-name="寞尛北" tvg-logo="https://www.xn--rgv465a.top/tvlogo/寞尛北.png" group-title="🐯虎牙直播",寞尛北
+http://107.173.156.246:81/live/huya/11602076
+#EXTINF:-1 tvg-id="木子李说故事" tvg-name="木子李说故事" tvg-logo="https://www.xn--rgv465a.top/tvlogo/木子李说故事.png" group-title="🐯虎牙直播",木子李说故事
+http://107.173.156.246:81/live/huya/24030276
+#EXTINF:-1 tvg-id="沐小错" tvg-name="沐小错" tvg-logo="https://www.xn--rgv465a.top/tvlogo/沐小错.png" group-title="🐯虎牙直播",沐小错
+http://107.173.156.246:81/live/huya/11352956
+#EXTINF:-1 tvg-id="南跃-俊轩" tvg-name="南跃-俊轩" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南跃-俊轩.png" group-title="🐯虎牙直播",南跃-俊轩
+http://107.173.156.246:81/live/huya/10299733
+#EXTINF:-1 tvg-id="脑壳不太好" tvg-name="脑壳不太好" tvg-logo="https://www.xn--rgv465a.top/tvlogo/脑壳不太好.png" group-title="🐯虎牙直播",脑壳不太好
+http://107.173.156.246:81/live/huya/11602042
+#EXTINF:-1 tvg-id="昵称违规-291AplnKdh" tvg-name="昵称违规-291AplnKdh" tvg-logo="https://www.xn--rgv465a.top/tvlogo/昵称违规-291AplnKdh.png" group-title="🐯虎牙直播",昵称违规-291AplnKdh
+http://107.173.156.246:81/live/huya/22149408
+#EXTINF:-1 tvg-id="昵称违规-5W3JAeeEfC" tvg-name="昵称违规-5W3JAeeEfC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/昵称违规-5W3JAeeEfC.png" group-title="🐯虎牙直播",昵称违规-5W3JAeeEfC
+http://107.173.156.246:81/live/huya/22360453
+#EXTINF:-1 tvg-id="昵称违规-95tgIDoBHS" tvg-name="昵称违规-95tgIDoBHS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/昵称违规-95tgIDoBHS.png" group-title="🐯虎牙直播",昵称违规-95tgIDoBHS
+http://107.173.156.246:81/live/huya/23863787
+#EXTINF:-1 tvg-id="昵称违规-JBo8XZZWSw" tvg-name="昵称违规-JBo8XZZWSw" tvg-logo="https://www.xn--rgv465a.top/tvlogo/昵称违规-JBo8XZZWSw.png" group-title="🐯虎牙直播",昵称违规-JBo8XZZWSw
+http://107.173.156.246:81/live/huya/11601965
+#EXTINF:-1 tvg-id="昵称违规-pTSEbHriOn" tvg-name="昵称违规-pTSEbHriOn" tvg-logo="https://www.xn--rgv465a.top/tvlogo/昵称违规-pTSEbHriOn.png" group-title="🐯虎牙直播",昵称违规-pTSEbHriOn
+http://107.173.156.246:81/live/huya/23863796
+#EXTINF:-1 tvg-id="昵称违规-QQFbPxwM1A" tvg-name="昵称违规-QQFbPxwM1A" tvg-logo="https://www.xn--rgv465a.top/tvlogo/昵称违规-QQFbPxwM1A.png" group-title="🐯虎牙直播",昵称违规-QQFbPxwM1A
+http://107.173.156.246:81/live/huya/11352958
+#EXTINF:-1 tvg-id="胖次过肩摔" tvg-name="胖次过肩摔" tvg-logo="https://www.xn--rgv465a.top/tvlogo/胖次过肩摔.png" group-title="🐯虎牙直播",胖次过肩摔
+http://107.173.156.246:81/live/huya/11352903
+#EXTINF:-1 tvg-id="霹雳爷们儿精彩视频" tvg-name="霹雳爷们儿精彩视频" tvg-logo="https://www.xn--rgv465a.top/tvlogo/霹雳爷们儿精彩视频.png" group-title="🐯虎牙直播",霹雳爷们儿精彩视频
+http://107.173.156.246:81/live/huya/874274
+#EXTINF:-1 tvg-id="皮皮皮卡卡皮卡丘" tvg-name="皮皮皮卡卡皮卡丘" tvg-logo="https://www.xn--rgv465a.top/tvlogo/皮皮皮卡卡皮卡丘.png" group-title="🐯虎牙直播",皮皮皮卡卡皮卡丘
+http://107.173.156.246:81/live/huya/21059595
+#EXTINF:-1 tvg-id="痞子帅叔叔" tvg-name="痞子帅叔叔" tvg-logo="https://www.xn--rgv465a.top/tvlogo/痞子帅叔叔.png" group-title="🐯虎牙直播",痞子帅叔叔
+http://107.173.156.246:81/live/huya/11342433
+#EXTINF:-1 tvg-id="普通司机小马" tvg-name="普通司机小马" tvg-logo="https://www.xn--rgv465a.top/tvlogo/普通司机小马.png" group-title="🐯虎牙直播",普通司机小马
+http://107.173.156.246:81/live/huya/23749096
+#EXTINF:-1 tvg-id="汽车人" tvg-name="汽车人" tvg-logo="https://www.xn--rgv465a.top/tvlogo/汽车人.png" group-title="🐯虎牙直播",汽车人
+http://107.173.156.246:81/live/huya/11352897
+#EXTINF:-1 tvg-id="千与千寻的思考" tvg-name="千与千寻的思考" tvg-logo="https://www.xn--rgv465a.top/tvlogo/千与千寻的思考.png" group-title="🐯虎牙直播",千与千寻的思考
+http://107.173.156.246:81/live/huya/21059592
+#EXTINF:-1 tvg-id="全优少年" tvg-name="全优少年" tvg-logo="https://www.xn--rgv465a.top/tvlogo/全优少年.png" group-title="🐯虎牙直播",全优少年
+http://107.173.156.246:81/live/huya/11602081
+#EXTINF:-1 tvg-id="热心市民高先生" tvg-name="热心市民高先生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/热心市民高先生.png" group-title="🐯虎牙直播",热心市民高先生
+http://107.173.156.246:81/live/huya/11602037
+#EXTINF:-1 tvg-id="如意菜头" tvg-name="如意菜头" tvg-logo="https://www.xn--rgv465a.top/tvlogo/如意菜头.png" group-title="🐯虎牙直播",如意菜头
+http://107.173.156.246:81/live/huya/11352966
+#EXTINF:-1 tvg-id="三不好學生" tvg-name="三不好學生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三不好學生.png" group-title="🐯虎牙直播",三不好學生
+http://107.173.156.246:81/live/huya/11602031
+#EXTINF:-1 tvg-id="骚年跟我来听歌" tvg-name="骚年跟我来听歌" tvg-logo="https://www.xn--rgv465a.top/tvlogo/骚年跟我来听歌.png" group-title="🐯虎牙直播",骚年跟我来听歌
+http://107.173.156.246:81/live/huya/11352974
+#EXTINF:-1 tvg-id="沙雕梗叔叔" tvg-name="沙雕梗叔叔" tvg-logo="https://www.xn--rgv465a.top/tvlogo/沙雕梗叔叔.png" group-title="🐯虎牙直播",沙雕梗叔叔
+http://107.173.156.246:81/live/huya/24648680
+#EXTINF:-1 tvg-id="沙雕剧情梗中梗" tvg-name="沙雕剧情梗中梗" tvg-logo="https://www.xn--rgv465a.top/tvlogo/沙雕剧情梗中梗.png" group-title="🐯虎牙直播",沙雕剧情梗中梗
+http://107.173.156.246:81/live/huya/24648646
+#EXTINF:-1 tvg-id="沙雕影视逗你笑" tvg-name="沙雕影视逗你笑" tvg-logo="https://www.xn--rgv465a.top/tvlogo/沙雕影视逗你笑.png" group-title="🐯虎牙直播",沙雕影视逗你笑
+http://107.173.156.246:81/live/huya/24644066
+#EXTINF:-1 tvg-id="鲨手不太冷的影迷" tvg-name="鲨手不太冷的影迷" tvg-logo="https://www.xn--rgv465a.top/tvlogo/鲨手不太冷的影迷.png" group-title="🐯虎牙直播",鲨手不太冷的影迷
+http://107.173.156.246:81/live/huya/21059586
+#EXTINF:-1 tvg-id="傻妞" tvg-name="傻妞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/傻妞.png" group-title="🐯虎牙直播",傻妞
+http://107.173.156.246:81/live/huya/11342426
+#EXTINF:-1 tvg-id="少女时代-泰妍" tvg-name="少女时代-泰妍" tvg-logo="https://www.xn--rgv465a.top/tvlogo/少女时代-泰妍.png" group-title="🐯虎牙直播",少女时代-泰妍
+http://107.173.156.246:81/live/huya/660220
+#EXTINF:-1 tvg-id="少女时代-俞利" tvg-name="少女时代-俞利" tvg-logo="https://www.xn--rgv465a.top/tvlogo/少女时代-俞利.png" group-title="🐯虎牙直播",少女时代-俞利
+http://107.173.156.246:81/live/huya/637215
+#EXTINF:-1 tvg-id="少女时代-Sunny" tvg-name="少女时代-Sunny" tvg-logo="https://www.xn--rgv465a.top/tvlogo/少女时代-Sunny.png" group-title="🐯虎牙直播",少女时代-Sunny
+http://107.173.156.246:81/live/huya/660221
+#EXTINF:-1 tvg-id="舍前棕" tvg-name="舍前棕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/舍前棕.png" group-title="🐯虎牙直播",舍前棕
+http://107.173.156.246:81/live/huya/26355844
+#EXTINF:-1 tvg-id="神行大宝" tvg-name="神行大宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/神行大宝.png" group-title="🐯虎牙直播",神行大宝
+http://107.173.156.246:81/live/huya/24514506
+#EXTINF:-1 tvg-id="笙歌" tvg-name="笙歌" tvg-logo="https://www.xn--rgv465a.top/tvlogo/笙歌.png" group-title="🐯虎牙直播",笙歌
+http://107.173.156.246:81/live/huya/11352965
+#EXTINF:-1 tvg-id="十八里铺大当家" tvg-name="十八里铺大当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/十八里铺大当家.png" group-title="🐯虎牙直播",十八里铺大当家
+http://107.173.156.246:81/live/huya/21059562
+#EXTINF:-1 tvg-id="世界格斗场" tvg-name="世界格斗场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/世界格斗场.png" group-title="🐯虎牙直播",世界格斗场
+http://107.173.156.246:81/live/huya/11352969
+#EXTINF:-1 tvg-id="仕玲沙画" tvg-name="仕玲沙画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/仕玲沙画.png" group-title="🐯虎牙直播",仕玲沙画
+http://107.173.156.246:81/live/huya/24529903
+#EXTINF:-1 tvg-id="是大宝贝呀" tvg-name="是大宝贝呀" tvg-logo="https://www.xn--rgv465a.top/tvlogo/是大宝贝呀.png" group-title="🐯虎牙直播",是大宝贝呀
+http://107.173.156.246:81/live/huya/23829543
+#EXTINF:-1 tvg-id="瞬间爆炸" tvg-name="瞬间爆炸" tvg-logo="https://www.xn--rgv465a.top/tvlogo/瞬间爆炸.png" group-title="🐯虎牙直播",瞬间爆炸
+http://107.173.156.246:81/live/huya/11352960
+#EXTINF:-1 tvg-id="斯国一" tvg-name="斯国一" tvg-logo="https://www.xn--rgv465a.top/tvlogo/斯国一.png" group-title="🐯虎牙直播",斯国一
+http://107.173.156.246:81/live/huya/11352905
+#EXTINF:-1 tvg-id="四次元先生" tvg-name="四次元先生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四次元先生.png" group-title="🐯虎牙直播",四次元先生
+http://107.173.156.246:81/live/huya/11602071
+#EXTINF:-1 tvg-id="四大裁子之首" tvg-name="四大裁子之首" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四大裁子之首.png" group-title="🐯虎牙直播",四大裁子之首
+http://107.173.156.246:81/live/huya/11602058
+#EXTINF:-1 tvg-id="苏仨" tvg-name="苏仨" tvg-logo="https://www.xn--rgv465a.top/tvlogo/苏仨.png" group-title="🐯虎牙直播",苏仨
+http://107.173.156.246:81/live/huya/11601972
+#EXTINF:-1 tvg-id="糖水桃" tvg-name="糖水桃" tvg-logo="https://www.xn--rgv465a.top/tvlogo/糖水桃.png" group-title="🐯虎牙直播",糖水桃
+http://107.173.156.246:81/live/huya/24483485
+#EXTINF:-1 tvg-id="淘宝电影制片厂" tvg-name="淘宝电影制片厂" tvg-logo="https://www.xn--rgv465a.top/tvlogo/淘宝电影制片厂.png" group-title="🐯虎牙直播",淘宝电影制片厂
+http://107.173.156.246:81/live/huya/11336575
+#EXTINF:-1 tvg-id="腾讯游戏品牌官方" tvg-name="腾讯游戏品牌官方" tvg-logo="https://www.xn--rgv465a.top/tvlogo/腾讯游戏品牌官方.png" group-title="🐯虎牙直播",腾讯游戏品牌官方
+http://107.173.156.246:81/live/huya/616201
+#EXTINF:-1 tvg-id="铁血真汉子" tvg-name="铁血真汉子" tvg-logo="https://www.xn--rgv465a.top/tvlogo/铁血真汉子.png" group-title="🐯虎牙直播",铁血真汉子
+http://107.173.156.246:81/live/huya/11342395
+#EXTINF:-1 tvg-id="偷心大盗ヽ龍宝" tvg-name="偷心大盗ヽ龍宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/偷心大盗ヽ龍宝.png" group-title="🐯虎牙直播",偷心大盗ヽ龍宝
+http://107.173.156.246:81/live/huya/11342386
+#EXTINF:-1 tvg-id="吐槽运动" tvg-name="吐槽运动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吐槽运动.png" group-title="🐯虎牙直播",吐槽运动
+http://107.173.156.246:81/live/huya/11342436
+#EXTINF:-1 tvg-id="吞针主播" tvg-name="吞针主播" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吞针主播.png" group-title="🐯虎牙直播",吞针主播
+http://107.173.156.246:81/live/huya/11352887
+#EXTINF:-1 tvg-id="威猛先生" tvg-name="威猛先生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/威猛先生.png" group-title="🐯虎牙直播",威猛先生
+http://107.173.156.246:81/live/huya/11342420
+#EXTINF:-1 tvg-id="微微爱宝宝" tvg-name="微微爱宝宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/微微爱宝宝.png" group-title="🐯虎牙直播",微微爱宝宝
+http://107.173.156.246:81/live/huya/11342422
+#EXTINF:-1 tvg-id="韦支书野狼团" tvg-name="韦支书野狼团" tvg-logo="https://www.xn--rgv465a.top/tvlogo/韦支书野狼团.png" group-title="🐯虎牙直播",韦支书野狼团
+http://107.173.156.246:81/live/huya/24592574
+#EXTINF:-1 tvg-id="为所欲为的墨镜哥" tvg-name="为所欲为的墨镜哥" tvg-logo="https://www.xn--rgv465a.top/tvlogo/为所欲为的墨镜哥.png" group-title="🐯虎牙直播",为所欲为的墨镜哥
+http://107.173.156.246:81/live/huya/23865161
+#EXTINF:-1 tvg-id="魏宏宇WHY" tvg-name="魏宏宇WHY" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魏宏宇WHY.png" group-title="🐯虎牙直播",魏宏宇WHY
+http://107.173.156.246:81/live/huya/24701960
+#EXTINF:-1 tvg-id="我才是打工人" tvg-name="我才是打工人" tvg-logo="https://www.xn--rgv465a.top/tvlogo/我才是打工人.png" group-title="🐯虎牙直播",我才是打工人
+http://107.173.156.246:81/live/huya/23860039
+#EXTINF:-1 tvg-id="我的宝贝baby" tvg-name="我的宝贝baby" tvg-logo="https://www.xn--rgv465a.top/tvlogo/我的宝贝baby.png" group-title="🐯虎牙直播",我的宝贝baby
+http://107.173.156.246:81/live/huya/11352880
+#EXTINF:-1 tvg-id="我的朋友陈白露小姐" tvg-name="我的朋友陈白露小姐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/我的朋友陈白露小姐.png" group-title="🐯虎牙直播",我的朋友陈白露小姐
+http://107.173.156.246:81/live/huya/11352917
+#EXTINF:-1 tvg-id="我很忙" tvg-name="我很忙" tvg-logo="https://www.xn--rgv465a.top/tvlogo/我很忙.png" group-title="🐯虎牙直播",我很忙
+http://107.173.156.246:81/live/huya/11352950
+#EXTINF:-1 tvg-id="我叫山鸡哥" tvg-name="我叫山鸡哥" tvg-logo="https://www.xn--rgv465a.top/tvlogo/我叫山鸡哥.png" group-title="🐯虎牙直播",我叫山鸡哥
+http://107.173.156.246:81/live/huya/23734246
+#EXTINF:-1 tvg-id="我们都爱笑" tvg-name="我们都爱笑" tvg-logo="https://www.xn--rgv465a.top/tvlogo/我们都爱笑.png" group-title="🐯虎牙直播",我们都爱笑
+http://107.173.156.246:81/live/huya/11352882
+#EXTINF:-1 tvg-id="我是靓宝" tvg-name="我是靓宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/我是靓宝.png" group-title="🐯虎牙直播",我是靓宝
+http://107.173.156.246:81/live/huya/23728660
+#EXTINF:-1 tvg-id="我是一颗小虎牙" tvg-name="我是一颗小虎牙" tvg-logo="https://www.xn--rgv465a.top/tvlogo/我是一颗小虎牙.png" group-title="🐯虎牙直播",我是一颗小虎牙
+http://107.173.156.246:81/live/huya/20985853
+#EXTINF:-1 tvg-id="我是詹密" tvg-name="我是詹密" tvg-logo="https://www.xn--rgv465a.top/tvlogo/我是詹密.png" group-title="🐯虎牙直播",我是詹密
+http://107.173.156.246:81/live/huya/11342439
+#EXTINF:-1 tvg-id="我是周粤驰" tvg-name="我是周粤驰" tvg-logo="https://www.xn--rgv465a.top/tvlogo/我是周粤驰.png" group-title="🐯虎牙直播",我是周粤驰
+http://107.173.156.246:81/live/huya/23864973
+#EXTINF:-1 tvg-id="我要在你头上暴扣" tvg-name="我要在你头上暴扣" tvg-logo="https://www.xn--rgv465a.top/tvlogo/我要在你头上暴扣.png" group-title="🐯虎牙直播",我要在你头上暴扣
+http://107.173.156.246:81/live/huya/19524135
+#EXTINF:-1 tvg-id="我只是个好人" tvg-name="我只是个好人" tvg-logo="https://www.xn--rgv465a.top/tvlogo/我只是个好人.png" group-title="🐯虎牙直播",我只是个好人
+http://107.173.156.246:81/live/huya/23728674
+#EXTINF:-1 tvg-id="無尾魚°" tvg-name="無尾魚°" tvg-logo="https://www.xn--rgv465a.top/tvlogo/無尾魚°.png" group-title="🐯虎牙直播",無尾魚°
+http://107.173.156.246:81/live/huya/11601961
+#EXTINF:-1 tvg-id="武林萌主唐小姐" tvg-name="武林萌主唐小姐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武林萌主唐小姐.png" group-title="🐯虎牙直播",武林萌主唐小姐
+http://107.173.156.246:81/live/huya/11336726
+#EXTINF:-1 tvg-id="舞王驾到" tvg-name="舞王驾到" tvg-logo="https://www.xn--rgv465a.top/tvlogo/舞王驾到.png" group-title="🐯虎牙直播",舞王驾到
+http://107.173.156.246:81/live/huya/11342438
+#EXTINF:-1 tvg-id="西九龙冠希哥" tvg-name="西九龙冠希哥" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西九龙冠希哥.png" group-title="🐯虎牙直播",西九龙冠希哥
+http://107.173.156.246:81/live/huya/21059579
+#EXTINF:-1 tvg-id="昔日女神柳清茶-" tvg-name="昔日女神柳清茶-" tvg-logo="https://www.xn--rgv465a.top/tvlogo/昔日女神柳清茶-.png" group-title="🐯虎牙直播",昔日女神柳清茶-
+http://107.173.156.246:81/live/huya/11279247
+#EXTINF:-1 tvg-id="喜来乐狮子头" tvg-name="喜来乐狮子头" tvg-logo="https://www.xn--rgv465a.top/tvlogo/喜来乐狮子头.png" group-title="🐯虎牙直播",喜来乐狮子头
+http://107.173.156.246:81/live/huya/21059580
+#EXTINF:-1 tvg-id="仙人有待尔垂钩" tvg-name="仙人有待尔垂钩" tvg-logo="https://www.xn--rgv465a.top/tvlogo/仙人有待尔垂钩.png" group-title="🐯虎牙直播",仙人有待尔垂钩
+http://107.173.156.246:81/live/huya/26355841
+#EXTINF:-1 tvg-id="香港喜剧大全" tvg-name="香港喜剧大全" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港喜剧大全.png" group-title="🐯虎牙直播",香港喜剧大全
+http://107.173.156.246:81/live/huya/23865080
+#EXTINF:-1 tvg-id="香港刑侦实录" tvg-name="香港刑侦实录" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港刑侦实录.png" group-title="🐯虎牙直播",香港刑侦实录
+http://107.173.156.246:81/live/huya/23865058
+#EXTINF:-1 tvg-id="鄉8佬" tvg-name="鄉8佬" tvg-logo="https://www.xn--rgv465a.top/tvlogo/鄉8佬.png" group-title="🐯虎牙直播",鄉8佬
+http://107.173.156.246:81/live/huya/11352920
+#EXTINF:-1 tvg-id="小爱酱" tvg-name="小爱酱" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小爱酱.png" group-title="🐯虎牙直播",小爱酱
+http://107.173.156.246:81/live/huya/11352922
+#EXTINF:-1 tvg-id="小怪兽、" tvg-name="小怪兽、" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小怪兽、.png" group-title="🐯虎牙直播",小怪兽、
+http://107.173.156.246:81/live/huya/11602044
+#EXTINF:-1 tvg-id="小军迷" tvg-name="小军迷" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小军迷.png" group-title="🐯虎牙直播",小军迷
+http://107.173.156.246:81/live/huya/11352909
+#EXTINF:-1 tvg-id="小喇叭佩囍" tvg-name="小喇叭佩囍" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小喇叭佩囍.png" group-title="🐯虎牙直播",小喇叭佩囍
+http://107.173.156.246:81/live/huya/23863778
+#EXTINF:-1 tvg-id="小亮亮" tvg-name="小亮亮" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小亮亮.png" group-title="🐯虎牙直播",小亮亮
+http://107.173.156.246:81/live/huya/11342432
+#EXTINF:-1 tvg-id="小驴影视" tvg-name="小驴影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小驴影视.png" group-title="🐯虎牙直播",小驴影视
+http://107.173.156.246:81/live/huya/24531382
+#EXTINF:-1 tvg-id="小蘑菇" tvg-name="小蘑菇" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小蘑菇.png" group-title="🐯虎牙直播",小蘑菇
+http://107.173.156.246:81/live/huya/11601981
+#EXTINF:-1 tvg-id="小牡蛎" tvg-name="小牡蛎" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小牡蛎.png" group-title="🐯虎牙直播",小牡蛎
+http://107.173.156.246:81/live/huya/11352962
+#EXTINF:-1 tvg-id="小木子先生丶" tvg-name="小木子先生丶" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小木子先生丶.png" group-title="🐯虎牙直播",小木子先生丶
+http://107.173.156.246:81/live/huya/11342396
+#EXTINF:-1 tvg-id="小橋流水黃领" tvg-name="小橋流水黃领" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小橋流水黃领.png" group-title="🐯虎牙直播",小橋流水黃领
+http://107.173.156.246:81/live/huya/26355842
+#EXTINF:-1 tvg-id="小轩" tvg-name="小轩" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小轩.png" group-title="🐯虎牙直播",小轩
+http://107.173.156.246:81/live/huya/11352899
+#EXTINF:-1 tvg-id="小妖孽" tvg-name="小妖孽" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小妖孽.png" group-title="🐯虎牙直播",小妖孽
+http://107.173.156.246:81/live/huya/11602088
+#EXTINF:-1 tvg-id="小猪猪" tvg-name="小猪猪" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小猪猪.png" group-title="🐯虎牙直播",小猪猪
+http://107.173.156.246:81/live/huya/11342416
+#EXTINF:-1 tvg-id="校长谈恋爱" tvg-name="校长谈恋爱" tvg-logo="https://www.xn--rgv465a.top/tvlogo/校长谈恋爱.png" group-title="🐯虎牙直播",校长谈恋爱
+http://107.173.156.246:81/live/huya/17980620
+#EXTINF:-1 tvg-id="心疼得抱住胖胖的自己" tvg-name="心疼得抱住胖胖的自己" tvg-logo="https://www.xn--rgv465a.top/tvlogo/心疼得抱住胖胖的自己.png" group-title="🐯虎牙直播",心疼得抱住胖胖的自己
+http://107.173.156.246:81/live/huya/11342425
+#EXTINF:-1 tvg-id="刑罚梅乾" tvg-name="刑罚梅乾" tvg-logo="https://www.xn--rgv465a.top/tvlogo/刑罚梅乾.png" group-title="🐯虎牙直播",刑罚梅乾
+http://107.173.156.246:81/live/huya/691257
+#EXTINF:-1 tvg-id="性感大妈" tvg-name="性感大妈" tvg-logo="https://www.xn--rgv465a.top/tvlogo/性感大妈.png" group-title="🐯虎牙直播",性感大妈
+http://107.173.156.246:81/live/huya/11602075
+#EXTINF:-1 tvg-id="喧嚣的夏风" tvg-name="喧嚣的夏风" tvg-logo="https://www.xn--rgv465a.top/tvlogo/喧嚣的夏风.png" group-title="🐯虎牙直播",喧嚣的夏风
+http://107.173.156.246:81/live/huya/10871113
+#EXTINF:-1 tvg-id="学妹爱学长" tvg-name="学妹爱学长" tvg-logo="https://www.xn--rgv465a.top/tvlogo/学妹爱学长.png" group-title="🐯虎牙直播",学妹爱学长
+http://107.173.156.246:81/live/huya/11352886
+#EXTINF:-1 tvg-id="牙缝多了根青菜" tvg-name="牙缝多了根青菜" tvg-logo="https://www.xn--rgv465a.top/tvlogo/牙缝多了根青菜.png" group-title="🐯虎牙直播",牙缝多了根青菜
+http://107.173.156.246:81/live/huya/11352877
+#EXTINF:-1 tvg-id="雅痞不是帅" tvg-name="雅痞不是帅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/雅痞不是帅.png" group-title="🐯虎牙直播",雅痞不是帅
+http://107.173.156.246:81/live/huya/11352953
+#EXTINF:-1 tvg-id="嫣然" tvg-name="嫣然" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嫣然.png" group-title="🐯虎牙直播",嫣然
+http://107.173.156.246:81/live/huya/11601977
+#EXTINF:-1 tvg-id="演员方安娜" tvg-name="演员方安娜" tvg-logo="https://www.xn--rgv465a.top/tvlogo/演员方安娜.png" group-title="🐯虎牙直播",演员方安娜
+http://107.173.156.246:81/live/huya/22151150
+#EXTINF:-1 tvg-id="演员管轩" tvg-name="演员管轩" tvg-logo="https://www.xn--rgv465a.top/tvlogo/演员管轩.png" group-title="🐯虎牙直播",演员管轩
+http://107.173.156.246:81/live/huya/23493957
+#EXTINF:-1 tvg-id="妖孽CC" tvg-name="妖孽CC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/妖孽CC.png" group-title="🐯虎牙直播",妖孽CC
+http://107.173.156.246:81/live/huya/11352945
+#EXTINF:-1 tvg-id="一片青青草原" tvg-name="一片青青草原" tvg-logo="https://www.xn--rgv465a.top/tvlogo/一片青青草原.png" group-title="🐯虎牙直播",一片青青草原
+http://107.173.156.246:81/live/huya/11352973
+#EXTINF:-1 tvg-id="一起来埋堆" tvg-name="一起来埋堆" tvg-logo="https://www.xn--rgv465a.top/tvlogo/一起来埋堆.png" group-title="🐯虎牙直播",一起来埋堆
+http://107.173.156.246:81/live/huya/23734183
+#EXTINF:-1 tvg-id="一只大懒虫" tvg-name="一只大懒虫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/一只大懒虫.png" group-title="🐯虎牙直播",一只大懒虫
+http://107.173.156.246:81/live/huya/11279251
+#EXTINF:-1 tvg-id="一只梦幻小萌虎" tvg-name="一只梦幻小萌虎" tvg-logo="https://www.xn--rgv465a.top/tvlogo/一只梦幻小萌虎.png" group-title="🐯虎牙直播",一只梦幻小萌虎
+http://107.173.156.246:81/live/huya/21059556
+#EXTINF:-1 tvg-id="音粤无国界" tvg-name="音粤无国界" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音粤无国界.png" group-title="🐯虎牙直播",音粤无国界
+http://107.173.156.246:81/live/huya/23734256
+#EXTINF:-1 tvg-id="嘤嘤嘤" tvg-name="嘤嘤嘤" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘤嘤嘤.png" group-title="🐯虎牙直播",嘤嘤嘤
+http://107.173.156.246:81/live/huya/11336579
+#EXTINF:-1 tvg-id="鱼塘塘主张年年" tvg-name="鱼塘塘主张年年" tvg-logo="https://www.xn--rgv465a.top/tvlogo/鱼塘塘主张年年.png" group-title="🐯虎牙直播",鱼塘塘主张年年
+http://107.173.156.246:81/live/huya/11342384
+#EXTINF:-1 tvg-id="娱乐大王牌" tvg-name="娱乐大王牌" tvg-logo="https://www.xn--rgv465a.top/tvlogo/娱乐大王牌.png" group-title="🐯虎牙直播",娱乐大王牌
+http://107.173.156.246:81/live/huya/880242
+#EXTINF:-1 tvg-id="元芳看不到" tvg-name="元芳看不到" tvg-logo="https://www.xn--rgv465a.top/tvlogo/元芳看不到.png" group-title="🐯虎牙直播",元芳看不到
+http://107.173.156.246:81/live/huya/11342414
+#EXTINF:-1 tvg-id="云儿" tvg-name="云儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云儿.png" group-title="🐯虎牙直播",云儿
+http://107.173.156.246:81/live/huya/22176049
+#EXTINF:-1 tvg-id="战斗联盟" tvg-name="战斗联盟" tvg-logo="https://www.xn--rgv465a.top/tvlogo/战斗联盟.png" group-title="🐯虎牙直播",战斗联盟
+http://107.173.156.246:81/live/huya/11342413
+#EXTINF:-1 tvg-id="张医生" tvg-name="张医生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/张医生.png" group-title="🐯虎牙直播",张医生
+http://107.173.156.246:81/live/huya/11342415
+#EXTINF:-1 tvg-id="长岛冰茶-" tvg-name="长岛冰茶-" tvg-logo="https://www.xn--rgv465a.top/tvlogo/长岛冰茶-.png" group-title="🐯虎牙直播",长岛冰茶-
+http://107.173.156.246:81/live/huya/11352884
+#EXTINF:-1 tvg-id="这很不同" tvg-name="这很不同" tvg-logo="https://www.xn--rgv465a.top/tvlogo/这很不同.png" group-title="🐯虎牙直播",这很不同
+http://107.173.156.246:81/live/huya/11602067
+#EXTINF:-1 tvg-id="正经纪录片" tvg-name="正经纪录片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/正经纪录片.png" group-title="🐯虎牙直播",正经纪录片
+http://107.173.156.246:81/live/huya/23860049
+#EXTINF:-1 tvg-id="志晟-NCTDREAM" tvg-name="志晟-NCTDREAM" tvg-logo="https://www.xn--rgv465a.top/tvlogo/志晟-NCTDREAM.png" group-title="🐯虎牙直播",志晟-NCTDREAM
+http://107.173.156.246:81/live/huya/660268
+#EXTINF:-1 tvg-id="炙恋兽兽" tvg-name="炙恋兽兽" tvg-logo="https://www.xn--rgv465a.top/tvlogo/炙恋兽兽.png" group-title="🐯虎牙直播",炙恋兽兽
+http://107.173.156.246:81/live/huya/11342428
+#EXTINF:-1 tvg-id="中国探月太空萌兔" tvg-name="中国探月太空萌兔" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中国探月太空萌兔.png" group-title="🐯虎牙直播",中国探月太空萌兔
+http://107.173.156.246:81/live/huya/23663418
+#EXTINF:-1 tvg-id="种瓜得弟弟" tvg-name="种瓜得弟弟" tvg-logo="https://www.xn--rgv465a.top/tvlogo/种瓜得弟弟.png" group-title="🐯虎牙直播",种瓜得弟弟
+http://107.173.156.246:81/live/huya/11352872
+#EXTINF:-1 tvg-id="重口味爱好者" tvg-name="重口味爱好者" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重口味爱好者.png" group-title="🐯虎牙直播",重口味爱好者
+http://107.173.156.246:81/live/huya/11352889
+#EXTINF:-1 tvg-id="周星星梦里的朱茵" tvg-name="周星星梦里的朱茵" tvg-logo="https://www.xn--rgv465a.top/tvlogo/周星星梦里的朱茵.png" group-title="🐯虎牙直播",周星星梦里的朱茵
+http://107.173.156.246:81/live/huya/21059587
+#EXTINF:-1 tvg-id="茱麗葉" tvg-name="茱麗葉" tvg-logo="https://www.xn--rgv465a.top/tvlogo/茱麗葉.png" group-title="🐯虎牙直播",茱麗葉
+http://107.173.156.246:81/live/huya/11602072
+#EXTINF:-1 tvg-id="猪猪妹说电影" tvg-name="猪猪妹说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猪猪妹说电影.png" group-title="🐯虎牙直播",猪猪妹说电影
+http://107.173.156.246:81/live/huya/16457533
+#EXTINF:-1 tvg-id="主播黑猫" tvg-name="主播黑猫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/主播黑猫.png" group-title="🐯虎牙直播",主播黑猫
+http://107.173.156.246:81/live/huya/11352896
+#EXTINF:-1 tvg-id="主播小贞" tvg-name="主播小贞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/主播小贞.png" group-title="🐯虎牙直播",主播小贞
+http://107.173.156.246:81/live/huya/11352935
+#EXTINF:-1 tvg-id="状元及第粥" tvg-name="状元及第粥" tvg-logo="https://www.xn--rgv465a.top/tvlogo/状元及第粥.png" group-title="🐯虎牙直播",状元及第粥
+http://107.173.156.246:81/live/huya/21059581
+#EXTINF:-1 tvg-id="走哪吃哪" tvg-name="走哪吃哪" tvg-logo="https://www.xn--rgv465a.top/tvlogo/走哪吃哪.png" group-title="🐯虎牙直播",走哪吃哪
+http://107.173.156.246:81/live/huya/24481231
+#EXTINF:-1 tvg-id="左手的扑克v" tvg-name="左手的扑克v" tvg-logo="https://www.xn--rgv465a.top/tvlogo/左手的扑克v.png" group-title="🐯虎牙直播",左手的扑克v
+http://107.173.156.246:81/live/huya/24577218
+#EXTINF:-1 tvg-id="做人最要紧开心" tvg-name="做人最要紧开心" tvg-logo="https://www.xn--rgv465a.top/tvlogo/做人最要紧开心.png" group-title="🐯虎牙直播",做人最要紧开心
+http://107.173.156.246:81/live/huya/23824164
+#EXTINF:-1 tvg-id="Amy姐" tvg-name="Amy姐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Amy姐.png" group-title="🐯虎牙直播",Amy姐
+http://107.173.156.246:81/live/huya/23746486
+#EXTINF:-1 tvg-id="Casper卡斯柏" tvg-name="Casper卡斯柏" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Casper卡斯柏.png" group-title="🐯虎牙直播",Casper卡斯柏
+http://107.173.156.246:81/live/huya/21426772
+#EXTINF:-1 tvg-id="D3ath-亡魂" tvg-name="D3ath-亡魂" tvg-logo="https://www.xn--rgv465a.top/tvlogo/D3ath-亡魂.png" group-title="🐯虎牙直播",D3ath-亡魂
+http://107.173.156.246:81/live/huya/11342437
+#EXTINF:-1 tvg-id="Eric次元宝贝" tvg-name="Eric次元宝贝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Eric次元宝贝.png" group-title="🐯虎牙直播",Eric次元宝贝
+http://107.173.156.246:81/live/huya/21059552
+#EXTINF:-1 tvg-id="EXO-伯贤" tvg-name="EXO-伯贤" tvg-logo="https://www.xn--rgv465a.top/tvlogo/EXO-伯贤.png" group-title="🐯虎牙直播",EXO-伯贤
+http://107.173.156.246:81/live/huya/660204
+#EXTINF:-1 tvg-id="EXO-灿烈" tvg-name="EXO-灿烈" tvg-logo="https://www.xn--rgv465a.top/tvlogo/EXO-灿烈.png" group-title="🐯虎牙直播",EXO-灿烈
+http://107.173.156.246:81/live/huya/660275
+#EXTINF:-1 tvg-id="EXO-世勋" tvg-name="EXO-世勋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/EXO-世勋.png" group-title="🐯虎牙直播",EXO-世勋
+http://107.173.156.246:81/live/huya/660205
+#EXTINF:-1 tvg-id="Fighter" tvg-name="Fighter" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Fighter.png" group-title="🐯虎牙直播",Fighter
+http://107.173.156.246:81/live/huya/11352949
+#EXTINF:-1 tvg-id="fromis9-CHAEYOUNG" tvg-name="fromis9-CHAEYOUNG" tvg-logo="https://www.xn--rgv465a.top/tvlogo/fromis9-CHAEYOUNG.png" group-title="🐯虎牙直播",fromis9-CHAEYOUNG
+http://107.173.156.246:81/live/huya/691261
+#EXTINF:-1 tvg-id="fromis9-JIWON" tvg-name="fromis9-JIWON" tvg-logo="https://www.xn--rgv465a.top/tvlogo/fromis9-JIWON.png" group-title="🐯虎牙直播",fromis9-JIWON
+http://107.173.156.246:81/live/huya/691251
+#EXTINF:-1 tvg-id="fromis9-NAGYUNG" tvg-name="fromis9-NAGYUNG" tvg-logo="https://www.xn--rgv465a.top/tvlogo/fromis9-NAGYUNG.png" group-title="🐯虎牙直播",fromis9-NAGYUNG
+http://107.173.156.246:81/live/huya/691253
+#EXTINF:-1 tvg-id="fromis9-SAEROM" tvg-name="fromis9-SAEROM" tvg-logo="https://www.xn--rgv465a.top/tvlogo/fromis9-SAEROM.png" group-title="🐯虎牙直播",fromis9-SAEROM
+http://107.173.156.246:81/live/huya/691255
+#EXTINF:-1 tvg-id="HelloKitty" tvg-name="HelloKitty" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HelloKitty.png" group-title="🐯虎牙直播",HelloKitty
+http://107.173.156.246:81/live/huya/11352879
+#EXTINF:-1 tvg-id="loVe、飘零" tvg-name="loVe、飘零" tvg-logo="https://www.xn--rgv465a.top/tvlogo/loVe、飘零.png" group-title="🐯虎牙直播",loVe、飘零
+http://107.173.156.246:81/live/huya/11602074
+#EXTINF:-1 tvg-id="Mr-傀儡" tvg-name="Mr-傀儡" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Mr-傀儡.png" group-title="🐯虎牙直播",Mr-傀儡
+http://107.173.156.246:81/live/huya/11352936
+#EXTINF:-1 tvg-id="NCT127-道英" tvg-name="NCT127-道英" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NCT127-道英.png" group-title="🐯虎牙直播",NCT127-道英
+http://107.173.156.246:81/live/huya/637216
+#EXTINF:-1 tvg-id="NCT127-在玹" tvg-name="NCT127-在玹" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NCT127-在玹.png" group-title="🐯虎牙直播",NCT127-在玹
+http://107.173.156.246:81/live/huya/637218
+#EXTINF:-1 tvg-id="No1常在心" tvg-name="No1常在心" tvg-logo="https://www.xn--rgv465a.top/tvlogo/No1常在心.png" group-title="🐯虎牙直播",No1常在心
+http://107.173.156.246:81/live/huya/11342402
+#EXTINF:-1 tvg-id="PENTAGON-高信源" tvg-name="PENTAGON-高信源" tvg-logo="https://www.xn--rgv465a.top/tvlogo/PENTAGON-高信源.png" group-title="🐯虎牙直播",PENTAGON-高信源
+http://107.173.156.246:81/live/huya/347523
+#EXTINF:-1 tvg-id="Sir说电影" tvg-name="Sir说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sir说电影.png" group-title="🐯虎牙直播",Sir说电影
+http://107.173.156.246:81/live/huya/16626185
+#EXTINF:-1 tvg-id="SMG爆笑舞台" tvg-name="SMG爆笑舞台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SMG爆笑舞台.png" group-title="🐯虎牙直播",SMG爆笑舞台
+http://107.173.156.246:81/live/huya/11352937
+#EXTINF:-1 tvg-id="SMG开怀时刻" tvg-name="SMG开怀时刻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SMG开怀时刻.png" group-title="🐯虎牙直播",SMG开怀时刻
+http://107.173.156.246:81/live/huya/11352908
+#EXTINF:-1 tvg-id="SMG胖月老" tvg-name="SMG胖月老" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SMG胖月老.png" group-title="🐯虎牙直播",SMG胖月老
+http://107.173.156.246:81/live/huya/11352947
+#EXTINF:-1 tvg-id="SMG吐槽担当" tvg-name="SMG吐槽担当" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SMG吐槽担当.png" group-title="🐯虎牙直播",SMG吐槽担当
+http://107.173.156.246:81/live/huya/11352961
+#EXTINF:-1 tvg-id="SMG最强大脑" tvg-name="SMG最强大脑" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SMG最强大脑.png" group-title="🐯虎牙直播",SMG最强大脑
+http://107.173.156.246:81/live/huya/11352914
+#EXTINF:-1 tvg-id="SuperJunior-东海" tvg-name="SuperJunior-东海" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SuperJunior-东海.png" group-title="🐯虎牙直播",SuperJunior-东海
+http://107.173.156.246:81/live/huya/660371
+#EXTINF:-1 tvg-id="SuperJunior-希澈" tvg-name="SuperJunior-希澈" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SuperJunior-希澈.png" group-title="🐯虎牙直播",SuperJunior-希澈
+http://107.173.156.246:81/live/huya/660273
+#EXTINF:-1 tvg-id="SuperJunior-银赫" tvg-name="SuperJunior-银赫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SuperJunior-银赫.png" group-title="🐯虎牙直播",SuperJunior-银赫
+http://107.173.156.246:81/live/huya/660274
+#EXTINF:-1 tvg-id="TVB爱情故事" tvg-name="TVB爱情故事" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB爱情故事.png" group-title="🐯虎牙直播",TVB爱情故事
+http://107.173.156.246:81/live/huya/23863818
+#EXTINF:-1 tvg-id="TVB动作大片" tvg-name="TVB动作大片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB动作大片.png" group-title="🐯虎牙直播",TVB动作大片
+http://107.173.156.246:81/live/huya/23865036
+#EXTINF:-1 tvg-id="TVB官方" tvg-name="TVB官方" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB官方.png" group-title="🐯虎牙直播",TVB官方
+http://107.173.156.246:81/live/huya/23735126
+#EXTINF:-1 tvg-id="TVB职场剧大全" tvg-name="TVB职场剧大全" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB职场剧大全.png" group-title="🐯虎牙直播",TVB职场剧大全
+http://107.173.156.246:81/live/huya/23735153
+#EXTINF:-1 tvg-id="TVB追剧小能手" tvg-name="TVB追剧小能手" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB追剧小能手.png" group-title="🐯虎牙直播",TVB追剧小能手
+http://107.173.156.246:81/live/huya/23865179
+#EXTINF:-1 tvg-id="TVBaby" tvg-name="TVBaby" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBaby.png" group-title="🐯虎牙直播",TVBaby
+http://107.173.156.246:81/live/huya/23865164
+#EXTINF:-1 tvg-id="Wang-我的女人" tvg-name="Wang-我的女人" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Wang-我的女人.png" group-title="🐯虎牙直播",Wang-我的女人
+http://107.173.156.246:81/live/huya/11352940
+#EXTINF:-1 tvg-id="WayV-刘扬扬" tvg-name="WayV-刘扬扬" tvg-logo="https://www.xn--rgv465a.top/tvlogo/WayV-刘扬扬.png" group-title="🐯虎牙直播",WayV-刘扬扬
+http://107.173.156.246:81/live/huya/660476
+#EXTINF:-1 tvg-id="yoo" tvg-name="yoo" tvg-logo="https://www.xn--rgv465a.top/tvlogo/yoo.png" group-title="🐯虎牙直播",yoo
+http://107.173.156.246:81/live/huya/11352876
+#EXTINF:-1 tvg-id="Yummy" tvg-name="Yummy" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Yummy.png" group-title="🐯虎牙直播",Yummy
+http://107.173.156.246:81/live/huya/11336587
+#EXTINF:-1 tvg-id="【林正英】电影系列" tvg-name="【林正英】电影系列" tvg-logo="https://www.xn--rgv465a.top/tvlogo/【林正英】电影系列.png" group-title="🐯虎牙直播",【林正英】电影系列
+http://107.173.156.246:81/live/huya/28274529
+#EXTINF:-1 tvg-id="2324963683yy" tvg-name="2324963683yy" tvg-logo="https://www.xn--rgv465a.top/tvlogo/2324963683yy.png" group-title="🐯虎牙直播",2324963683yy
+http://107.173.156.246:81/live/huya/16524148
+#EXTINF:-1 tvg-id="7块说故事" tvg-name="7块说故事" tvg-logo="https://www.xn--rgv465a.top/tvlogo/7块说故事.png" group-title="🐯虎牙直播",7块说故事
+http://107.173.156.246:81/live/huya/27661804
+#EXTINF:-1 tvg-id="9292-泰迪熊【佛系】" tvg-name="9292-泰迪熊【佛系】" tvg-logo="https://www.xn--rgv465a.top/tvlogo/9292-泰迪熊【佛系】.png" group-title="🐯虎牙直播",9292-泰迪熊【佛系】
+http://107.173.156.246:81/live/huya/18591425
 #EXTINF:-1 tvg-id="阿斗归来了" tvg-name="阿斗归来了" tvg-logo="https://www.xn--rgv465a.top/tvlogo/阿斗归来了.png" group-title="🐯虎牙直播",阿斗归来了
-https://live.ottiptv.cc/huya/13303478
+http://107.173.156.246:81/live/huya/13303478
 #EXTINF:-1 tvg-id="阿良说美剧" tvg-name="阿良说美剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/阿良说美剧.png" group-title="🐯虎牙直播",阿良说美剧
-https://live.ottiptv.cc/huya/20488841
+http://107.173.156.246:81/live/huya/20488841
+#EXTINF:-1 tvg-id="艾莉" tvg-name="艾莉" tvg-logo="https://www.xn--rgv465a.top/tvlogo/艾莉.png" group-title="🐯虎牙直播",艾莉
+http://107.173.156.246:81/live/huya/20969144
+#EXTINF:-1 tvg-id="奥雷观影" tvg-name="奥雷观影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/奥雷观影.png" group-title="🐯虎牙直播",奥雷观影
+http://107.173.156.246:81/live/huya/27626673
+#EXTINF:-1 tvg-id="奥特博物馆V" tvg-name="奥特博物馆V" tvg-logo="https://www.xn--rgv465a.top/tvlogo/奥特博物馆V.png" group-title="🐯虎牙直播",奥特博物馆V
+http://107.173.156.246:81/live/huya/26509852
+#EXTINF:-1 tvg-id="八零影漫" tvg-name="八零影漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/八零影漫.png" group-title="🐯虎牙直播",八零影漫
+http://107.173.156.246:81/live/huya/27236095
+#EXTINF:-1 tvg-id="巴巴" tvg-name="巴巴" tvg-logo="https://www.xn--rgv465a.top/tvlogo/巴巴.png" group-title="🐯虎牙直播",巴巴
+http://107.173.156.246:81/live/huya/23964604
+#EXTINF:-1 tvg-id="白丁说电影" tvg-name="白丁说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/白丁说电影.png" group-title="🐯虎牙直播",白丁说电影
+http://107.173.156.246:81/live/huya/24396428
+#EXTINF:-1 tvg-id="白鹤电影呀" tvg-name="白鹤电影呀" tvg-logo="https://www.xn--rgv465a.top/tvlogo/白鹤电影呀.png" group-title="🐯虎牙直播",白鹤电影呀
+http://107.173.156.246:81/live/huya/27989418
+#EXTINF:-1 tvg-id="白菘无人省" tvg-name="白菘无人省" tvg-logo="https://www.xn--rgv465a.top/tvlogo/白菘无人省.png" group-title="🐯虎牙直播",白菘无人省
+http://107.173.156.246:81/live/huya/26355864
+#EXTINF:-1 tvg-id="邦邦说" tvg-name="邦邦说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/邦邦说.png" group-title="🐯虎牙直播",邦邦说
+http://107.173.156.246:81/live/huya/27742258
+#EXTINF:-1 tvg-id="包子【大爷的小棉袄】" tvg-name="包子【大爷的小棉袄】" tvg-logo="https://www.xn--rgv465a.top/tvlogo/包子【大爷的小棉袄】.png" group-title="🐯虎牙直播",包子【大爷的小棉袄】
+http://107.173.156.246:81/live/huya/11090743
+#EXTINF:-1 tvg-id="宝可梦剑盾攻略" tvg-name="宝可梦剑盾攻略" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宝可梦剑盾攻略.png" group-title="🐯虎牙直播",宝可梦剑盾攻略
+http://107.173.156.246:81/live/huya/21634198
+#EXTINF:-1 tvg-id="爆裂电影" tvg-name="爆裂电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爆裂电影.png" group-title="🐯虎牙直播",爆裂电影
+http://107.173.156.246:81/live/huya/25013725
+#EXTINF:-1 tvg-id="爆米电影" tvg-name="爆米电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爆米电影.png" group-title="🐯虎牙直播",爆米电影
+http://107.173.156.246:81/live/huya/24936375
+#EXTINF:-1 tvg-id="贝勒电影" tvg-name="贝勒电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/贝勒电影.png" group-title="🐯虎牙直播",贝勒电影
+http://107.173.156.246:81/live/huya/24770400
+#EXTINF:-1 tvg-id="备胎说车" tvg-name="备胎说车" tvg-logo="https://www.xn--rgv465a.top/tvlogo/备胎说车.png" group-title="🐯虎牙直播",备胎说车
+http://107.173.156.246:81/live/huya/20985836
+#EXTINF:-1 tvg-id="比尔电影" tvg-name="比尔电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/比尔电影.png" group-title="🐯虎牙直播",比尔电影
+http://107.173.156.246:81/live/huya/17227870
+#EXTINF:-1 tvg-id="不二说剧" tvg-name="不二说剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/不二说剧.png" group-title="🐯虎牙直播",不二说剧
+http://107.173.156.246:81/live/huya/24401498
+#EXTINF:-1 tvg-id="不问影探" tvg-name="不问影探" tvg-logo="https://www.xn--rgv465a.top/tvlogo/不问影探.png" group-title="🐯虎牙直播",不问影探
+http://107.173.156.246:81/live/huya/25013685
+#EXTINF:-1 tvg-id="布丁仔和泡芙妹的一天" tvg-name="布丁仔和泡芙妹的一天" tvg-logo="https://www.xn--rgv465a.top/tvlogo/布丁仔和泡芙妹的一天.png" group-title="🐯虎牙直播",布丁仔和泡芙妹的一天
+http://107.173.156.246:81/live/huya/24936380
+#EXTINF:-1 tvg-id="沉睡在你心底的光" tvg-name="沉睡在你心底的光" tvg-logo="https://www.xn--rgv465a.top/tvlogo/沉睡在你心底的光.png" group-title="🐯虎牙直播",沉睡在你心底的光
+http://107.173.156.246:81/live/huya/20985816
 #EXTINF:-1 tvg-id="陈翔六点半" tvg-name="陈翔六点半" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陈翔六点半.png" group-title="🐯虎牙直播",陈翔六点半
-https://live.ottiptv.cc/huya/11274154
+http://107.173.156.246:81/live/huya/11274154
+#EXTINF:-1 tvg-id="楚门聊电影" tvg-name="楚门聊电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/楚门聊电影.png" group-title="🐯虎牙直播",楚门聊电影
+http://107.173.156.246:81/live/huya/16507906
+#EXTINF:-1 tvg-id="船长电影解说" tvg-name="船长电影解说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/船长电影解说.png" group-title="🐯虎牙直播",船长电影解说
+http://107.173.156.246:81/live/huya/24983280
+#EXTINF:-1 tvg-id="刺猬职场说" tvg-name="刺猬职场说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/刺猬职场说.png" group-title="🐯虎牙直播",刺猬职场说
+http://107.173.156.246:81/live/huya/22717669
+#EXTINF:-1 tvg-id="大板牙电影" tvg-name="大板牙电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大板牙电影.png" group-title="🐯虎牙直播",大板牙电影
+http://107.173.156.246:81/live/huya/24645498
+#EXTINF:-1 tvg-id="大本有剧" tvg-name="大本有剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大本有剧.png" group-title="🐯虎牙直播",大本有剧
+http://107.173.156.246:81/live/huya/24401117
+#EXTINF:-1 tvg-id="大葱电影" tvg-name="大葱电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大葱电影.png" group-title="🐯虎牙直播",大葱电影
+http://107.173.156.246:81/live/huya/26332024
+#EXTINF:-1 tvg-id="大聪明和魏乐乐影院" tvg-name="大聪明和魏乐乐影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大聪明和魏乐乐影院.png" group-title="🐯虎牙直播",大聪明和魏乐乐影院
+http://107.173.156.246:81/live/huya/23304691
+#EXTINF:-1 tvg-id="大郎哥哥在这里" tvg-name="大郎哥哥在这里" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大郎哥哥在这里.png" group-title="🐯虎牙直播",大郎哥哥在这里
+http://107.173.156.246:81/live/huya/24996596
+#EXTINF:-1 tvg-id="大幂幂电影" tvg-name="大幂幂电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大幂幂电影.png" group-title="🐯虎牙直播",大幂幂电影
+http://107.173.156.246:81/live/huya/24986575
+#EXTINF:-1 tvg-id="大圣探世界" tvg-name="大圣探世界" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大圣探世界.png" group-title="🐯虎牙直播",大圣探世界
+http://107.173.156.246:81/live/huya/27624382
+#EXTINF:-1 tvg-id="大鱼爱路飞" tvg-name="大鱼爱路飞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大鱼爱路飞.png" group-title="🐯虎牙直播",大鱼爱路飞
+http://107.173.156.246:81/live/huya/25818873
+#EXTINF:-1 tvg-id="呆瓜侃电影" tvg-name="呆瓜侃电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/呆瓜侃电影.png" group-title="🐯虎牙直播",呆瓜侃电影
+http://107.173.156.246:81/live/huya/26714197
+#EXTINF:-1 tvg-id="稻谷Movie" tvg-name="稻谷Movie" tvg-logo="https://www.xn--rgv465a.top/tvlogo/稻谷Movie.png" group-title="🐯虎牙直播",稻谷Movie
+http://107.173.156.246:81/live/huya/25767728
+#EXTINF:-1 tvg-id="德云郭德纲相声" tvg-name="德云郭德纲相声" tvg-logo="https://www.xn--rgv465a.top/tvlogo/德云郭德纲相声.png" group-title="🐯虎牙直播",德云郭德纲相声
+http://107.173.156.246:81/live/huya/25343324
+#EXTINF:-1 tvg-id="德云社相声" tvg-name="德云社相声" tvg-logo="https://www.xn--rgv465a.top/tvlogo/德云社相声.png" group-title="🐯虎牙直播",德云社相声
+http://107.173.156.246:81/live/huya/10712908
+#EXTINF:-1 tvg-id="噔噔悬疑社" tvg-name="噔噔悬疑社" tvg-logo="https://www.xn--rgv465a.top/tvlogo/噔噔悬疑社.png" group-title="🐯虎牙直播",噔噔悬疑社
+http://107.173.156.246:81/live/huya/17445539
+#EXTINF:-1 tvg-id="低调新说" tvg-name="低调新说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/低调新说.png" group-title="🐯虎牙直播",低调新说
+http://107.173.156.246:81/live/huya/20578977
+#EXTINF:-1 tvg-id="缔爵丶小阿杜" tvg-name="缔爵丶小阿杜" tvg-logo="https://www.xn--rgv465a.top/tvlogo/缔爵丶小阿杜.png" group-title="🐯虎牙直播",缔爵丶小阿杜
+http://107.173.156.246:81/live/huya/16755322
+#EXTINF:-1 tvg-id="电商前沿君" tvg-name="电商前沿君" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电商前沿君.png" group-title="🐯虎牙直播",电商前沿君
+http://107.173.156.246:81/live/huya/19685618
+#EXTINF:-1 tvg-id="电影笔记" tvg-name="电影笔记" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影笔记.png" group-title="🐯虎牙直播",电影笔记
+http://107.173.156.246:81/live/huya/16920222
+#EXTINF:-1 tvg-id="电影充电站" tvg-name="电影充电站" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影充电站.png" group-title="🐯虎牙直播",电影充电站
+http://107.173.156.246:81/live/huya/20064385
+#EXTINF:-1 tvg-id="电影东北球王" tvg-name="电影东北球王" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影东北球王.png" group-title="🐯虎牙直播",电影东北球王
+http://107.173.156.246:81/live/huya/880286
+#EXTINF:-1 tvg-id="电影间谍" tvg-name="电影间谍" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影间谍.png" group-title="🐯虎牙直播",电影间谍
+http://107.173.156.246:81/live/huya/16149609
 #EXTINF:-1 tvg-id="电影狂人A" tvg-name="电影狂人A" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影狂人A.png" group-title="🐯虎牙直播",电影狂人A
-https://live.ottiptv.cc/huya/18715610
+http://107.173.156.246:81/live/huya/18715610
+#EXTINF:-1 tvg-id="电影票妹" tvg-name="电影票妹" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影票妹.png" group-title="🐯虎牙直播",电影票妹
+http://107.173.156.246:81/live/huya/24771023
+#EXTINF:-1 tvg-id="电影十里廊" tvg-name="电影十里廊" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影十里廊.png" group-title="🐯虎牙直播",电影十里廊
+http://107.173.156.246:81/live/huya/16801558
+#EXTINF:-1 tvg-id="电影探长" tvg-name="电影探长" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影探长.png" group-title="🐯虎牙直播",电影探长
+http://107.173.156.246:81/live/huya/27438374
+#EXTINF:-1 tvg-id="电影享不停" tvg-name="电影享不停" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影享不停.png" group-title="🐯虎牙直播",电影享不停
+http://107.173.156.246:81/live/huya/16873147
 #EXTINF:-1 tvg-id="电影最TOP" tvg-name="电影最TOP" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影最TOP.png" group-title="🐯虎牙直播",电影最TOP
-https://live.ottiptv.cc/huya/11774959
+http://107.173.156.246:81/live/huya/11774959
+#EXTINF:-1 tvg-id="顶级奢侈" tvg-name="顶级奢侈" tvg-logo="https://www.xn--rgv465a.top/tvlogo/顶级奢侈.png" group-title="🐯虎牙直播",顶级奢侈
+http://107.173.156.246:81/live/huya/20985814
+#EXTINF:-1 tvg-id="东辰-乔" tvg-name="东辰-乔" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东辰-乔.png" group-title="🐯虎牙直播",东辰-乔
+http://107.173.156.246:81/live/huya/19747102
+#EXTINF:-1 tvg-id="东方先生i" tvg-name="东方先生i" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方先生i.png" group-title="🐯虎牙直播",东方先生i
+http://107.173.156.246:81/live/huya/24396323
+#EXTINF:-1 tvg-id="冬至不会飞" tvg-name="冬至不会飞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/冬至不会飞.png" group-title="🐯虎牙直播",冬至不会飞
+http://107.173.156.246:81/live/huya/24761801
+#EXTINF:-1 tvg-id="董小姐影视剪辑" tvg-name="董小姐影视剪辑" tvg-logo="https://www.xn--rgv465a.top/tvlogo/董小姐影视剪辑.png" group-title="🐯虎牙直播",董小姐影视剪辑
+http://107.173.156.246:81/live/huya/26995483
+#EXTINF:-1 tvg-id="短的发布会" tvg-name="短的发布会" tvg-logo="https://www.xn--rgv465a.top/tvlogo/短的发布会.png" group-title="🐯虎牙直播",短的发布会
+http://107.173.156.246:81/live/huya/17142127
+#EXTINF:-1 tvg-id="二哥说电影" tvg-name="二哥说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/二哥说电影.png" group-title="🐯虎牙直播",二哥说电影
+http://107.173.156.246:81/live/huya/24969013
+#EXTINF:-1 tvg-id="二叔托马斯" tvg-name="二叔托马斯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/二叔托马斯.png" group-title="🐯虎牙直播",二叔托马斯
+http://107.173.156.246:81/live/huya/27817468
+#EXTINF:-1 tvg-id="肥猫观影" tvg-name="肥猫观影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/肥猫观影.png" group-title="🐯虎牙直播",肥猫观影
+http://107.173.156.246:81/live/huya/24152470
+#EXTINF:-1 tvg-id="枫哥影视" tvg-name="枫哥影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/枫哥影视.png" group-title="🐯虎牙直播",枫哥影视
+http://107.173.156.246:81/live/huya/25007621
+#EXTINF:-1 tvg-id="港影侦查局" tvg-name="港影侦查局" tvg-logo="https://www.xn--rgv465a.top/tvlogo/港影侦查局.png" group-title="🐯虎牙直播",港影侦查局
+http://107.173.156.246:81/live/huya/25863169
 #EXTINF:-1 tvg-id="狗哥吃火锅" tvg-name="狗哥吃火锅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/狗哥吃火锅.png" group-title="🐯虎牙直播",狗哥吃火锅
-https://live.ottiptv.cc/huya/21059624
+http://107.173.156.246:81/live/huya/17269326
+#EXTINF:-1 tvg-id="古惑电影" tvg-name="古惑电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/古惑电影.png" group-title="🐯虎牙直播",古惑电影
+http://107.173.156.246:81/live/huya/27318500
+#EXTINF:-1 tvg-id="顾九撩电影" tvg-name="顾九撩电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/顾九撩电影.png" group-title="🐯虎牙直播",顾九撩电影
+http://107.173.156.246:81/live/huya/16422212
+#EXTINF:-1 tvg-id="怪兽讲电影" tvg-name="怪兽讲电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怪兽讲电影.png" group-title="🐯虎牙直播",怪兽讲电影
+http://107.173.156.246:81/live/huya/25022961
+#EXTINF:-1 tvg-id="怪侠说" tvg-name="怪侠说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怪侠说.png" group-title="🐯虎牙直播",怪侠说
+http://107.173.156.246:81/live/huya/27312777
+#EXTINF:-1 tvg-id="关灯看大片" tvg-name="关灯看大片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/关灯看大片.png" group-title="🐯虎牙直播",关灯看大片
+http://107.173.156.246:81/live/huya/16135863
+#EXTINF:-1 tvg-id="观影说史" tvg-name="观影说史" tvg-logo="https://www.xn--rgv465a.top/tvlogo/观影说史.png" group-title="🐯虎牙直播",观影说史
+http://107.173.156.246:81/live/huya/27312822
+#EXTINF:-1 tvg-id="鬼鬼很OK" tvg-name="鬼鬼很OK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/鬼鬼很OK.png" group-title="🐯虎牙直播",鬼鬼很OK
+http://107.173.156.246:81/live/huya/24792285
+#EXTINF:-1 tvg-id="郭德纲说单口相声" tvg-name="郭德纲说单口相声" tvg-logo="https://www.xn--rgv465a.top/tvlogo/郭德纲说单口相声.png" group-title="🐯虎牙直播",郭德纲说单口相声
+http://107.173.156.246:81/live/huya/25639846
+#EXTINF:-1 tvg-id="海哥电影" tvg-name="海哥电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海哥电影.png" group-title="🐯虎牙直播",海哥电影
+http://107.173.156.246:81/live/huya/25789589
+#EXTINF:-1 tvg-id="海龙动漫" tvg-name="海龙动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海龙动漫.png" group-title="🐯虎牙直播",海龙动漫
+http://107.173.156.246:81/live/huya/25886059
+#EXTINF:-1 tvg-id="憨憨哥说电影" tvg-name="憨憨哥说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/憨憨哥说电影.png" group-title="🐯虎牙直播",憨憨哥说电影
+http://107.173.156.246:81/live/huya/24917827
+#EXTINF:-1 tvg-id="韩小囧说电影" tvg-name="韩小囧说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/韩小囧说电影.png" group-title="🐯虎牙直播",韩小囧说电影
+http://107.173.156.246:81/live/huya/20695907
+#EXTINF:-1 tvg-id="喝一碗杏仁茶" tvg-name="喝一碗杏仁茶" tvg-logo="https://www.xn--rgv465a.top/tvlogo/喝一碗杏仁茶.png" group-title="🐯虎牙直播",喝一碗杏仁茶
+http://107.173.156.246:81/live/huya/21059565
+#EXTINF:-1 tvg-id="和我说话请投币一熊猫" tvg-name="和我说话请投币一熊猫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/和我说话请投币一熊猫.png" group-title="🐯虎牙直播",和我说话请投币一熊猫
+http://107.173.156.246:81/live/huya/28461406
+#EXTINF:-1 tvg-id="黑眼侃片" tvg-name="黑眼侃片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑眼侃片.png" group-title="🐯虎牙直播",黑眼侃片
+http://107.173.156.246:81/live/huya/24609357
+#EXTINF:-1 tvg-id="虎虎大神" tvg-name="虎虎大神" tvg-logo="https://www.xn--rgv465a.top/tvlogo/虎虎大神.png" group-title="🐯虎牙直播",虎虎大神
+http://107.173.156.246:81/live/huya/25751865
+#EXTINF:-1 tvg-id="虎牙【蛋蛋侠】" tvg-name="虎牙【蛋蛋侠】" tvg-logo="https://www.xn--rgv465a.top/tvlogo/虎牙【蛋蛋侠】.png" group-title="🐯虎牙直播",虎牙【蛋蛋侠】
+http://107.173.156.246:81/live/huya/396734
+#EXTINF:-1 tvg-id="虎牙技术学堂" tvg-name="虎牙技术学堂" tvg-logo="https://www.xn--rgv465a.top/tvlogo/虎牙技术学堂.png" group-title="🐯虎牙直播",虎牙技术学堂
+http://107.173.156.246:81/live/huya/18945977
+#EXTINF:-1 tvg-id="户外求生挑战" tvg-name="户外求生挑战" tvg-logo="https://www.xn--rgv465a.top/tvlogo/户外求生挑战.png" group-title="🐯虎牙直播",户外求生挑战
+http://107.173.156.246:81/live/huya/24816566
+#EXTINF:-1 tvg-id="花花与三猫CatLive" tvg-name="花花与三猫CatLive" tvg-logo="https://www.xn--rgv465a.top/tvlogo/花花与三猫CatLive.png" group-title="🐯虎牙直播",花花与三猫CatLive
+http://107.173.156.246:81/live/huya/15927359
+#EXTINF:-1 tvg-id="花町馆长" tvg-name="花町馆长" tvg-logo="https://www.xn--rgv465a.top/tvlogo/花町馆长.png" group-title="🐯虎牙直播",花町馆长
+http://107.173.156.246:81/live/huya/24990417
+#EXTINF:-1 tvg-id="怀旧电影厅" tvg-name="怀旧电影厅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧电影厅.png" group-title="🐯虎牙直播",怀旧电影厅
+http://107.173.156.246:81/live/huya/25863244
+#EXTINF:-1 tvg-id="幻海航行" tvg-name="幻海航行" tvg-logo="https://www.xn--rgv465a.top/tvlogo/幻海航行.png" group-title="🐯虎牙直播",幻海航行
+http://107.173.156.246:81/live/huya/17105786
+#EXTINF:-1 tvg-id="荒野求生影视" tvg-name="荒野求生影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/荒野求生影视.png" group-title="🐯虎牙直播",荒野求生影视
+http://107.173.156.246:81/live/huya/24766781
+#EXTINF:-1 tvg-id="黄金屋" tvg-name="黄金屋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黄金屋.png" group-title="🐯虎牙直播",黄金屋
+http://107.173.156.246:81/live/huya/20969119
+#EXTINF:-1 tvg-id="黄栗子Ye" tvg-name="黄栗子Ye" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黄栗子Ye.png" group-title="🐯虎牙直播",黄栗子Ye
+http://107.173.156.246:81/live/huya/22598588
+#EXTINF:-1 tvg-id="辉叔探影" tvg-name="辉叔探影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辉叔探影.png" group-title="🐯虎牙直播",辉叔探影
+http://107.173.156.246:81/live/huya/24531751
+#EXTINF:-1 tvg-id="火华君说电影" tvg-name="火华君说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/火华君说电影.png" group-title="🐯虎牙直播",火华君说电影
+http://107.173.156.246:81/live/huya/27312232
+#EXTINF:-1 tvg-id="济川源" tvg-name="济川源" tvg-logo="https://www.xn--rgv465a.top/tvlogo/济川源.png" group-title="🐯虎牙直播",济川源
+http://107.173.156.246:81/live/huya/24960298
 #EXTINF:-1 tvg-id="悸动" tvg-name="悸动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/悸动.png" group-title="🐯虎牙直播",悸动
-https://live.ottiptv.cc/huya/28272846
+http://107.173.156.246:81/live/huya/28272846
+#EXTINF:-1 tvg-id="讲故事会唱歌的步tian" tvg-name="讲故事会唱歌的步tian" tvg-logo="https://www.xn--rgv465a.top/tvlogo/讲故事会唱歌的步tian.png" group-title="🐯虎牙直播",讲故事会唱歌的步tian
+http://107.173.156.246:81/live/huya/23011779
+#EXTINF:-1 tvg-id="酱婶儿电影" tvg-name="酱婶儿电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/酱婶儿电影.png" group-title="🐯虎牙直播",酱婶儿电影
+http://107.173.156.246:81/live/huya/24396474
+#EXTINF:-1 tvg-id="杰克动漫" tvg-name="杰克动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/杰克动漫.png" group-title="🐯虎牙直播",杰克动漫
+http://107.173.156.246:81/live/huya/19757963
+#EXTINF:-1 tvg-id="金天影视" tvg-name="金天影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金天影视.png" group-title="🐯虎牙直播",金天影视
+http://107.173.156.246:81/live/huya/27309072
+#EXTINF:-1 tvg-id="经典剧" tvg-name="经典剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经典剧.png" group-title="🐯虎牙直播",经典剧
+http://107.173.156.246:81/live/huya/19060765
+#EXTINF:-1 tvg-id="婧丶" tvg-name="婧丶" tvg-logo="https://www.xn--rgv465a.top/tvlogo/婧丶.png" group-title="🐯虎牙直播",婧丶
+http://107.173.156.246:81/live/huya/26298751
+#EXTINF:-1 tvg-id="九汐探长" tvg-name="九汐探长" tvg-logo="https://www.xn--rgv465a.top/tvlogo/九汐探长.png" group-title="🐯虎牙直播",九汐探长
+http://107.173.156.246:81/live/huya/23539969
+#EXTINF:-1 tvg-id="君子杉" tvg-name="君子杉" tvg-logo="https://www.xn--rgv465a.top/tvlogo/君子杉.png" group-title="🐯虎牙直播",君子杉
+http://107.173.156.246:81/live/huya/15321830
+#EXTINF:-1 tvg-id="可乐撩电影" tvg-name="可乐撩电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/可乐撩电影.png" group-title="🐯虎牙直播",可乐撩电影
+http://107.173.156.246:81/live/huya/20045465
+#EXTINF:-1 tvg-id="空空说电影" tvg-name="空空说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/空空说电影.png" group-title="🐯虎牙直播",空空说电影
+http://107.173.156.246:81/live/huya/15923500
+#EXTINF:-1 tvg-id="恐怖地带" tvg-name="恐怖地带" tvg-logo="https://www.xn--rgv465a.top/tvlogo/恐怖地带.png" group-title="🐯虎牙直播",恐怖地带
+http://107.173.156.246:81/live/huya/16741179
+#EXTINF:-1 tvg-id="恐怖电影猪哥" tvg-name="恐怖电影猪哥" tvg-logo="https://www.xn--rgv465a.top/tvlogo/恐怖电影猪哥.png" group-title="🐯虎牙直播",恐怖电影猪哥
+http://107.173.156.246:81/live/huya/14015002
+#EXTINF:-1 tvg-id="辣条讲故事" tvg-name="辣条讲故事" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辣条讲故事.png" group-title="🐯虎牙直播",辣条讲故事
+http://107.173.156.246:81/live/huya/26848148
+#EXTINF:-1 tvg-id="蓝白呀、" tvg-name="蓝白呀、" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蓝白呀、.png" group-title="🐯虎牙直播",蓝白呀、
+http://107.173.156.246:81/live/huya/25701639
+#EXTINF:-1 tvg-id="老电影故事" tvg-name="老电影故事" tvg-logo="https://www.xn--rgv465a.top/tvlogo/老电影故事.png" group-title="🐯虎牙直播",老电影故事
+http://107.173.156.246:81/live/huya/15267139
+#EXTINF:-1 tvg-id="老吴说电影" tvg-name="老吴说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/老吴说电影.png" group-title="🐯虎牙直播",老吴说电影
+http://107.173.156.246:81/live/huya/16740471
+#EXTINF:-1 tvg-id="老P仔动漫" tvg-name="老P仔动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/老P仔动漫.png" group-title="🐯虎牙直播",老P仔动漫
+http://107.173.156.246:81/live/huya/26510802
+#EXTINF:-1 tvg-id="了不起的乌贼君" tvg-name="了不起的乌贼君" tvg-logo="https://www.xn--rgv465a.top/tvlogo/了不起的乌贼君.png" group-title="🐯虎牙直播",了不起的乌贼君
+http://107.173.156.246:81/live/huya/16604522
+#EXTINF:-1 tvg-id="冷菲菲Vivi" tvg-name="冷菲菲Vivi" tvg-logo="https://www.xn--rgv465a.top/tvlogo/冷菲菲Vivi.png" group-title="🐯虎牙直播",冷菲菲Vivi
+http://107.173.156.246:81/live/huya/24833420
+#EXTINF:-1 tvg-id="历史揭秘人阿水主播" tvg-name="历史揭秘人阿水主播" tvg-logo="https://www.xn--rgv465a.top/tvlogo/历史揭秘人阿水主播.png" group-title="🐯虎牙直播",历史揭秘人阿水主播
+http://107.173.156.246:81/live/huya/15821671
 #EXTINF:-1 tvg-id="良少聊漫威" tvg-name="良少聊漫威" tvg-logo="https://www.xn--rgv465a.top/tvlogo/良少聊漫威.png" group-title="🐯虎牙直播",良少聊漫威
-https://live.ottiptv.cc/huya/25523725
+http://107.173.156.246:81/live/huya/25523725
+#EXTINF:-1 tvg-id="邻家少女" tvg-name="邻家少女" tvg-logo="https://www.xn--rgv465a.top/tvlogo/邻家少女.png" group-title="🐯虎牙直播",邻家少女
+http://107.173.156.246:81/live/huya/11352878
+#EXTINF:-1 tvg-id="琳儿妹" tvg-name="琳儿妹" tvg-logo="https://www.xn--rgv465a.top/tvlogo/琳儿妹.png" group-title="🐯虎牙直播",琳儿妹
+http://107.173.156.246:81/live/huya/28287744
+#EXTINF:-1 tvg-id="刘金玉" tvg-name="刘金玉" tvg-logo="https://www.xn--rgv465a.top/tvlogo/刘金玉.png" group-title="🐯虎牙直播",刘金玉
+http://107.173.156.246:81/live/huya/23043797
+#EXTINF:-1 tvg-id="龙虾电影" tvg-name="龙虾电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙虾电影.png" group-title="🐯虎牙直播",龙虾电影
+http://107.173.156.246:81/live/huya/27742234
+#EXTINF:-1 tvg-id="路人QQ" tvg-name="路人QQ" tvg-logo="https://www.xn--rgv465a.top/tvlogo/路人QQ.png" group-title="🐯虎牙直播",路人QQ
+http://107.173.156.246:81/live/huya/27992631
+#EXTINF:-1 tvg-id="旅行囧记" tvg-name="旅行囧记" tvg-logo="https://www.xn--rgv465a.top/tvlogo/旅行囧记.png" group-title="🐯虎牙直播",旅行囧记
+http://107.173.156.246:81/live/huya/21428136
+#EXTINF:-1 tvg-id="麻蛋和丑丑" tvg-name="麻蛋和丑丑" tvg-logo="https://www.xn--rgv465a.top/tvlogo/麻蛋和丑丑.png" group-title="🐯虎牙直播",麻蛋和丑丑
+http://107.173.156.246:81/live/huya/24803241
+#EXTINF:-1 tvg-id="马桶吐槽" tvg-name="马桶吐槽" tvg-logo="https://www.xn--rgv465a.top/tvlogo/马桶吐槽.png" group-title="🐯虎牙直播",马桶吐槽
+http://107.173.156.246:81/live/huya/17089779
+#EXTINF:-1 tvg-id="麥l晴雪" tvg-name="麥l晴雪" tvg-logo="https://www.xn--rgv465a.top/tvlogo/麥l晴雪.png" group-title="🐯虎牙直播",麥l晴雪
+http://107.173.156.246:81/live/huya/25749082
+#EXTINF:-1 tvg-id="猫哥影视" tvg-name="猫哥影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫哥影视.png" group-title="🐯虎牙直播",猫哥影视
+http://107.173.156.246:81/live/huya/23566617
+#EXTINF:-1 tvg-id="猫丸酱影视" tvg-name="猫丸酱影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫丸酱影视.png" group-title="🐯虎牙直播",猫丸酱影视
+http://107.173.156.246:81/live/huya/26999674
+#EXTINF:-1 tvg-id="猫眼下的鱼" tvg-name="猫眼下的鱼" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫眼下的鱼.png" group-title="🐯虎牙直播",猫眼下的鱼
+http://107.173.156.246:81/live/huya/20236200
+#EXTINF:-1 tvg-id="猛志百般红" tvg-name="猛志百般红" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猛志百般红.png" group-title="🐯虎牙直播",猛志百般红
+http://107.173.156.246:81/live/huya/26355865
+#EXTINF:-1 tvg-id="面对疾风-" tvg-name="面对疾风-" tvg-logo="https://www.xn--rgv465a.top/tvlogo/面对疾风-.png" group-title="🐯虎牙直播",面对疾风-
+http://107.173.156.246:81/live/huya/11352904
+#EXTINF:-1 tvg-id="灭绝失态了" tvg-name="灭绝失态了" tvg-logo="https://www.xn--rgv465a.top/tvlogo/灭绝失态了.png" group-title="🐯虎牙直播",灭绝失态了
+http://107.173.156.246:81/live/huya/18232669
+#EXTINF:-1 tvg-id="名门-琳琳" tvg-name="名门-琳琳" tvg-logo="https://www.xn--rgv465a.top/tvlogo/名门-琳琳.png" group-title="🐯虎牙直播",名门-琳琳
+http://107.173.156.246:81/live/huya/16801277
+#EXTINF:-1 tvg-id="明日香世界第一可爱" tvg-name="明日香世界第一可爱" tvg-logo="https://www.xn--rgv465a.top/tvlogo/明日香世界第一可爱.png" group-title="🐯虎牙直播",明日香世界第一可爱
+http://107.173.156.246:81/live/huya/21059530
+#EXTINF:-1 tvg-id="魔法少女郭德纲" tvg-name="魔法少女郭德纲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魔法少女郭德纲.png" group-title="🐯虎牙直播",魔法少女郭德纲
+http://107.173.156.246:81/live/huya/27572242
+#EXTINF:-1 tvg-id="沫漾电影" tvg-name="沫漾电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/沫漾电影.png" group-title="🐯虎牙直播",沫漾电影
+http://107.173.156.246:81/live/huya/15556391
+#EXTINF:-1 tvg-id="莫忧忧" tvg-name="莫忧忧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/莫忧忧.png" group-title="🐯虎牙直播",莫忧忧
+http://107.173.156.246:81/live/huya/24983963
+#EXTINF:-1 tvg-id="木吒影视" tvg-name="木吒影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/木吒影视.png" group-title="🐯虎牙直播",木吒影视
+http://107.173.156.246:81/live/huya/24535077
+#EXTINF:-1 tvg-id="木子电影V" tvg-name="木子电影V" tvg-logo="https://www.xn--rgv465a.top/tvlogo/木子电影V.png" group-title="🐯虎牙直播",木子电影V
+http://107.173.156.246:81/live/huya/27314057
+#EXTINF:-1 tvg-id="木l诗诗" tvg-name="木l诗诗" tvg-logo="https://www.xn--rgv465a.top/tvlogo/木l诗诗.png" group-title="🐯虎牙直播",木l诗诗
+http://107.173.156.246:81/live/huya/24874164
 #EXTINF:-1 tvg-id="南西视频" tvg-name="南西视频" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南西视频.png" group-title="🐯虎牙直播",南西视频
-https://live.ottiptv.cc/huya/16913382
+http://107.173.156.246:81/live/huya/16913382
+#EXTINF:-1 tvg-id="嫩模下厨房" tvg-name="嫩模下厨房" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嫩模下厨房.png" group-title="🐯虎牙直播",嫩模下厨房
+http://107.173.156.246:81/live/huya/23735181
+#EXTINF:-1 tvg-id="昵称违规-AdKUzor5AU" tvg-name="昵称违规-AdKUzor5AU" tvg-logo="https://www.xn--rgv465a.top/tvlogo/昵称违规-AdKUzor5AU.png" group-title="🐯虎牙直播",昵称违规-AdKUzor5AU
+http://107.173.156.246:81/live/huya/18719577
+#EXTINF:-1 tvg-id="昵称违规-CO7LZ4EbMq" tvg-name="昵称违规-CO7LZ4EbMq" tvg-logo="https://www.xn--rgv465a.top/tvlogo/昵称违规-CO7LZ4EbMq.png" group-title="🐯虎牙直播",昵称违规-CO7LZ4EbMq
+http://107.173.156.246:81/live/huya/11336593
+#EXTINF:-1 tvg-id="娘子说电影" tvg-name="娘子说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/娘子说电影.png" group-title="🐯虎牙直播",娘子说电影
+http://107.173.156.246:81/live/huya/18964209
+#EXTINF:-1 tvg-id="牛牛牛2021" tvg-name="牛牛牛2021" tvg-logo="https://www.xn--rgv465a.top/tvlogo/牛牛牛2021.png" group-title="🐯虎牙直播",牛牛牛2021
+http://107.173.156.246:81/live/huya/20432865
+#EXTINF:-1 tvg-id="胖虎噜噜噜" tvg-name="胖虎噜噜噜" tvg-logo="https://www.xn--rgv465a.top/tvlogo/胖虎噜噜噜.png" group-title="🐯虎牙直播",胖虎噜噜噜
+http://107.173.156.246:81/live/huya/25286082
+#EXTINF:-1 tvg-id="咆哮解说黑鑫" tvg-name="咆哮解说黑鑫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咆哮解说黑鑫.png" group-title="🐯虎牙直播",咆哮解说黑鑫
+http://107.173.156.246:81/live/huya/25018873
+#EXTINF:-1 tvg-id="跑酷小枫" tvg-name="跑酷小枫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/跑酷小枫.png" group-title="🐯虎牙直播",跑酷小枫
+http://107.173.156.246:81/live/huya/24915015
+#EXTINF:-1 tvg-id="泡面微剧场" tvg-name="泡面微剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/泡面微剧场.png" group-title="🐯虎牙直播",泡面微剧场
+http://107.173.156.246:81/live/huya/18368221
+#EXTINF:-1 tvg-id="皮皮猫影视" tvg-name="皮皮猫影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/皮皮猫影视.png" group-title="🐯虎牙直播",皮皮猫影视
+http://107.173.156.246:81/live/huya/23310352
+#EXTINF:-1 tvg-id="辟哥影视" tvg-name="辟哥影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辟哥影视.png" group-title="🐯虎牙直播",辟哥影视
+http://107.173.156.246:81/live/huya/27653235
+#EXTINF:-1 tvg-id="七七讲故事" tvg-name="七七讲故事" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七七讲故事.png" group-title="🐯虎牙直播",七七讲故事
+http://107.173.156.246:81/live/huya/27640544
+#EXTINF:-1 tvg-id="柒言绝剧" tvg-name="柒言绝剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/柒言绝剧.png" group-title="🐯虎牙直播",柒言绝剧
+http://107.173.156.246:81/live/huya/24778726
+#EXTINF:-1 tvg-id="千里" tvg-name="千里" tvg-logo="https://www.xn--rgv465a.top/tvlogo/千里.png" group-title="🐯虎牙直播",千里
+http://107.173.156.246:81/live/huya/20985776
+#EXTINF:-1 tvg-id="乔晚晚【蓝光】" tvg-name="乔晚晚【蓝光】" tvg-logo="https://www.xn--rgv465a.top/tvlogo/乔晚晚【蓝光】.png" group-title="🐯虎牙直播",乔晚晚【蓝光】
+http://107.173.156.246:81/live/huya/25258907
+#EXTINF:-1 tvg-id="乔我说动漫频道" tvg-name="乔我说动漫频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/乔我说动漫频道.png" group-title="🐯虎牙直播",乔我说动漫频道
+http://107.173.156.246:81/live/huya/17941367
+#EXTINF:-1 tvg-id="乔我说游戏频道" tvg-name="乔我说游戏频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/乔我说游戏频道.png" group-title="🐯虎牙直播",乔我说游戏频道
+http://107.173.156.246:81/live/huya/17943364
+#EXTINF:-1 tvg-id="且听我说" tvg-name="且听我说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/且听我说.png" group-title="🐯虎牙直播",且听我说
+http://107.173.156.246:81/live/huya/20985820
+#EXTINF:-1 tvg-id="青年电影馆" tvg-name="青年电影馆" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青年电影馆.png" group-title="🐯虎牙直播",青年电影馆
+http://107.173.156.246:81/live/huya/21388479
+#EXTINF:-1 tvg-id="卿暮KIM" tvg-name="卿暮KIM" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卿暮KIM.png" group-title="🐯虎牙直播",卿暮KIM
+http://107.173.156.246:81/live/huya/22809600
+#EXTINF:-1 tvg-id="清酒电影" tvg-name="清酒电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/清酒电影.png" group-title="🐯虎牙直播",清酒电影
+http://107.173.156.246:81/live/huya/23058985
+#EXTINF:-1 tvg-id="热播君V" tvg-name="热播君V" tvg-logo="https://www.xn--rgv465a.top/tvlogo/热播君V.png" group-title="🐯虎牙直播",热播君V
+http://107.173.156.246:81/live/huya/26999401
+#EXTINF:-1 tvg-id="桑葚好吃吗" tvg-name="桑葚好吃吗" tvg-logo="https://www.xn--rgv465a.top/tvlogo/桑葚好吃吗.png" group-title="🐯虎牙直播",桑葚好吃吗
+http://107.173.156.246:81/live/huya/24888724
+#EXTINF:-1 tvg-id="山夫观影" tvg-name="山夫观影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山夫观影.png" group-title="🐯虎牙直播",山夫观影
+http://107.173.156.246:81/live/huya/27321247
+#EXTINF:-1 tvg-id="上班偷偷追个剧" tvg-name="上班偷偷追个剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上班偷偷追个剧.png" group-title="🐯虎牙直播",上班偷偷追个剧
+http://107.173.156.246:81/live/huya/26995378
+#EXTINF:-1 tvg-id="神奇书包" tvg-name="神奇书包" tvg-logo="https://www.xn--rgv465a.top/tvlogo/神奇书包.png" group-title="🐯虎牙直播",神奇书包
+http://107.173.156.246:81/live/huya/25368617
+#EXTINF:-1 tvg-id="圣逗事" tvg-name="圣逗事" tvg-logo="https://www.xn--rgv465a.top/tvlogo/圣逗事.png" group-title="🐯虎牙直播",圣逗事
+http://107.173.156.246:81/live/huya/18390254
+#EXTINF:-1 tvg-id="盛世-阿蒲【一起看】" tvg-name="盛世-阿蒲【一起看】" tvg-logo="https://www.xn--rgv465a.top/tvlogo/盛世-阿蒲【一起看】.png" group-title="🐯虎牙直播",盛世-阿蒲【一起看】
+http://107.173.156.246:81/live/huya/28595133
+#EXTINF:-1 tvg-id="十趣文化" tvg-name="十趣文化" tvg-logo="https://www.xn--rgv465a.top/tvlogo/十趣文化.png" group-title="🐯虎牙直播",十趣文化
+http://107.173.156.246:81/live/huya/23707143
+#EXTINF:-1 tvg-id="十三神故事" tvg-name="十三神故事" tvg-logo="https://www.xn--rgv465a.top/tvlogo/十三神故事.png" group-title="🐯虎牙直播",十三神故事
+http://107.173.156.246:81/live/huya/24866426
+#EXTINF:-1 tvg-id="十四就是十四啊" tvg-name="十四就是十四啊" tvg-logo="https://www.xn--rgv465a.top/tvlogo/十四就是十四啊.png" group-title="🐯虎牙直播",十四就是十四啊
+http://107.173.156.246:81/live/huya/21384538
+#EXTINF:-1 tvg-id="仕说电影" tvg-name="仕说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/仕说电影.png" group-title="🐯虎牙直播",仕说电影
+http://107.173.156.246:81/live/huya/24791905
+#EXTINF:-1 tvg-id="是青哥" tvg-name="是青哥" tvg-logo="https://www.xn--rgv465a.top/tvlogo/是青哥.png" group-title="🐯虎牙直播",是青哥
+http://107.173.156.246:81/live/huya/24875819
+#EXTINF:-1 tvg-id="水仙花动漫" tvg-name="水仙花动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/水仙花动漫.png" group-title="🐯虎牙直播",水仙花动漫
+http://107.173.156.246:81/live/huya/26931061
+#EXTINF:-1 tvg-id="宋少宝" tvg-name="宋少宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宋少宝.png" group-title="🐯虎牙直播",宋少宝
+http://107.173.156.246:81/live/huya/16923449
+#EXTINF:-1 tvg-id="桃白柏" tvg-name="桃白柏" tvg-logo="https://www.xn--rgv465a.top/tvlogo/桃白柏.png" group-title="🐯虎牙直播",桃白柏
+http://107.173.156.246:81/live/huya/15958655
+#EXTINF:-1 tvg-id="天意苦相思" tvg-name="天意苦相思" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天意苦相思.png" group-title="🐯虎牙直播",天意苦相思
+http://107.173.156.246:81/live/huya/28749557
+#EXTINF:-1 tvg-id="彤颜童语" tvg-name="彤颜童语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/彤颜童语.png" group-title="🐯虎牙直播",彤颜童语
+http://107.173.156.246:81/live/huya/19398022
+#EXTINF:-1 tvg-id="图图爱吃米" tvg-name="图图爱吃米" tvg-logo="https://www.xn--rgv465a.top/tvlogo/图图爱吃米.png" group-title="🐯虎牙直播",图图爱吃米
+http://107.173.156.246:81/live/huya/28786450
+#EXTINF:-1 tvg-id="兔八哥说电影" tvg-name="兔八哥说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兔八哥说电影.png" group-title="🐯虎牙直播",兔八哥说电影
+http://107.173.156.246:81/live/huya/25869759
+#EXTINF:-1 tvg-id="歪嘴说电影" tvg-name="歪嘴说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/歪嘴说电影.png" group-title="🐯虎牙直播",歪嘴说电影
+http://107.173.156.246:81/live/huya/25261589
+#EXTINF:-1 tvg-id="万人影视" tvg-name="万人影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/万人影视.png" group-title="🐯虎牙直播",万人影视
+http://107.173.156.246:81/live/huya/16914870
+#EXTINF:-1 tvg-id="旺仔是三七分" tvg-name="旺仔是三七分" tvg-logo="https://www.xn--rgv465a.top/tvlogo/旺仔是三七分.png" group-title="🐯虎牙直播",旺仔是三七分
+http://107.173.156.246:81/live/huya/24888703
+#EXTINF:-1 tvg-id="威廉说" tvg-name="威廉说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/威廉说.png" group-title="🐯虎牙直播",威廉说
+http://107.173.156.246:81/live/huya/24969192
+#EXTINF:-1 tvg-id="微竞-琴琴nice" tvg-name="微竞-琴琴nice" tvg-logo="https://www.xn--rgv465a.top/tvlogo/微竞-琴琴nice.png" group-title="🐯虎牙直播",微竞-琴琴nice
+http://107.173.156.246:81/live/huya/913155
+#EXTINF:-1 tvg-id="我是郭杰瑞" tvg-name="我是郭杰瑞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/我是郭杰瑞.png" group-title="🐯虎牙直播",我是郭杰瑞
+http://107.173.156.246:81/live/huya/21478190
+#EXTINF:-1 tvg-id="我是一颗小虎牙1186" tvg-name="我是一颗小虎牙1186" tvg-logo="https://www.xn--rgv465a.top/tvlogo/我是一颗小虎牙1186.png" group-title="🐯虎牙直播",我是一颗小虎牙1186
+http://107.173.156.246:81/live/huya/20525774
+#EXTINF:-1 tvg-id="无比看电影精选" tvg-name="无比看电影精选" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无比看电影精选.png" group-title="🐯虎牙直播",无比看电影精选
+http://107.173.156.246:81/live/huya/19450129
 #EXTINF:-1 tvg-id="吾聊电影" tvg-name="吾聊电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吾聊电影.png" group-title="🐯虎牙直播",吾聊电影
-https://live.ottiptv.cc/huya/16424416
+http://107.173.156.246:81/live/huya/16424416
+#EXTINF:-1 tvg-id="西哥来了" tvg-name="西哥来了" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西哥来了.png" group-title="🐯虎牙直播",西哥来了
+http://107.173.156.246:81/live/huya/10849208
+#EXTINF:-1 tvg-id="西瓜讲电影" tvg-name="西瓜讲电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西瓜讲电影.png" group-title="🐯虎牙直播",西瓜讲电影
+http://107.173.156.246:81/live/huya/27742216
+#EXTINF:-1 tvg-id="西红柿讲电影" tvg-name="西红柿讲电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西红柿讲电影.png" group-title="🐯虎牙直播",西红柿讲电影
+http://107.173.156.246:81/live/huya/24999835
+#EXTINF:-1 tvg-id="喜仔的动画世界" tvg-name="喜仔的动画世界" tvg-logo="https://www.xn--rgv465a.top/tvlogo/喜仔的动画世界.png" group-title="🐯虎牙直播",喜仔的动画世界
+http://107.173.156.246:81/live/huya/20036751
+#EXTINF:-1 tvg-id="喜仔的世界" tvg-name="喜仔的世界" tvg-logo="https://www.xn--rgv465a.top/tvlogo/喜仔的世界.png" group-title="🐯虎牙直播",喜仔的世界
+http://107.173.156.246:81/live/huya/17098448
+#EXTINF:-1 tvg-id="夏天成长记" tvg-name="夏天成长记" tvg-logo="https://www.xn--rgv465a.top/tvlogo/夏天成长记.png" group-title="🐯虎牙直播",夏天成长记
+http://107.173.156.246:81/live/huya/24887908
+#EXTINF:-1 tvg-id="向阳花" tvg-name="向阳花" tvg-logo="https://www.xn--rgv465a.top/tvlogo/向阳花.png" group-title="🐯虎牙直播",向阳花
+http://107.173.156.246:81/live/huya/11602069
+#EXTINF:-1 tvg-id="小阿掌" tvg-name="小阿掌" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小阿掌.png" group-title="🐯虎牙直播",小阿掌
+http://107.173.156.246:81/live/huya/28182904
 #EXTINF:-1 tvg-id="小丑讲电影" tvg-name="小丑讲电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小丑讲电影.png" group-title="🐯虎牙直播",小丑讲电影
-https://live.ottiptv.cc/huya/16857432
+http://107.173.156.246:81/live/huya/16857432
+#EXTINF:-1 tvg-id="小邓子解说师" tvg-name="小邓子解说师" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小邓子解说师.png" group-title="🐯虎牙直播",小邓子解说师
+http://107.173.156.246:81/live/huya/25220145
+#EXTINF:-1 tvg-id="小东北侃大片" tvg-name="小东北侃大片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小东北侃大片.png" group-title="🐯虎牙直播",小东北侃大片
+http://107.173.156.246:81/live/huya/23110321
+#EXTINF:-1 tvg-id="小歌说电影" tvg-name="小歌说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小歌说电影.png" group-title="🐯虎牙直播",小歌说电影
+http://107.173.156.246:81/live/huya/25443495
+#EXTINF:-1 tvg-id="小葛电影" tvg-name="小葛电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小葛电影.png" group-title="🐯虎牙直播",小葛电影
+http://107.173.156.246:81/live/huya/24612444
+#EXTINF:-1 tvg-id="小海蒗" tvg-name="小海蒗" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小海蒗.png" group-title="🐯虎牙直播",小海蒗
+http://107.173.156.246:81/live/huya/25901991
+#EXTINF:-1 tvg-id="小鹤仙儿" tvg-name="小鹤仙儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小鹤仙儿.png" group-title="🐯虎牙直播",小鹤仙儿
+http://107.173.156.246:81/live/huya/24376361
+#EXTINF:-1 tvg-id="小冷说电影" tvg-name="小冷说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小冷说电影.png" group-title="🐯虎牙直播",小冷说电影
+http://107.173.156.246:81/live/huya/16739452
+#EXTINF:-1 tvg-id="小丽说电影" tvg-name="小丽说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小丽说电影.png" group-title="🐯虎牙直播",小丽说电影
+http://107.173.156.246:81/live/huya/20056437
+#EXTINF:-1 tvg-id="小林讲电影" tvg-name="小林讲电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小林讲电影.png" group-title="🐯虎牙直播",小林讲电影
+http://107.173.156.246:81/live/huya/18368391
+#EXTINF:-1 tvg-id="小麥" tvg-name="小麥" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小麥.png" group-title="🐯虎牙直播",小麥
+http://107.173.156.246:81/live/huya/10980725
+#EXTINF:-1 tvg-id="小抹香鲛中华小长臂虾" tvg-name="小抹香鲛中华小长臂虾" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小抹香鲛中华小长臂虾.png" group-title="🐯虎牙直播",小抹香鲛中华小长臂虾
+http://107.173.156.246:81/live/huya/28783325
+#EXTINF:-1 tvg-id="小田儿解说" tvg-name="小田儿解说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小田儿解说.png" group-title="🐯虎牙直播",小田儿解说
+http://107.173.156.246:81/live/huya/27833739
+#EXTINF:-1 tvg-id="小武有好剧" tvg-name="小武有好剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小武有好剧.png" group-title="🐯虎牙直播",小武有好剧
+http://107.173.156.246:81/live/huya/27742250
+#EXTINF:-1 tvg-id="小小萌先生" tvg-name="小小萌先生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小小萌先生.png" group-title="🐯虎牙直播",小小萌先生
+http://107.173.156.246:81/live/huya/24481139
+#EXTINF:-1 tvg-id="小羊观影记录" tvg-name="小羊观影记录" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小羊观影记录.png" group-title="🐯虎牙直播",小羊观影记录
+http://107.173.156.246:81/live/huya/25363475
+#EXTINF:-1 tvg-id="小杨说电影" tvg-name="小杨说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小杨说电影.png" group-title="🐯虎牙直播",小杨说电影
+http://107.173.156.246:81/live/huya/23338162
+#EXTINF:-1 tvg-id="小优漫讲" tvg-name="小优漫讲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/小优漫讲.png" group-title="🐯虎牙直播",小优漫讲
+http://107.173.156.246:81/live/huya/27630411
+#EXTINF:-1 tvg-id="晓杰侃电影" tvg-name="晓杰侃电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/晓杰侃电影.png" group-title="🐯虎牙直播",晓杰侃电影
+http://107.173.156.246:81/live/huya/17279509
+#EXTINF:-1 tvg-id="笑笑影视Y" tvg-name="笑笑影视Y" tvg-logo="https://www.xn--rgv465a.top/tvlogo/笑笑影视Y.png" group-title="🐯虎牙直播",笑笑影视Y
+http://107.173.156.246:81/live/huya/24804669
+#EXTINF:-1 tvg-id="心动--铁柱妹妹" tvg-name="心动--铁柱妹妹" tvg-logo="https://www.xn--rgv465a.top/tvlogo/心动--铁柱妹妹.png" group-title="🐯虎牙直播",心动--铁柱妹妹
+http://107.173.156.246:81/live/huya/28426547
+#EXTINF:-1 tvg-id="欣姐说剧" tvg-name="欣姐说剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/欣姐说剧.png" group-title="🐯虎牙直播",欣姐说剧
+http://107.173.156.246:81/live/huya/28021302
+#EXTINF:-1 tvg-id="新剧不能停" tvg-name="新剧不能停" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新剧不能停.png" group-title="🐯虎牙直播",新剧不能停
+http://107.173.156.246:81/live/huya/26994605
+#EXTINF:-1 tvg-id="熊妹撩电影" tvg-name="熊妹撩电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/熊妹撩电影.png" group-title="🐯虎牙直播",熊妹撩电影
+http://107.173.156.246:81/live/huya/15966357
+#EXTINF:-1 tvg-id="学姐啊学姐" tvg-name="学姐啊学姐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/学姐啊学姐.png" group-title="🐯虎牙直播",学姐啊学姐
+http://107.173.156.246:81/live/huya/24873265
+#EXTINF:-1 tvg-id="雪球日记qwq" tvg-name="雪球日记qwq" tvg-logo="https://www.xn--rgv465a.top/tvlogo/雪球日记qwq.png" group-title="🐯虎牙直播",雪球日记qwq
+http://107.173.156.246:81/live/huya/24899717
+#EXTINF:-1 tvg-id="寻宝求生" tvg-name="寻宝求生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/寻宝求生.png" group-title="🐯虎牙直播",寻宝求生
+http://107.173.156.246:81/live/huya/25396569
+#EXTINF:-1 tvg-id="羊肉泡馍加个剧" tvg-name="羊肉泡馍加个剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/羊肉泡馍加个剧.png" group-title="🐯虎牙直播",羊肉泡馍加个剧
+http://107.173.156.246:81/live/huya/27001824
+#EXTINF:-1 tvg-id="一口毒奶" tvg-name="一口毒奶" tvg-logo="https://www.xn--rgv465a.top/tvlogo/一口毒奶.png" group-title="🐯虎牙直播",一口毒奶
+http://107.173.156.246:81/live/huya/16144261
+#EXTINF:-1 tvg-id="一目十影" tvg-name="一目十影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/一目十影.png" group-title="🐯虎牙直播",一目十影
+http://107.173.156.246:81/live/huya/20449771
+#EXTINF:-1 tvg-id="一日壹片v" tvg-name="一日壹片v" tvg-logo="https://www.xn--rgv465a.top/tvlogo/一日壹片v.png" group-title="🐯虎牙直播",一日壹片v
+http://107.173.156.246:81/live/huya/27322701
+#EXTINF:-1 tvg-id="一席YIXI" tvg-name="一席YIXI" tvg-logo="https://www.xn--rgv465a.top/tvlogo/一席YIXI.png" group-title="🐯虎牙直播",一席YIXI
+http://107.173.156.246:81/live/huya/20985840
+#EXTINF:-1 tvg-id="怡声" tvg-name="怡声" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怡声.png" group-title="🐯虎牙直播",怡声
+http://107.173.156.246:81/live/huya/11054752
+#EXTINF:-1 tvg-id="亿酷影视" tvg-name="亿酷影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/亿酷影视.png" group-title="🐯虎牙直播",亿酷影视
+http://107.173.156.246:81/live/huya/25773579
+#EXTINF:-1 tvg-id="亦寒电影" tvg-name="亦寒电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/亦寒电影.png" group-title="🐯虎牙直播",亦寒电影
+http://107.173.156.246:81/live/huya/25368353
+#EXTINF:-1 tvg-id="音炊渺渺儿Zzz" tvg-name="音炊渺渺儿Zzz" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音炊渺渺儿Zzz.png" group-title="🐯虎牙直播",音炊渺渺儿Zzz
+http://107.173.156.246:81/live/huya/265714
 #EXTINF:-1 tvg-id="音乐小石榴" tvg-name="音乐小石榴" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音乐小石榴.png" group-title="🐯虎牙直播",音乐小石榴
-https://live.ottiptv.cc/huya/17091681
+http://107.173.156.246:81/live/huya/17091681
+#EXTINF:-1 tvg-id="赢城-江爽" tvg-name="赢城-江爽" tvg-logo="https://www.xn--rgv465a.top/tvlogo/赢城-江爽.png" group-title="🐯虎牙直播",赢城-江爽
+http://107.173.156.246:81/live/huya/23796393
+#EXTINF:-1 tvg-id="影视工厂" tvg-name="影视工厂" tvg-logo="https://www.xn--rgv465a.top/tvlogo/影视工厂.png" group-title="🐯虎牙直播",影视工厂
+http://107.173.156.246:81/live/huya/26995216
+#EXTINF:-1 tvg-id="影音炫客" tvg-name="影音炫客" tvg-logo="https://www.xn--rgv465a.top/tvlogo/影音炫客.png" group-title="🐯虎牙直播",影音炫客
+http://107.173.156.246:81/live/huya/17811579
 #EXTINF:-1 tvg-id="硬汉影探" tvg-name="硬汉影探" tvg-logo="https://www.xn--rgv465a.top/tvlogo/硬汉影探.png" group-title="🐯虎牙直播",硬汉影探
-https://live.ottiptv.cc/huya/24614407
+http://107.173.156.246:81/live/huya/24614407
+#EXTINF:-1 tvg-id="尤里有剧" tvg-name="尤里有剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/尤里有剧.png" group-title="🐯虎牙直播",尤里有剧
+http://107.173.156.246:81/live/huya/24400965
+#EXTINF:-1 tvg-id="游戏小萌主" tvg-name="游戏小萌主" tvg-logo="https://www.xn--rgv465a.top/tvlogo/游戏小萌主.png" group-title="🐯虎牙直播",游戏小萌主
+http://107.173.156.246:81/live/huya/16915640
+#EXTINF:-1 tvg-id="有料酒" tvg-name="有料酒" tvg-logo="https://www.xn--rgv465a.top/tvlogo/有料酒.png" group-title="🐯虎牙直播",有料酒
+http://107.173.156.246:81/live/huya/23043257
+#EXTINF:-1 tvg-id="有种过来和我拼菜啊" tvg-name="有种过来和我拼菜啊" tvg-logo="https://www.xn--rgv465a.top/tvlogo/有种过来和我拼菜啊.png" group-title="🐯虎牙直播",有种过来和我拼菜啊
+http://107.173.156.246:81/live/huya/24891607
+#EXTINF:-1 tvg-id="佑佑说电影" tvg-name="佑佑说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/佑佑说电影.png" group-title="🐯虎牙直播",佑佑说电影
+http://107.173.156.246:81/live/huya/25027809
+#EXTINF:-1 tvg-id="余小二【退】" tvg-name="余小二【退】" tvg-logo="https://www.xn--rgv465a.top/tvlogo/余小二【退】.png" group-title="🐯虎牙直播",余小二【退】
+http://107.173.156.246:81/live/huya/10279885
+#EXTINF:-1 tvg-id="鱼丸说电影" tvg-name="鱼丸说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/鱼丸说电影.png" group-title="🐯虎牙直播",鱼丸说电影
+http://107.173.156.246:81/live/huya/16615910
+#EXTINF:-1 tvg-id="宇宙无敌韩三金" tvg-name="宇宙无敌韩三金" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宇宙无敌韩三金.png" group-title="🐯虎牙直播",宇宙无敌韩三金
+http://107.173.156.246:81/live/huya/15494057
+#EXTINF:-1 tvg-id="雨婷讲电影" tvg-name="雨婷讲电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/雨婷讲电影.png" group-title="🐯虎牙直播",雨婷讲电影
+http://107.173.156.246:81/live/huya/21638737
+#EXTINF:-1 tvg-id="元宝撸奇案" tvg-name="元宝撸奇案" tvg-logo="https://www.xn--rgv465a.top/tvlogo/元宝撸奇案.png" group-title="🐯虎牙直播",元宝撸奇案
+http://107.173.156.246:81/live/huya/23759395
+#EXTINF:-1 tvg-id="月色说电影" tvg-name="月色说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/月色说电影.png" group-title="🐯虎牙直播",月色说电影
+http://107.173.156.246:81/live/huya/24534326
+#EXTINF:-1 tvg-id="晕倒羊一家" tvg-name="晕倒羊一家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/晕倒羊一家.png" group-title="🐯虎牙直播",晕倒羊一家
+http://107.173.156.246:81/live/huya/25107026
+#EXTINF:-1 tvg-id="在下葛二蛋" tvg-name="在下葛二蛋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/在下葛二蛋.png" group-title="🐯虎牙直播",在下葛二蛋
+http://107.173.156.246:81/live/huya/24512024
+#EXTINF:-1 tvg-id="扎楠灬" tvg-name="扎楠灬" tvg-logo="https://www.xn--rgv465a.top/tvlogo/扎楠灬.png" group-title="🐯虎牙直播",扎楠灬
+http://107.173.156.246:81/live/huya/24587847
+#EXTINF:-1 tvg-id="渣子看闹剧" tvg-name="渣子看闹剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/渣子看闹剧.png" group-title="🐯虎牙直播",渣子看闹剧
+http://107.173.156.246:81/live/huya/16837764
+#EXTINF:-1 tvg-id="长河电影" tvg-name="长河电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/长河电影.png" group-title="🐯虎牙直播",长河电影
+http://107.173.156.246:81/live/huya/18986269
+#EXTINF:-1 tvg-id="正保会计网校" tvg-name="正保会计网校" tvg-logo="https://www.xn--rgv465a.top/tvlogo/正保会计网校.png" group-title="🐯虎牙直播",正保会计网校
+http://107.173.156.246:81/live/huya/21112914
+#EXTINF:-1 tvg-id="正恒YJ-猫猫酱" tvg-name="正恒YJ-猫猫酱" tvg-logo="https://www.xn--rgv465a.top/tvlogo/正恒YJ-猫猫酱.png" group-title="🐯虎牙直播",正恒YJ-猫猫酱
+http://107.173.156.246:81/live/huya/21509833
+#EXTINF:-1 tvg-id="正经说电影" tvg-name="正经说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/正经说电影.png" group-title="🐯虎牙直播",正经说电影
+http://107.173.156.246:81/live/huya/19583776
+#EXTINF:-1 tvg-id="政宗君DE情敌" tvg-name="政宗君DE情敌" tvg-logo="https://www.xn--rgv465a.top/tvlogo/政宗君DE情敌.png" group-title="🐯虎牙直播",政宗君DE情敌
+http://107.173.156.246:81/live/huya/26704262
 #EXTINF:-1 tvg-id="止戈电影" tvg-name="止戈电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/止戈电影.png" group-title="🐯虎牙直播",止戈电影
-https://live.ottiptv.cc/huya/19863777
+http://107.173.156.246:81/live/huya/19863777
+#EXTINF:-1 tvg-id="周队长captain" tvg-name="周队长captain" tvg-logo="https://www.xn--rgv465a.top/tvlogo/周队长captain.png" group-title="🐯虎牙直播",周队长captain
+http://107.173.156.246:81/live/huya/22903695
+#EXTINF:-1 tvg-id="周星驰吧" tvg-name="周星驰吧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/周星驰吧.png" group-title="🐯虎牙直播",周星驰吧
+http://107.173.156.246:81/live/huya/21136378
+#EXTINF:-1 tvg-id="追剧少女韩芳芳" tvg-name="追剧少女韩芳芳" tvg-logo="https://www.xn--rgv465a.top/tvlogo/追剧少女韩芳芳.png" group-title="🐯虎牙直播",追剧少女韩芳芳
+http://107.173.156.246:81/live/huya/26995244
+#EXTINF:-1 tvg-id="左左说电影" tvg-name="左左说电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/左左说电影.png" group-title="🐯虎牙直播",左左说电影
+http://107.173.156.246:81/live/huya/25027708
+#EXTINF:-1 tvg-id="Adam短发" tvg-name="Adam短发" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Adam短发.png" group-title="🐯虎牙直播",Adam短发
+http://107.173.156.246:81/live/huya/21339980
+#EXTINF:-1 tvg-id="Austin的十万个为什么" tvg-name="Austin的十万个为什么" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Austin的十万个为什么.png" group-title="🐯虎牙直播",Austin的十万个为什么
+http://107.173.156.246:81/live/huya/22531419
+#EXTINF:-1 tvg-id="Big笑工坊" tvg-name="Big笑工坊" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Big笑工坊.png" group-title="🐯虎牙直播",Big笑工坊
+http://107.173.156.246:81/live/huya/14776702
+#EXTINF:-1 tvg-id="BTM-牙牙乐" tvg-name="BTM-牙牙乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BTM-牙牙乐.png" group-title="🐯虎牙直播",BTM-牙牙乐
+http://107.173.156.246:81/live/huya/20080293
+#EXTINF:-1 tvg-id="Cc【小魔女】" tvg-name="Cc【小魔女】" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Cc【小魔女】.png" group-title="🐯虎牙直播",Cc【小魔女】
+http://107.173.156.246:81/live/huya/23281158
+#EXTINF:-1 tvg-id="CC看动漫" tvg-name="CC看动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CC看动漫.png" group-title="🐯虎牙直播",CC看动漫
+http://107.173.156.246:81/live/huya/25393892
+#EXTINF:-1 tvg-id="DD-娜娜" tvg-name="DD-娜娜" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DD-娜娜.png" group-title="🐯虎牙直播",DD-娜娜
+http://107.173.156.246:81/live/huya/26590882
+#EXTINF:-1 tvg-id="DD-七七宝" tvg-name="DD-七七宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DD-七七宝.png" group-title="🐯虎牙直播",DD-七七宝
+http://107.173.156.246:81/live/huya/25375199
+#EXTINF:-1 tvg-id="DD-香菜" tvg-name="DD-香菜" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DD-香菜.png" group-title="🐯虎牙直播",DD-香菜
+http://107.173.156.246:81/live/huya/631395
+#EXTINF:-1 tvg-id="DD-小秋" tvg-name="DD-小秋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DD-小秋.png" group-title="🐯虎牙直播",DD-小秋
+http://107.173.156.246:81/live/huya/17440076
+#EXTINF:-1 tvg-id="DD-小熊" tvg-name="DD-小熊" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DD-小熊.png" group-title="🐯虎牙直播",DD-小熊
+http://107.173.156.246:81/live/huya/27125437
+#EXTINF:-1 tvg-id="DD-一丽" tvg-name="DD-一丽" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DD-一丽.png" group-title="🐯虎牙直播",DD-一丽
+http://107.173.156.246:81/live/huya/28755743
+#EXTINF:-1 tvg-id="DD-钟皮猪" tvg-name="DD-钟皮猪" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DD-钟皮猪.png" group-title="🐯虎牙直播",DD-钟皮猪
+http://107.173.156.246:81/live/huya/25503760
+#EXTINF:-1 tvg-id="DYS石家庄办事处" tvg-name="DYS石家庄办事处" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DYS石家庄办事处.png" group-title="🐯虎牙直播",DYS石家庄办事处
+http://107.173.156.246:81/live/huya/28795221
+#EXTINF:-1 tvg-id="EZQ影视" tvg-name="EZQ影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/EZQ影视.png" group-title="🐯虎牙直播",EZQ影视
+http://107.173.156.246:81/live/huya/24396353
+#EXTINF:-1 tvg-id="hihiji" tvg-name="hihiji" tvg-logo="https://www.xn--rgv465a.top/tvlogo/hihiji.png" group-title="🐯虎牙直播",hihiji
+http://107.173.156.246:81/live/huya/24982176
+#EXTINF:-1 tvg-id="julie" tvg-name="julie" tvg-logo="https://www.xn--rgv465a.top/tvlogo/julie.png" group-title="🐯虎牙直播",julie
+http://107.173.156.246:81/live/huya/20969142
+#EXTINF:-1 tvg-id="K叔趣侃" tvg-name="K叔趣侃" tvg-logo="https://www.xn--rgv465a.top/tvlogo/K叔趣侃.png" group-title="🐯虎牙直播",K叔趣侃
+http://107.173.156.246:81/live/huya/27860114
+#EXTINF:-1 tvg-id="mai240598269" tvg-name="mai240598269" tvg-logo="https://www.xn--rgv465a.top/tvlogo/mai240598269.png" group-title="🐯虎牙直播",mai240598269
+http://107.173.156.246:81/live/huya/16339146
+#EXTINF:-1 tvg-id="Mai大叔" tvg-name="Mai大叔" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Mai大叔.png" group-title="🐯虎牙直播",Mai大叔
+http://107.173.156.246:81/live/huya/12359302
+#EXTINF:-1 tvg-id="Ml先生" tvg-name="Ml先生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Ml先生.png" group-title="🐯虎牙直播",Ml先生
+http://107.173.156.246:81/live/huya/16857690
+#EXTINF:-1 tvg-id="pop-溺溺" tvg-name="pop-溺溺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/pop-溺溺.png" group-title="🐯虎牙直播",pop-溺溺
+http://107.173.156.246:81/live/huya/13299281
+#EXTINF:-1 tvg-id="rozlyn" tvg-name="rozlyn" tvg-logo="https://www.xn--rgv465a.top/tvlogo/rozlyn.png" group-title="🐯虎牙直播",rozlyn
+http://107.173.156.246:81/live/huya/27882535
 #EXTINF:-1 tvg-id="S哥影视" tvg-name="S哥影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/S哥影视.png" group-title="🐯虎牙直播",S哥影视
-https://live.ottiptv.cc/huya/24720260
+http://107.173.156.246:81/live/huya/24720260
+#EXTINF:-1 tvg-id="SF-小小鱼" tvg-name="SF-小小鱼" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SF-小小鱼.png" group-title="🐯虎牙直播",SF-小小鱼
+http://107.173.156.246:81/live/huya/27526753
+#EXTINF:-1 tvg-id="SJ-饭宝" tvg-name="SJ-饭宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SJ-饭宝.png" group-title="🐯虎牙直播",SJ-饭宝
+http://107.173.156.246:81/live/huya/28359460
+#EXTINF:-1 tvg-id="SJ-灰灰" tvg-name="SJ-灰灰" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SJ-灰灰.png" group-title="🐯虎牙直播",SJ-灰灰
+http://107.173.156.246:81/live/huya/27773247
+#EXTINF:-1 tvg-id="SJ-流氓兔兔、" tvg-name="SJ-流氓兔兔、" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SJ-流氓兔兔、.png" group-title="🐯虎牙直播",SJ-流氓兔兔、
+http://107.173.156.246:81/live/huya/28441217
+#EXTINF:-1 tvg-id="sj-末末" tvg-name="sj-末末" tvg-logo="https://www.xn--rgv465a.top/tvlogo/sj-末末.png" group-title="🐯虎牙直播",sj-末末
+http://107.173.156.246:81/live/huya/28494878
+#EXTINF:-1 tvg-id="SJ-泡泡" tvg-name="SJ-泡泡" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SJ-泡泡.png" group-title="🐯虎牙直播",SJ-泡泡
+http://107.173.156.246:81/live/huya/27419404
+#EXTINF:-1 tvg-id="SJya月" tvg-name="SJya月" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SJya月.png" group-title="🐯虎牙直播",SJya月
+http://107.173.156.246:81/live/huya/27839243
+#EXTINF:-1 tvg-id="yd丶七七" tvg-name="yd丶七七" tvg-logo="https://www.xn--rgv465a.top/tvlogo/yd丶七七.png" group-title="🐯虎牙直播",yd丶七七
+http://107.173.156.246:81/live/huya/27927451
+#EXTINF:-1 tvg-id="yd丶小九" tvg-name="yd丶小九" tvg-logo="https://www.xn--rgv465a.top/tvlogo/yd丶小九.png" group-title="🐯虎牙直播",yd丶小九
+http://107.173.156.246:81/live/huya/27858229
+#EXTINF:-1 tvg-id="YeShi小哥" tvg-name="YeShi小哥" tvg-logo="https://www.xn--rgv465a.top/tvlogo/YeShi小哥.png" group-title="🐯虎牙直播",YeShi小哥
+http://107.173.156.246:81/live/huya/14363949
