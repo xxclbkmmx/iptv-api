@@ -33,10 +33,12 @@ https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
 
+config/huyayqk.m3u
+
 # https://iptv.yang-1989.eu.org/m3u/Gather.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
-https://bit.ly/jsnzkpg
-https://cdn.jsdelivr.net/gh/Kimentanm/aptv@refs/heads/master/m3u/yqk.m3u
+# https://bit.ly/jsnzkpg
+# https://cdn.jsdelivr.net/gh/Kimentanm/aptv@refs/heads/master/m3u/yqk.m3u
